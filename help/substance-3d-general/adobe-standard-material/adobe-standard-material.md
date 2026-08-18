@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-general/adobe-standard-material.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-general/adobe-standard-material.html"
 breadcrumb-title: ''
 description: Adobe 표준 재질 모델과 이를 Adobe 애플리케이션 간의 물리적 기반 렌더링에 사용하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

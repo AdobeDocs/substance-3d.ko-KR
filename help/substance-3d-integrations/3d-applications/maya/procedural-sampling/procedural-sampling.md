@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/procedural-sampling.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/maya/procedural-sampling.html"
 breadcrumb-title: ''
 description: Maya에서 절차 텍스처 샘플링 크기를 제어하여 Substance 재질에 대한 품질과 성능을 최적화합니다.
 helpx_creative_field: ""

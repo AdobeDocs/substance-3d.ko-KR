@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-template-usage-ue5.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-template-usage-ue5.html"
 breadcrumb-title: ''
 description: Unreal Engine 5에서 재료 템플릿을 생성하고 사용하여 Substance 출력 노드가 재료 입력에 연결되는 방법을 정의합니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/octane.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/octane.html"
 breadcrumb-title: ''
 description: 3ds Max 및 MODO에서 독립 실행형 렌더러 또는 DCC 플러그인을 사용하여 Octane으로 Substance 재질을 렌더링합니다.
 helpx_creative_field: ""

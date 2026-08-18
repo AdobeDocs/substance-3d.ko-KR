@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/tutorials.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/getting-started/tutorials.html"
 breadcrumb-title: ''
 description: 튜토리얼 및 학습 리소스에 액세스하여 Substance 베이커를 마스터하고 텍스처 베이킹 워크플로를 개선하세요.
 helpx_creative_field: ""

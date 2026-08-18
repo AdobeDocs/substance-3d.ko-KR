@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/troubleshooting.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/blender/troubleshooting.html"
 breadcrumb-title: ''
 description: 시스템 콘솔을 사용하여 Blender에서 Substance 3D 추가 기능과 관련된 일반적인 문제를 진단하고 해결합니다.
 helpx_creative_field: ""

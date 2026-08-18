@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/thickness-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/bakers-settings/thickness-map-from-mesh.html"
 breadcrumb-title: ''
 description: SSS 셰이더와 마스크에 사용하기 위해 메시 표면에서 안쪽으로 광선을 캐스팅하여 Thickness 맵을 생성합니다.
 helpx_creative_field: ""

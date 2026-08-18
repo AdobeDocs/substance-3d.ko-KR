@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/features/tangent-space.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/features/tangent-space.html"
 breadcrumb-title: ''
 description: Substance Bakers에서 접선 공간 계산을 처리하고 워크플로우에 맞는 알고리즘을 사용자 정의하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

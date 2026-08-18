@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/ambient-occlusion.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/bakers-settings/ambient-occlusion.html"
 breadcrumb-title: ''
 description: 앰비언트 오클루전 베이커를 사용하여 빠른 GPU 가속 알고리즘을 사용하여 앰비언트 그림자 텍스처를 생성하는 방법을 알아봅니다.
 helpx_creative_field: ""

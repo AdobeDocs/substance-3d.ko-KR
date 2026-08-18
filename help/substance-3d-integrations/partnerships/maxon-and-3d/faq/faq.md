@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/partnerships/maxon-and-substance-3d/faq.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/partnerships/maxon-and-substance-3d/faq.html"
 breadcrumb-title: ''
 description: Substance 3D 및 Maxon One 파트너십 및 통합과 관련하여 자주 묻는 질문에 대한 답변을 살펴보십시오.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/optimization-guidelines.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unity/optimization-guidelines.html"
 breadcrumb-title: ''
 description: 최적화 지침에 따라 Substance 재질 복잡성과 렌더링 성능의 균형을 맞출 수 있습니다.
 helpx_creative_field: ""

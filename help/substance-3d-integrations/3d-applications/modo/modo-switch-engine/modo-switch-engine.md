@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/modo-switch-engine.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/modo/modo-switch-engine.html"
 breadcrumb-title: ''
 description: MODO의 CPU 및 GPU Substance 엔진 간에 전환하여 하드웨어에 따라 성능을 최적화합니다.
 helpx_creative_field: ""

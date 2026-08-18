@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/thea.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/thea.html"
 breadcrumb-title: ''
 description: 렌더링 워크플로우에 Thea Substance 변환기를 사용하여 Substance SBSAR 파일을 Thea 재질로 변환합니다.
 helpx_creative_field: ""

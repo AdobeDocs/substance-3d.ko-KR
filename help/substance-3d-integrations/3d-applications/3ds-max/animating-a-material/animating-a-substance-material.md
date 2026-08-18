@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/animating-a-substance-material.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/3ds-max/animating-a-substance-material.html"
 breadcrumb-title: ''
 description: 동적 효과를 위해 곡선 편집기를 사용하여 시간이 지남에 따라 Substance 재질 매개 변수를 3ds 최대로 애니메이션화할 수 있습니다.
 helpx_creative_field: ""

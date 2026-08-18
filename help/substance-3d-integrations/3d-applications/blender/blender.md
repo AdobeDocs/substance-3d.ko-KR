@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/blender.html"
 breadcrumb-title: ''
 description: Blender용 Substance 3D 추가 기능을 설치하고 사용하여 3D 프로젝트에서 Substance 재질을 가져오고 작업할 수 있습니다.
 helpx_creative_field: ""

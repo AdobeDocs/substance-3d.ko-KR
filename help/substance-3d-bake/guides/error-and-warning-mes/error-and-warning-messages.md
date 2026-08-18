@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/guides/error-and-warning-messages.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/guides/error-and-warning-messages.html"
 breadcrumb-title: ''
 description: Substance 소프트웨어로 구울 때 나타날 수 있는 모든 오류 및 경고 메시지에 대한 참조 안내서.
 helpx_creative_field: ""

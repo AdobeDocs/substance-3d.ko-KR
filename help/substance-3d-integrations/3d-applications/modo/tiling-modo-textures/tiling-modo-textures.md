@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/tiling-modo-textures.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/modo/tiling-modo-textures.html"
 breadcrumb-title: ''
 description: 가로 및 세로 감싸기 설정을 지정하여 MODO에서 Substance 텍스처 타일링 속성을 조정합니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/cycles-and-eevee.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/cycles-and-eevee.html"
 breadcrumb-title: ''
 description: 내보낸 맵 또는 Substance 추가 기능을 통해 블렌더의 순환 및 이벤트 렌더러에서 Substance 재질을 사용할 수 있습니다.
 helpx_creative_field: ""

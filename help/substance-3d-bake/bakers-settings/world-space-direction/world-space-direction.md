@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/world-space-direction.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/bakers-settings/world-space-direction.html"
 breadcrumb-title: ''
 description: 월드 공간에서 벡터 방향을 계산하고 방향 효과와 마스킹을 위해 텍스처에 저장합니다.
 helpx_creative_field: ""

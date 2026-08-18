@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5.html"
 breadcrumb-title: ''
 description: 실시간 재질 편집 및 렌더링을 위해 Substance 플러그인과 함께 Unreal Engine 5의 Substance 재질을 사용합니다.
 helpx_creative_field: ""

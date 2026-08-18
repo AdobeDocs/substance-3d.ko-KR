@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers.html"
 breadcrumb-title: ''
 description: Arnold, V-Ray, Redshift 등의 주요 렌더러를 사용하여 3D 워크플로우에서 Substance 재질을 사용합니다.
 helpx_creative_field: ""

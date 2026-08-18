@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/publishing-for-mobile.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unity/publishing-for-mobile.html"
 breadcrumb-title: ''
 description: 설정 및 텍스처 해상도를 조정하여 Unity에서 모바일 플랫폼용 Substance 재질을 최적화합니다.
 helpx_creative_field: ""

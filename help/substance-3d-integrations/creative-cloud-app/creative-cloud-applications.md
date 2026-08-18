@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/creative-cloud-applications.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/creative-cloud-applications.html"
 breadcrumb-title: ''
 description: 작업 과정을 개선하려면 Photoshop 및 After Effects과 같은 Adobe Creative Cloud 응용 프로그램에서 Substance 자료를 사용합니다.
 helpx_creative_field: ""

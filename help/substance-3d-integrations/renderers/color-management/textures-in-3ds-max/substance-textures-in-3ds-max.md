@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/color-management/substance-textures-in-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/color-management/substance-textures-in-3ds-max.html"
 breadcrumb-title: ''
 description: 적절한 색상 관리를 위해 Substance 플러그인이 3ds Max의 텍스처에 대한 감마 설정을 처리하는 방법을 이해합니다.
 helpx_creative_field: ""

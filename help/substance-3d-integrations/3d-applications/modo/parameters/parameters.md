@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/parameters.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/modo/parameters.html"
 breadcrumb-title: ''
 description: MODO에서 Substance 속성 패널을 통해 Substance 재질 매개변수를 수정하여 재질을 사용자 정의합니다.
 helpx_creative_field: ""

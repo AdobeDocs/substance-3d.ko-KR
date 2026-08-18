@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/ambient-occlusion-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/bakers-settings/ambient-occlusion-from-mesh.html"
 breadcrumb-title: ''
 description: 향상된 사실감을 위해 광선 추적 기술을 사용하여 하이 폴리 메쉬에서 정확한 주변 오클루전 텍스처를 구워냅니다.
 helpx_creative_field: ""

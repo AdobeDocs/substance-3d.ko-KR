@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/common-parameters.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/bakers-settings/common-parameters.html"
 breadcrumb-title: ''
 description: 모든 베이커에 적용되는 일반적인 매개 변수와 최적의 텍스처 생성을 위해 구성하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""
@@ -35,7 +35,7 @@ ht-degree: 1%
 | **앤티 앨리어싱** | 앤티 앨리어싱을 제어하여 구운 텍스처의 품질을 향상시키고 다른 형상이 연결되는 경우 앨리어싱을 줄일 수 있습니다.앨리어싱에 대해 자세히 알아보려면 [UV 이음새에 앨리어싱](../../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md) 및 [위키피디아에 앨리어싱](https://en.wikipedia.org/wiki/Aliasing)을 참조하십시오.사용 가능한 값:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>없음</strong>(기본값)</li><li data-preserve-html="true"><strong>서브샘플링 2x2</strong></li><li data-preserve-html="true"><strong>서브샘플링 4x4</strong></li><li data-preserve-html="true"><strong>서브샘플링 8x8</strong></li></ul>  **참고:** 앤티 앨리어스를 사용하면 텍스처를 더 높은 해상도로 계산한 다음 원래 선택한 크기로 다시 다운스케일링하여 앤티 앨리어스를 적용할 수 있으므로 굽는 시간이 상당히 늘어날 수 있습니다. 즉, 2x2 서브샘플링을 사용하는 2K 텍스처가 실제로 4K 텍스처를 계산합니다.때로는 서브샘플링을 증가시키기보다는 베이커에서 광선의 수를 증가시키는 것이 바람직하다. 너무 오래 기다리지 않고도 더 나은 결과를 얻을 수 있었다. |
 | **UV 설정** | 구운 텍스처를 계산하기 위해 낮은 폴리 메쉬에서 어떤 UV가 사용될지 제어합니다.*Substance Painter에서 사용할 수 없습니다.* |
 |  |  |
-| **확장(px)** | 제공된 픽셀의 양만큼 UV의 픽셀을 바깥 또는 그 테두리로 확장/확장합니다. 이 작업을 사용하면 이러한 테두리가 텍스처 픽셀과 완벽하게 정렬되지 않았거나 텍스처 해상도가 감소된 경우(예: 밉맵)에는 UV 테두리에서 이음새가 생기지 않도록 할 수 있습니다. 베이킹 공정 이후에 적용되는 후공정입니다. 이것은 때때로 &quot;패딩&quot;이라고도 불릴 수 있습니다.확장에 대한 자세한 내용은 [UV 솔기의 앨리어싱](../../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md) 및 [패딩](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/padding-134643719.html)을 참조하세요. |
+| **확장(px)** | 제공된 픽셀의 양만큼 UV의 픽셀을 바깥 또는 그 테두리로 확장/확장합니다. 이 작업을 사용하면 이러한 테두리가 텍스처 픽셀과 완벽하게 정렬되지 않았거나 텍스처 해상도가 감소된 경우(예: 밉맵)에는 UV 테두리에서 이음새가 생기지 않도록 할 수 있습니다. 베이킹 공정 이후에 적용되는 후공정입니다. 이것은 때때로 &quot;패딩&quot;이라고도 불릴 수 있습니다.확장에 대한 자세한 내용은 [UV 솔기의 앨리어싱](../../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md) 및 [패딩](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/spdoc/padding-134643719.html)을 참조하세요. |
 | **확산 적용** | 활성화되면 UV 테두리를 기반으로 UV 외부가 매끄러운 그레이디언트 색상으로 채워집니다. 이 프로세스를 통해 텍스처 크기를 줄이면 안정적으로 유지되고 과도하게 표시되는 이음새(예: 밉맵)를 만들지 않습니다. 베이킹 공정 이후에 적용되는 후공정입니다. |
 | **평균 표준** | 활성화된 경우 는 베이킹의 메쉬 일치 프로세스 중에 어느 방향으로 광선을 보낼지 알 수 있는 정점의 평균 법선을 계산합니다. 비활성화된 경우 광선은 메쉬의 원래 정점 표준을 따릅니다. |
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-general/ecosystem/susbtance-3d-app-icons.html'
+helpx_url: 'https://helpx.adobe.com/kr/substance-3d-general/ecosystem/susbtance-3d-app-icons.html'
 breadcrumb-title: ''
 description: 게시된 아트워크 및 크리에이티브 프로젝트에 사용할 공식 Substance 3D 애플리케이션 아이콘을 다양한 형식으로 다운로드할 수 있습니다.
 helpx_creative_field: ''

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/world-space-normals.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/bakers-settings/world-space-normals.html"
 breadcrumb-title: ''
 description: 고급 워크플로우에 사용할 월드 공간 좌표를 사용하여 메시 표준, 접선 및 바이너럴을 텍스처에 저장합니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/software-interface/substance-3d-painter.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/getting-started/software-interface/substance-3d-painter.html"
 breadcrumb-title: ''
 description: Substance 3D Painter에서 베이킹 윈도우에 액세스하여 텍스처에 대한 메시 맵을 생성하는 방법을 알아봅니다.
 helpx_creative_field: ""

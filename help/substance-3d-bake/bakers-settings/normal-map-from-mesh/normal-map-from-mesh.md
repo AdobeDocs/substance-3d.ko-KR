@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/normal-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/bakers-settings/normal-map-from-mesh.html"
 breadcrumb-title: ''
 description: 메시 베이커의 표준 맵을 사용하여 높은 폴리 메시에서 탄젠트 공간 또는 세계 공간 표준 맵을 만듭니다.
 helpx_creative_field: ""

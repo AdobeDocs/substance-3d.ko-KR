@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/installation.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/maya/installation.html"
 breadcrumb-title: ''
 description: 공식 설치 관리자를 사용하거나 Maya의 Substance 관리자를 통해 Maya용 플러그인 을 설치합니다.
 helpx_creative_field: ""

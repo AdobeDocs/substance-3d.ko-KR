@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/height-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/bakers-settings/height-map-from-mesh.html"
 breadcrumb-title: ''
 description: 높은 폴리 메시에서 Height 맵을 생성하여 텍스처링에 대한 서피스 세부 정보 및 형상 정보를 캡처합니다.
 helpx_creative_field: ""

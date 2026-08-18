@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-general/adobe-standard-material/metal-material-references.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-general/adobe-standard-material/metal-material-references.html"
 breadcrumb-title: ''
 description: 정확한 색상 값과 데이터 테이블을 사용하여 Adobe Standard 재질 모델을 사용하여 실제 금속 재질을 시뮬레이션합니다.
 helpx_creative_field: ""

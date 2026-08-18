@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/arnold-support.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/maya/arnold-support.html"
 breadcrumb-title: ''
 description: 매끄러운 렌더링 워크플로우를 위해 Substance 출력을 Maya의 Arnold 셰이더에 직접 연결합니다.
 helpx_creative_field: ""

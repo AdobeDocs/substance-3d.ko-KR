@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/color-management.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/color-management.html"
 breadcrumb-title: ''
 description: 다른 렌더러에서 Substance 재질을 사용할 때 색상 관리 및 감마 교정에 대해 이해합니다.
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ ht-degree: 1%
 
 ## 색상 관리
 
-이 문서의 목적은 [3D 소프트웨어](https://www.adobe.com/products/substance3d/3d-augmented-reality.html) 및 렌더러의 **Substance Painter** 및 **Substance Designer**&#x200B;에서 내보낸 텍스처로 작업하는 프로세스를 자세히 설명하는 것입니다.
+이 문서의 목적은 [3D 소프트웨어](https://www.adobe.com/kr/products/substance3d/3d-augmented-reality.html) 및 렌더러의 **Substance Painter** 및 **Substance Designer**&#x200B;에서 내보낸 텍스처로 작업하는 프로세스를 자세히 설명하는 것입니다.
 
 재료 채널에 대한 입력으로 사용되는 이미지를 해석하는 올바른 방법은 이미지가 장면에서 사용되는 방식에 따라 다릅니다. 색상 공간, 인코딩 및 색상 값이 **장면 참조 광도** 또는 **표시 참조 광도**&#x200B;에 비례하는지 여부도 중요한 역할을 합니다.
 

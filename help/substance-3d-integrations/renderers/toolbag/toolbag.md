@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/toolbag.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/toolbag.html"
 breadcrumb-title: ''
 description: 실시간 질감 미리 보기 및 렌더링을 위해 Toolbag 2에 Substance 거칠음 및 금속성 출력을 사용합니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/substance-output-node.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/maya/substance-output-node.html"
 breadcrumb-title: ''
 description: Maya에서 Substance 출력 노드가 계산된 텍스처를 셰이더 네트워크에 연결하는 방법을 이해합니다.
 helpx_creative_field: ""

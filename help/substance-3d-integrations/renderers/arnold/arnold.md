@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/arnold.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/arnold.html"
 breadcrumb-title: ''
 description: Maya 및 3ds Max의 Arnold 렌더러에서는 Substance 재질을 사용할 수 있으며 금속성 워크플로우 출력 지원도 사용할 수 있습니다.
 helpx_creative_field: ""
@@ -28,6 +28,6 @@ ht-degree: 3%
 
 ## 목차
 
-* [Arnold - 3ds Max Substance](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/arnold-5-for-3ds-max-157352315.html)
-* [아놀드 - 마야의 Substance](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/arnold-5-for-maya-157352171.html)
+* [Arnold - 3ds Max Substance](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/integrations/arnold-5-for-3ds-max-157352315.html)
+* [아놀드 - 마야의 Substance](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/integrations/arnold-5-for-maya-157352171.html)
 * [아놀드 - Substance Painter](../../renderers/arnold/arnold-painter/arnold-substance-painter.md)

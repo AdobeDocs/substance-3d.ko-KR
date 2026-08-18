@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maxwell/maxwell-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/maxwell/maxwell-substance-painter.html"
 breadcrumb-title: ''
 description: 적절한 Substance Painter 및 질감 설정을 사용하여 Maxwell 렌더러용 출력 템플릿 질감을 내보냅니다.
 helpx_creative_field: ""

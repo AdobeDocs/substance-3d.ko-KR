@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/compatible-3d-software.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/getting-started/compatible-3d-software.html"
 breadcrumb-title: ''
 description: Substance Baker와 호환되는 3D 소프트웨어를 알아보고 최적의 베이킹 결과를 위해 메시를 준비하는 방법을 알아봅니다.
 helpx_creative_field: ""

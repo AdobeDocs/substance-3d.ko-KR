@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/working-with-normals.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/modo/working-with-normals.html"
 breadcrumb-title: ''
 description: Substance 재질을 사용한 올바른 표준 맵 렌더링을 보장하기 위해 MODO에서 표준 맵 방향 설정을 구성합니다.
 helpx_creative_field: ""

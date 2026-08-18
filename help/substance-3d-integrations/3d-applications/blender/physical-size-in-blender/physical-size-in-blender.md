@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/physical-size-in-blender.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/blender/physical-size-in-blender.html"
 breadcrumb-title: ''
 description: 물리적 크기 설정을 사용하여 Blender의 실제 치수를 기반으로 Substance 재질의 비율을 조정합니다.
 helpx_creative_field: ""

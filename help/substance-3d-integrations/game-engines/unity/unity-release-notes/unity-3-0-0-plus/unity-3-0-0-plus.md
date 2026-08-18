@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-3-0-0-plus.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-3-0-0-plus.html"
 breadcrumb-title: ''
 description: Unity 플러그인 버전 3.0.0 이상의 릴리스 노트를 검토하여 새로운 기능 및 개선 사항에 대해 알아보십시오.
 helpx_creative_field: ""

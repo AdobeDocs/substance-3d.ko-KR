@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/managing-substance-graphs.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unity/managing-substance-graphs.html"
 breadcrumb-title: ''
 description: 효율적인 워크플로우를 위해 Unity 프로젝트에서 Substance 그래프를 가져오고, 구성하고, 관리하는 방법을 알아봅니다.
 helpx_creative_field: ""

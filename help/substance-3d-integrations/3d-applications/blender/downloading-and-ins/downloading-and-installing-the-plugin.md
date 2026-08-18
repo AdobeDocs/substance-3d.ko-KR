@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/downloading-and-installing-the-plugin.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/blender/downloading-and-installing-the-plugin.html"
 breadcrumb-title: ''
 description: 공식 웹 사이트 또는 Blender의 추가 기능 관리자에서 Blender용 Substance 3D 추가 기능을 다운로드하여 설치합니다.
 helpx_creative_field: ""

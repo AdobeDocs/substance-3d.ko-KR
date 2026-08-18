@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/working-with-outputs.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/maya/working-with-outputs.html"
 breadcrumb-title: ''
 description: Maya에서 Substance 질감 출력을 활성화 및 비활성화하여 어떤 텍스처가 계산되고 사용되는지 제어합니다.
 helpx_creative_field: ""

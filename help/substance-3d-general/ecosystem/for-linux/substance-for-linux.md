@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-general/ecosystem/substance-for-linux.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-general/ecosystem/substance-for-linux.html"
 breadcrumb-title: ''
 description: Adobe 다운로드 액세스 포털을 사용하여 Linux에서 Substance 3D 애플리케이션을 다운로드, 설치 및 활성화하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

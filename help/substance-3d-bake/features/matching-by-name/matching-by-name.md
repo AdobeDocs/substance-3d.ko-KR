@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-bake/features/matching-by-name.html'
+helpx_url: 'https://helpx.adobe.com/kr/substance-3d-bake/features/matching-by-name.html'
 breadcrumb-title: ''
 description: 이름별 일치 기능을 사용하여 낮은 폴리 및 높은 폴리 메쉬를 분리하고 베이킹 중에 형상 출혈을 방지합니다.
 helpx_creative_field: ''

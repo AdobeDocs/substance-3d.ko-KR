@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d/using-the-substance-plugin.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/cinema-4d/using-the-substance-plugin.html"
 breadcrumb-title: ''
 description: Cinema 4D에서 Substance 플러그인을 사용하여 재질을 가져오고 Substance 에셋을 관리하는 방법을 알아봅니다.
 helpx_creative_field: ""

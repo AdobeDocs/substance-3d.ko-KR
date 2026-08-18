@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/the-substance-3d-panel.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/blender/the-substance-3d-panel.html"
 breadcrumb-title: ''
 description: Blender에서 Substance 3D 패널을 사용하여 재질, 매개 변수 및 출력을 관리하는 방법을 알아봅니다.
 helpx_creative_field: ""

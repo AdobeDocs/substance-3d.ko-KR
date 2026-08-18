@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/bent-normals-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/bakers-settings/bent-normals-from-mesh.html"
 breadcrumb-title: ''
 description: 높은 폴리 메시에서 주변 조명의 평균 방향을 설명하는 구부러진 수직 텍스처를 계산합니다.
 helpx_creative_field: ""

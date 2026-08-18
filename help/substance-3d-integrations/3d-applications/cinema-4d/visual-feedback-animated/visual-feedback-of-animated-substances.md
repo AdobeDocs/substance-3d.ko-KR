@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d/visual-feedback-of-animated-substances.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/cinema-4d/visual-feedback-of-animated-substances.html"
 breadcrumb-title: ''
 description: Cinema 4D에서 애니메이션 미리 보기를 활성화하여 뷰포트에서 애니메이션 Substance 재질에 대한 시각적 피드백을 확인할 수 있습니다.
 helpx_creative_field: ""

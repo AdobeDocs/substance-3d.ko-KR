@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/convert-uv-to-svg.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/bakers-settings/convert-uv-to-svg.html"
 breadcrumb-title: ''
 description: 메쉬 UV를 벡터 그래픽 파일로 변환하여 정밀한 마스크와 오버레이를 만들 수 있습니다.
 helpx_creative_field: ""

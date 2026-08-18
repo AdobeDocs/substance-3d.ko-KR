@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/baking-failed-with-color-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/common-issues/baking-failed-with-color-map-from-mesh.html"
 breadcrumb-title: ''
 description: 메쉬 색상 속성과 UV 매핑을 확인하여 메쉬 베이킹 오류의 색상 맵 문제를 해결합니다.
 helpx_creative_field: ""

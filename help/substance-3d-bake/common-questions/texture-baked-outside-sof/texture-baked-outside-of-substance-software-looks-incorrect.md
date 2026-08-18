@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/texture-baked-outside-of-substance-software-looks-incorrect.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/common-questions/texture-baked-outside-of-substance-software-looks-incorrect.html"
 breadcrumb-title: ''
 description: Substance 소프트웨어 외부에서 구워진 텍스처가 잘못 표시되는 이유를 해결하고 색상 공간 문제를 해결하는 방법을 알아봅니다.
 helpx_creative_field: ""
