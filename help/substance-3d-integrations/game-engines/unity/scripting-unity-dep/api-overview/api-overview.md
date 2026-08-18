@@ -29,7 +29,7 @@ Using Substance.Game
 
 Substance.Game은 스크립팅에 사용되는 클래스가 포함된 어셈블리입니다. 이러한 클래스는 다음과 같습니다.
 
-**Substance.Game.****Substance**: sbsar 참조
+**Substance.Game.**&#x200B;**Substance**: sbsar 참조
 
 **Substance.Game.SubstanceGraph**: sbsar의 개별 그래프&#x200B;*(Unity 2017에서 ProceduralMaterial로 사용됨)*
 

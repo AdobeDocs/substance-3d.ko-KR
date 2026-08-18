@@ -25,7 +25,7 @@ Maxwell 5.1.0**은 Substance Painter과 통합되어 텍스처를 쉽게 가져�
 
 ## 텍스처 내보내기
 
-[Maxwell](금속 거칠음) 또는 [Maxwell](Specular 광택) 출력 템플릿을 선택하여 Maxwell에서 렌더링할 텍스처를 내보낼 수 있습니다.
+[Maxwell] (금속 거칠음) 또는 [Maxwell] (Specular 광택) 출력 템플릿을 선택하여 Maxwell에서 렌더링할 텍스처를 내보낼 수 있습니다.
 
 ![](../../../assets/maxwell-output.png){width="500px"}
 

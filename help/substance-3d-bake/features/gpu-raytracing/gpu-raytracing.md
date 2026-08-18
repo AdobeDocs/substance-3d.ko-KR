@@ -60,24 +60,24 @@ Substance 3D 제빵사 버전에 따라, 아래 표에는 모든 제빵사에 �
 
 | 베이커 | GPU 광선 추적 지원 |
 | --- | --- |
-| 주변 폐색 | <div><img alt="(틱)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| 노멀 구부리기 | <div><img alt="(틱)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| 색상 | <div><img alt="(틱)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| 곡선 | <div><img alt="(틱)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| 높이 | <div><img alt="(틱)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| 표준 | <div><img alt="(틱)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| 노멀 월드 공간 | <div><img alt="(오류)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
+| 주변 폐색 | <div><img alt="(틱)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| 노멀 구부리기 | <div><img alt="(틱)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| 색상 | <div><img alt="(틱)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| 곡선 | <div><img alt="(틱)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| 높이 | <div><img alt="(틱)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| 표준 | <div><img alt="(틱)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| 노멀 월드 공간 | <div><img alt="(오류)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
 
 
 
 | 베이커 | GPU 광선 추적 지원 |
 | --- | --- |
-| 불투명 마스크 | <div><img alt="(틱)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| 위치 | <div><img alt="(틱)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| 낮은 위치 | <div><img alt="(오류)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
-| 두께 | <div><img alt="(틱)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| 전송된 텍스처 | <div><img alt="(틱)" data-preserve-html="true" src="../../assets/check.svg"/></div> |
-| 월드에서 탄젠트로 | <div><img alt="(오류)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
+| 불투명 마스크 | <div><img alt="(틱)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| 위치 | <div><img alt="(틱)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| 낮은 위치 | <div><img alt="(오류)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| 두께 | <div><img alt="(틱)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| 전송된 텍스처 | <div><img alt="(틱)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> |
+| 월드에서 탄젠트로 | <div><img alt="(오류)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
 
 
 +++
@@ -86,26 +86,26 @@ Substance 3D 제빵사 버전에 따라, 아래 표에는 모든 제빵사에 �
 
 | 베이커 | GPU 광선 추적 지원 |
 | --- | --- |
-| 주변 폐색 | <div><img alt="(오류)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
-| 메시 기준 앰비언트 오클루전 | <div><img alt="(틱)" data-preserve-html="true" src="../../assets/check.svg"/></div> \* |
-| 메시 기준 벤트 노멀 | <div><img alt="(틱)" data-preserve-html="true" src="../../assets/check.svg"/></div> \* |
-| 메시 기준 색상 | <div><img alt="(오류)" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
-| UV를 SVG로 전환 | <div><img alt="(오류)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
-| 메시 기준 곡률 | <div><img alt="(틱)" data-preserve-html="true" src="../../assets/check.svg"/></div> \* |
-| 메시 기준 높이 | <div><img alt="(오류)" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
-| 메시 기준 노멀 | <div><img alt="(오류)" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
+| 주변 폐색 | <div><img alt="(오류)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| 메시 기준 앰비언트 오클루전 | <div><img alt="(틱)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
+| 메시 기준 벤트 노멀 | <div><img alt="(틱)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
+| 메시 기준 색상 | <div><img alt="(오류)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| UV를 SVG로 전환 | <div><img alt="(오류)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| 메시 기준 곡률 | <div><img alt="(틱)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
+| 메시 기준 높이 | <div><img alt="(오류)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| 메시 기준 노멀 | <div><img alt="(오류)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
 
 
 
 | 베이커 | GPU 광선 추적 지원 |
 | --- | --- |
-| 메쉬의 불투명 마스크 | <div><img alt="(오류)" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
-| 메시 기준 위치 | <div><img alt="(오류)" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
-| 위치 | <div><img alt="(오류)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
-| 메시 기준 두께 | <div><img alt="(틱)" data-preserve-html="true" src="../../assets/check.svg"/></div> \* |
-| 메쉬에서 텍스처 전송 | <div><img alt="(오류)" data-preserve-html="true" src="../../assets/error.svg"/></div> \* |
-| 세계 우주 방향 | <div><img alt="(오류)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
-| 세계 우주 표준 | <div><img alt="(오류)" data-preserve-html="true" src="../../assets/error.svg"/></div> |
+| 메쉬의 불투명 마스크 | <div><img alt="(오류)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| 메시 기준 위치 | <div><img alt="(오류)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| 위치 | <div><img alt="(오류)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| 메시 기준 두께 | <div><img alt="(틱)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
+| 메쉬에서 텍스처 전송 | <div><img alt="(오류)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| 세계 우주 방향 | <div><img alt="(오류)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
+| 세계 우주 표준 | <div><img alt="(오류)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
 
 
 \*: CPU 광선 추적을 지원하며, 이 속도는 GPU 광선 추적 속도보다 훨씬 느립니다.
