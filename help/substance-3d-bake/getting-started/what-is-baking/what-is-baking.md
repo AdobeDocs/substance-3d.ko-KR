@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/getting-started/what-is-baking.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/what-is-baking.html"
 breadcrumb-title: ''
 description: 베이킹이 무엇인지 알아보고 3D 메시 정보를 텍스처 파일에 저장하여 Substance 재질을 향상시키는 방법을 알아보십시오.
 helpx_creative_field: ""
@@ -10,7 +10,7 @@ helpx_tags: ""
 title: '베이킹이란 무엇입니까 '
 user-guide-description: ''
 user-guide-title: ''
-source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
+source-git-commit: 4ba3396472c767b16a67daa489105093a6a20871
 workflow-type: tm+mt
 source-wordcount: '486'
 ht-degree: 0%
@@ -22,9 +22,9 @@ ht-degree: 0%
 
 ![](https://upload.wikimedia.org/wikipedia/commons/3/36/Normal_map_example.png)
 
-&#x200B;>> 
+>> 
 
-(크레딧: [Paolo Cignoni](https://commons.wikimedia.org/wiki/File:Normal_map_example.png) - [CC BY-SA 1.0](https://creativecommons.org/licenses/by-sa/1.0)
+(크레딧: [Paolo Cignoni](https://commons.wikimedia.org/wiki/File:Normal_map_example.png) - [CC BY-SA 1.0](https://creativecommons.org/licenses/by-sa/1.0))
 
 굽기는 **3D 메시**&#x200B;와 관련된 **정보를**&#x200B;텍스처&#x200B;**파일([비트맵](https://en.wikipedia.org/wiki/Raster_graphics))에 저장**&#x200B;하는 프로세스 이름입니다. 대부분의 경우 이 프로세스에는 다른 메시가 포함됩니다. 이 경우, 제1 메쉬의 정보는 제2 메쉬 UV로 전달된 후 텍스처로 저장된다.
 
