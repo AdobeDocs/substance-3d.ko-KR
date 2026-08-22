@@ -20,7 +20,7 @@ ht-degree: 3%
 
 # 아놀드 - Substance Painter
 
-Substance Painter 2020.1(6.1.0)은 [aiStandard 재질](https://docs.arnoldrenderer.com/display/A5AFMUG/Standard+Surface)을 사용하여 아놀드용 [출력 템플릿](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/getting-started/export/output-templates/export-presets)와 함께 제공됩니다.
+Substance Painter 2020.1(6.1.0)은 [aiStandard 재질](https://docs.arnoldrenderer.com/display/A5AFMUG/Standard+Surface)을 사용하여 아놀드용 [출력 템플릿](https://experienceleague.adobe.com/ko/docs/substance-3d-painter/using/getting-started/export/output-templates/export-presets)와 함께 제공됩니다.
 
 ![](../../../assets/arnold-export.png){width="800px"}
 

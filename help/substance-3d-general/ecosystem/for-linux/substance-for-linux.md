@@ -75,6 +75,6 @@ Enterprise 계약을 통해 Linux®용 Substance 3D을 구입하면 해당 제�
 1. 공유 마운트 네트워크에 압축 해제된 라이선스 키 파일을 배치합니다.
 1. 사용자 컴퓨터에서 다음 페이지에 설명된 대로 라이선스 키 파일을 가리키는 환경 변수를 설정합니다.
 
-   * Substance 3D Painter - <https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/pipeline-and-integration/configuration/environment-variables>
-   * Substance 3D Designer - <https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/pipeline-and-project-configuration/environment-variables>
-   * Substance 3D Sampler - <https://experienceleague.adobe.com/en/docs/substance-3d-sampler/using/pipeline-and-integrations/environment-variables>
+   * Substance 3D Painter - <https://experienceleague.adobe.com/ko/docs/substance-3d-painter/using/pipeline-and-integration/configuration/environment-variables>
+   * Substance 3D Designer - <https://experienceleague.adobe.com/ko/docs/substance-3d-designer/using/pipeline-and-project-configuration/environment-variables>
+   * Substance 3D Sampler - <https://experienceleague.adobe.com/ko/docs/substance-3d-sampler/using/pipeline-and-integrations/environment-variables>

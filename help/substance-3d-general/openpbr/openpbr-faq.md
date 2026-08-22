@@ -15,7 +15,7 @@ ht-degree: 0%
 
 +++OpenPBR란 무엇이며 Painter은 어떤 버전을 지원합니까?
 
-OpenPBR은 Academy Software Foundation에서 주최하는 개방형 재질 사양으로, 응용 프로그램 간에 일관되게 작동하도록 설계된 표준화된 음영 모델을 정의합니다. [Painter 설명서에 OpenPBR 사용에 대한 자세한 정보가 있습니다](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/home).
+OpenPBR은 Academy Software Foundation에서 주최하는 개방형 재질 사양으로, 응용 프로그램 간에 일관되게 작동하도록 설계된 표준화된 음영 모델을 정의합니다. [Painter 설명서에 OpenPBR 사용에 대한 자세한 정보가 있습니다](https://experienceleague.adobe.com/ko/docs/substance-3d-painter/using/home).
 
 +++
 

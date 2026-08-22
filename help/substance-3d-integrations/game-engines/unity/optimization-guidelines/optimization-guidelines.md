@@ -35,6 +35,6 @@ Substance 재질이 복잡할수록 이를 렌더링하는 데 더 많은 처리
 >   
 > Substance CPU 엔진은 4K에서 계산할 수 있지만 속도가 매우 느리고 통합이 중단되거나 충돌할 수 있습니다.
 
-다음 예제에서는 [타일 Sampler](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/nodes-reference-for-substance-graphs/node-library/texture-generators/patterns/tile-sampler) 노드의 출력 크기를 [절대](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/output-size) 4096으로 설정합니다. 최종 2048년 출력 해상도에 대해 하향 스케일링되기 전에 다운스트림으로 여러 노드가 4K에서 계산되도록 합니다.
+다음 예제에서는 [타일 Sampler](https://experienceleague.adobe.com/ko/docs/substance-3d-designer/using/substance-graphs/nodes-reference-for-substance-graphs/node-library/texture-generators/patterns/tile-sampler) 노드의 출력 크기를 [절대](https://experienceleague.adobe.com/ko/docs/substance-3d-designer/using/substance-graphs/output-size) 4096으로 설정합니다. 최종 2048년 출력 해상도에 대해 하향 스케일링되기 전에 다운스트림으로 여러 노드가 4K에서 계산되도록 합니다.
 
 ![](../../../assets/absolute.png){width="1000px"}

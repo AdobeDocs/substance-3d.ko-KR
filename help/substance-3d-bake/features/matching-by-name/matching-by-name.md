@@ -91,7 +91,7 @@ ht-degree: 0%
 기본 접미어는 \_low 및 \_high 이며 다음과 같은 방법으로 변경할 수 있습니다.
 
 * **Substance Painter**: [굽기 창](../../getting-started/software-interface/3d-painter/substance-3d-painter.md)에서 공통 매개 변수 내에 있습니다.
-* **Substance Designer**: [프로젝트 설정](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/preferences/project-settings)의 굽기 설정 아래에 있습니다.
+* **Substance Designer**: [프로젝트 설정](https://experienceleague.adobe.com/ko/docs/substance-3d-designer/using/workspace/preferences/project-settings)의 굽기 설정 아래에 있습니다.
 
 ## zBrush의 높은-폴리 메시
 

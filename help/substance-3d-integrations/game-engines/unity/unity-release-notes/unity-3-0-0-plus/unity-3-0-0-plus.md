@@ -63,7 +63,7 @@ ht-degree: 0%
 
 * 플러그인의 C++ 코드에서 메모리 누수 문제를 해결하여 개체를 폐기할 때 완벽한 메모리 복구를 보장합니다.
 * Linux에서 Unity 플러그인 패키지를 가져올 때 &#39;SubstanceException: API에 잘못된 인수가 제공됨&#39; 오류가 발생하는 문제를 수정하여 이제 SBSAR 파일을 성공적으로 가져올 수 있습니다.
-* Unity에서 사용자 정의 편집기 창 스크립트를 사용하여 사전 설정을 로드할 때 SubstanceGraphSO.CurrentStatePreset이 올바르게 작동하지 않던 문제가 해결되었습니다. 이제 Substance 설명서(HelpX) 페이지에서 수정 스크립트를 사용할 수 있습니다. https://experienceleague.adobe.com/en/docs/substance-3d/ecosystem/game-engines/unity/substance-3d-for-unity-scripting/substance-3d-for-unity-scripting
+* Unity에서 사용자 정의 편집기 창 스크립트를 사용하여 사전 설정을 로드할 때 SubstanceGraphSO.CurrentStatePreset이 올바르게 작동하지 않던 문제가 해결되었습니다. 이제 Substance 설명서(HelpX) 페이지에서 수정 스크립트를 사용할 수 있습니다. https://experienceleague.adobe.com/ko/docs/substance-3d/ecosystem/game-engines/unity/substance-3d-for-unity-scripting/substance-3d-for-unity-scripting
 * 유니티 편집기에서 다시 선택할 때 그래프 속성이 사라지는 버그가 수정되었습니다.
 * Unity 플러그인에서 SubstanceGraphSO와 관련된 &#39;알 수 없는 관리 유형 참조&#39; 문제를 해결하여 특히 Unity 2022.1 및 모든 Unity 버전에서 Android 플랫폼의 호환성과 기능을 개선했습니다.
 * DirectX 및 OpenGL 옵션이 있는 예상 드롭다운 목록이 아닌 TECHNICAL PARAMETERS 섹션의 &#39;NORMAL FORMAT&#39; 선택 항목이 숫자 입력 필드로 잘못 표시되는 문제를 수정했습니다.
