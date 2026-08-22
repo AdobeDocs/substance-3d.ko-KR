@@ -66,7 +66,7 @@ Substance Designer에 노출된 매개 변수는 Substance 매개 변수 컨트�
 
 출력 텍스처의 파일 형식은 드롭다운을 통해 전환하고 변경할 수 있습니다.
 
-자세한 내용은 Designer 문서 페이지에서 [매개 변수 노출](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter)을 참조하세요.
+자세한 내용은 Designer 문서 페이지에서 [매개 변수 노출](https://experienceleague.adobe.com/ko/docs/substance-3d-designer/using/substance-graphs/manage-parameters/exposing-a-parameter)을 참조하세요.
 
 ## 기술 매개 변수
 

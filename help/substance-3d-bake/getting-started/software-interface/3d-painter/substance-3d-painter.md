@@ -22,7 +22,7 @@ ht-degree: 2%
 
 ![](../../../assets/sp-baking-button-access.png)
 
-[텍스처 설정](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings)을 통해 베이킹 창에 액세스할 수 있습니다. &quot;**메시 맵 굽기**&quot; 버튼을 클릭하여 현재 프로젝트의 굽기 창을 엽니다.
+[텍스처 설정](https://experienceleague.adobe.com/ko/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings)을 통해 베이킹 창에 액세스할 수 있습니다. &quot;**메시 맵 굽기**&quot; 버튼을 클릭하여 현재 프로젝트의 굽기 창을 엽니다.
 
 ## 개요
 

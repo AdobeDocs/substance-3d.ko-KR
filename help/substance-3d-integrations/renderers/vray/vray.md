@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Vray로 렌더링하는 경우 [Maya](https://www.substance3d.com/ecosystem-plug-ins/substance-in-maya/) 또는 [3ds Max](https://www.substance3d.com/ecosystem-plug-ins/substance-in-3ds-max/)의 Substance Painter 또는 Substance 플러그인에서 내보낸 맵을 사용할 수 있습니다.
 
-Substance Painter 2020.1(6.1.0)은 금속 및 Specular 워크플로 모두를 위해 VrayMtl 셰이더와 함께 제공되며 Vray Next [출력 템플릿](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/getting-started/export/export)을 통해 Vray를 지원합니다.
+Substance Painter 2020.1(6.1.0)은 금속 및 Specular 워크플로 모두를 위해 VrayMtl 셰이더와 함께 제공되며 Vray Next [출력 템플릿](https://experienceleague.adobe.com/ko/docs/substance-3d-painter/using/getting-started/export/export)을 통해 Vray를 지원합니다.
 
 ## 목차
 

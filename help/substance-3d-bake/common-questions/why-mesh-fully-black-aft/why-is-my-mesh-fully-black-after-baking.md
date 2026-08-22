@@ -39,4 +39,4 @@ ht-degree: 0%
 > 두 가지 가능한 해결 방법이 있습니다.
 > 
 > * 검정색 텍스처가 표시되지 않도록 베이킹 설정을 수정합니다. [베이커 출력이 완전히 검정색이거나 비어 있습니다](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html) 참조
-> * [텍스처 설정](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings)에서 검은색 텍스처를 제거합니다.
+> * [텍스처 설정](https://experienceleague.adobe.com/ko/docs/substance-3d-painter/using/interface/texture-set/texture-set-settings)에서 검은색 텍스처를 제거합니다.

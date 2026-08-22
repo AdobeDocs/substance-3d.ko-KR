@@ -33,6 +33,6 @@ ht-degree: 0%
 > 다음과 같은 여러 가지 요인으로 인해 문제가 발생할 수 있으므로 이 문제에 대한 즉각적인 해결 방법은 없습니다 .
 > 
 > * Substance 소프트웨어와 외부 응용 프로그램 간의 일반 형식이 동일한지 확인합니다. OpenGL은 [X+, Y+, Z+]이고 DirectX은 [X+, Y-, Z+]입니다.
->   * Substance Painter에서 일반 형식은 [프로젝트 구성](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/project-configuration)에서 변경할 수 있습니다.
->   * Substance Designer에서 일반 형식은 [프로젝트 환경 설정](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/preferences/project-settings)에서 변경할 수 있습니다.
+>   * Substance Painter에서 일반 형식은 [프로젝트 구성](https://experienceleague.adobe.com/ko/docs/substance-3d-painter/using/interface/project-configuration)에서 변경할 수 있습니다.
+>   * Substance Designer에서 일반 형식은 [프로젝트 환경 설정](https://experienceleague.adobe.com/ko/docs/substance-3d-designer/using/workspace/preferences/project-settings)에서 변경할 수 있습니다.
 > * Substance 소프트웨어에서 메쉬를 구워 가져오기 전에 메쉬가 삼각측정되었는지 확인합니다. 자세한 내용은 [이 페이지](../../guides/triangulating-before-bak/triangulating-before-baking.md)를 참조하세요.

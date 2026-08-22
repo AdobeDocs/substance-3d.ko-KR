@@ -79,23 +79,23 @@ ht-degree: 2%
 <tr style="border: 0;">
 <td style="border: 0;" valign="top">
 
-[![Substance 3D Sampler 아이콘](../../assets/sa-appicon-noshadow-256.png){width="64px"}](https://experienceleague.adobe.com/en/docs/substance-3d-sampler/using/getting-started/system-requirements)
+[![Substance 3D Sampler 아이콘](../../assets/sa-appicon-noshadow-256.png){width="64px"}](https://experienceleague.adobe.com/ko/docs/substance-3d-sampler/using/getting-started/system-requirements)
 
-[Substance 3D Sampler](https://experienceleague.adobe.com/en/docs/substance-3d-sampler/using/getting-started/system-requirements)
-
-</td>
-<td style="border: 0;" valign="top">
-
-[![Substance 3D Designer 아이콘](../../assets/ds-appicon-noshadow-256.png){width="64px"}](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/getting-started/system-requirements)
-
-[Substance 3D](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/getting-started/system-requirements) [Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/getting-started/system-requirements)
+[Substance 3D Sampler](https://experienceleague.adobe.com/ko/docs/substance-3d-sampler/using/getting-started/system-requirements)
 
 </td>
 <td style="border: 0;" valign="top">
 
-[![Substance 3D Painter 아이콘](../../assets/pt-appicon-noshadow-256.png){width="64px"}](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/getting-started/system-requirements)
+[![Substance 3D Designer 아이콘](../../assets/ds-appicon-noshadow-256.png){width="64px"}](https://experienceleague.adobe.com/ko/docs/substance-3d-designer/using/getting-started/system-requirements)
 
-[Substance 3D Painter](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/getting-started/system-requirements)
+[Substance 3D](https://experienceleague.adobe.com/ko/docs/substance-3d-designer/using/getting-started/system-requirements) [Designer](https://experienceleague.adobe.com/ko/docs/substance-3d-designer/using/getting-started/system-requirements)
+
+</td>
+<td style="border: 0;" valign="top">
+
+[![Substance 3D Painter 아이콘](../../assets/pt-appicon-noshadow-256.png){width="64px"}](https://experienceleague.adobe.com/ko/docs/substance-3d-painter/using/getting-started/system-requirements)
+
+[Substance 3D Painter](https://experienceleague.adobe.com/ko/docs/substance-3d-painter/using/getting-started/system-requirements)
 
 </td>
 </tr>
