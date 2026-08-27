@@ -1,13 +1,13 @@
 ---
 helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/common-questions/is-dithering-applied-to-baked-textures.html"
 breadcrumb-title: ''
-description: 구운 텍스처에 디더링을 적용할지 여부와 디더링이 텍스처 품질에 미치는 영향을 파악합니다.
+description: 디더링이 구운 텍스처에 적용되는지 여부와 텍스처 품질에 미치는 영향을 파악합니다.
 helpx_creative_field: ""
 helpx_description: "bakers > Common Questions > Is dithering applied to baked textures "
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: '디더링을 구운 텍스처에 적용 여부 '
+title: '디더링이 구운 텍스처에 적용됩니까? '
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
@@ -30,7 +30,7 @@ ht-degree: 0%
 >
 > **설명**
 > 
-> 8비트 표준 맵에서 밴딩을 방지하기 위해 디더링이 적용됩니다. 예:
+> 8비트 노멀 맵에서 밴딩을 방지하기 위해 디더링이 적용됩니다. 예:
 > 
 > ![](../../assets/dither.jpg)
 

@@ -103,11 +103,11 @@ Substance 3D 제빵사 버전에 따라, 아래 표에는 모든 제빵사에 �
 | 메시 기준 위치 | <div><img alt="(오류)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
 | 위치 | <div><img alt="(오류)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
 | 메시 기준 두께 | <div><img alt="(틱)&quot; data-preserve-html=&quot;true" src="../../assets/check.svg"/></div> \* |
-| 메쉬에서 텍스처 전송 | <div><img alt="(오류)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
+| 메시에서 전달된 텍스처 | <div><img alt="(오류)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> \* |
 | 세계 우주 방향 | <div><img alt="(오류)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
 | 세계 우주 표준 | <div><img alt="(오류)&quot; data-preserve-html=&quot;true" src="../../assets/error.svg"/></div> |
 
 
-\*: CPU 광선 추적을 지원하며, 이 속도는 GPU 광선 추적 속도보다 훨씬 느립니다.
+\*: GPU 광선 추적 속도가 훨씬 느린 CPU 광선 추적을 지원합니다.
 
 +++

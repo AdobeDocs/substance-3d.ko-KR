@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/creative-cloud-applications/after-effects.html"
 breadcrumb-title: ''
-description: After Effects에서 Substance 재질을 사용하여 모션 그래픽 및 시각 효과를 위한 사실적인 텍스처와 재질을 만들 수 있습니다.
+description: After Effects에서 Substance 재질을 사용하여 모션 그래픽 및 시각 효과를 위한 사실적인 텍스처 및 재질을 만들 수 있습니다.
 helpx_creative_field: ""
 helpx_description: Learn about SBSAR file support in Adobe After Effects.
 helpx_experience_level: ""

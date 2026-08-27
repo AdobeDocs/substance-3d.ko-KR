@@ -22,7 +22,7 @@ ht-degree: 0%
 
 [Maxwell](https://maxwellrender.com/)을(를) 사용하여 렌더링하는 경우 [Maya](https://www.substance3d.com/ecosystem-plug-ins/substance-in-maya/)의 Substance Painter 또는 Substance 플러그인에서 내보낸 맵을 사용할 수 있습니다.
 
-Substance Painter 2020.1(6.1.0)은 **Maxwell 5.1.0**&#x200B;에서 사용할 수 있도록 금속/거칠기 및 Specular/광택을 모두 지원하는 Maxwell [출력 템플릿](https://docs.substance3d.com/display/SPDOC/Export)와 함께 제공됩니다.
+Substance Painter 2020.1(6.1.0)은 **Maxwell 5.1.0**&#x200B;에서 사용할 금속/거칠기 및 Specular/광택도 모두에 대해 Maxwell [출력 템플릿](https://docs.substance3d.com/display/SPDOC/Export)와 함께 제공됩니다.
 
 ## 목차
 

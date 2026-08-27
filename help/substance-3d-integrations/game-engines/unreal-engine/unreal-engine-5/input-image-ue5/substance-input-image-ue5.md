@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/substance-input-image-ue5.html"
 breadcrumb-title: ''
-description: Unreal Engine 5에서 Substance 재질에 대한 입력 매개 변수로 이미지 텍스처를 사용하여 모듈식 재질을 만듭니다.
+description: Unreal Engine 5에서 이미지 텍스처를 Substance 재질에 대한 입력 매개변수로 사용하여 모듈식 재질을 만듭니다.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unreal Engine > Unreal Engine 5 > Substance Input Image - UE5
 helpx_experience_level: ""

@@ -20,7 +20,7 @@ ht-degree: 1%
 
 # 렌더러
 
-[Substance Source](https://source.substance3d.com/)에서 제공되는 Substance 재질은 물리적 기반의 셰이더용 출력을 포함하며 [금속/거칠기(기본 작업 과정) 및 Specular/광택 작업 과정](https://academy.substance3d.com/courses/pbrguides)을 모두 지원합니다. 렌더러 재질이 지원하는 워크플로우를 이해하는 것이 중요합니다. 렌더러에 따라 Substance 질감 출력을 직접 사용하거나 출력 텍스처를 변환해야 할 수 있습니다. 사용자 정의 Substance 자료나 Substance share에서 다운로드한 자료에 지정된 렌더러에 필요한 출력이 들어 있지 않을 수 있습니다.
+[Substance Source](https://source.substance3d.com/)에서 제공되는 Substance 재질은 물리적 기반의 셰이더용 출력을 포함하며 [금속/거칠기(기본 작업 과정) 및 Specular/광택도 작업 과정](https://academy.substance3d.com/courses/pbrguides)을 모두 지원합니다. 렌더러 재질이 지원하는 워크플로우를 이해하는 것이 중요합니다. 렌더러에 따라 Substance 질감 출력을 직접 사용하거나 출력 텍스처를 변환해야 할 수 있습니다. 사용자 정의 Substance 자료나 Substance share에서 다운로드한 자료에 지정된 렌더러에 필요한 출력이 들어 있지 않을 수 있습니다.
 
 ![](../assets/outputs.png){width="200px"}
 

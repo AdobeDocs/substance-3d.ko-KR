@@ -22,7 +22,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> Arnold와 함께 작업하려면 Substance 텍스처에 대한 레거시 3ds Max 맵 지원을 활성화해야 합니다
+> Arnold와 함께 작업하려면 Substance 텍스처가 레거시 3ds Max Map 지원을 활성화해야 합니다
 
 ## 3ds Max 플러그인의 Substance
 

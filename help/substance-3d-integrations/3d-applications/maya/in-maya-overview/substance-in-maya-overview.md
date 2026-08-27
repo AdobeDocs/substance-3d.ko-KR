@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## 플러그인 개요
 
-[Substance] 플러그인을 사용하면 Maya에서 Substance Designer으로 만든 Substance 재질을 직접 로드할 수 있습니다. 이 플러그인은 Maya 재질을 만들고 Substance 텍스처를 재질 채널 입력에 제공합니다. 그런 다음 Substance 매개 변수를 변경하면 텍스처가 자동으로 업데이트됩니다.
+[Substance] 플러그인을 사용하면 Maya에서 Substance Designer으로 만든 Substance 재질을 직접 로드할 수 있습니다. 플러그인은 Maya 재질을 만들고 Substance 텍스처를 재질 채널 입력에 공급합니다. 그런 다음 Substance 매개 변수를 변경할 수 있고 텍스처가 자동으로 업데이트됩니다.
 
 >[!NOTE]
 >
@@ -36,7 +36,7 @@ ht-degree: 0%
 
    ![](../../../assets/createnode.png)
 
-   노드 편집기에서 tab 키를 누르고 텍스트 필드에 substance 를 입력하면 substance 옵션이 필터링됩니다. 옵션에서 [텍스처 Substance]를 선택합니다.
+   노드 편집기에서 tab 키를 누르고 텍스트 필드에 substance 를 입력하면 substance 옵션이 필터링됩니다. 옵션에서 Substance 텍스처 를 선택합니다.
 1. Substance 노드를 선택하고 속성 편집기에서 Substance(.sbsar) 파일을 찾습니다.
 
    ![](../../../assets/1.png)

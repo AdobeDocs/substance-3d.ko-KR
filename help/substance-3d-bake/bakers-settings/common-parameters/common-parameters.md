@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/bakers-settings/common-parameters.html"
 breadcrumb-title: ''
-description: 모든 베이커에 적용되는 일반적인 매개 변수와 최적의 텍스처 생성을 위해 구성하는 방법에 대해 알아봅니다.
+description: 모든 베이커에 적용되는 일반적인 매개 변수와 최적의 텍스처 생성을 위해 매개 변수를 구성하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""
 helpx_description: bakers > Bakers Settings > Common Parameters
 helpx_experience_level: ""
@@ -20,18 +20,18 @@ ht-degree: 1%
 
 # 공통 매개 변수
 
-공통 매개 변수는 모든 제빵사에 적용됩니다. 일반적으로 이러한 매개 변수는 베이커가 하이 폴리 메시에서 어떻게 움직이고 작업할지, 그러나 최종 텍스처가 어떻게 생성될지를 정의합니다. 이러한 매개 변수 중 일부는 특정 베이커에서 재정의할 수 있습니다.
+공통 매개 변수는 모든 제빵사에 적용됩니다. 이러한 매개 변수는 일반적으로 베이커가 하이 폴리 메시로 어떻게 움직이고 작업할지, 그러나 최종 텍스처가 어떻게 생성될지를 정의합니다. 이러한 매개 변수 중 일부는 특정 베이커에서 재정의할 수 있습니다.
 
 이러한 매개 변수 대부분은 모든 소프트웨어(Substance 자동화 툴킷 포함)에서 사용할 수 있지만, 소프트웨어 작업 과정 및 구현에 따라 일부 매개 변수는 사용할 수 없거나 동작이 약간 다를 수 있습니다.
 
 ## 일반 매개 변수
 
-이러한 매개 변수는 베이커가 텍스처를 생성하는 방법에 영향을 줍니다.
+이러한 매개 변수는 베이커가 텍스처를 생성하는 방식에 영향을 줍니다.
 
 | *이름* | *설명* |
 | --- | --- |
 | **크기**(기본 크기 또는 출력 크기) | 베이킹 출력 텍스처 해상도를 제어합니다(픽셀 단위).사용 가능한 값:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>32</strong></li><li data-preserve-html="true"><strong>64</strong></li><li data-preserve-html="true"><strong>128</strong></li><li data-preserve-html="true"><strong>256</strong></li><li data-preserve-html="true"><strong>512</strong></li><li data-preserve-html="true"><strong>1024</strong></li><li data-preserve-html="true"><strong>2048</strong>(기본값)</li><li data-preserve-html="true"><strong>4096</strong></li><li data-preserve-html="true"><strong>8192</strong></li></ul>정사각형이 아닌 해상도도 지원됩니다(예: 2048x1024(2:1 비율). Substance Designer에서 이 매개 변수는 베이커 자체에 의해 재정의될 수 있습니다. |
-| **형식** | 구운 텍스처의 파일 형식입니다.*Substance Painter에서 사용할 수 없습니다.* [베이킹된 맵을 내보내는 방법](../../common-questions/how-export-the-baked-maps/how-to-export-the-baked-maps.md)을 참조하세요. |
+| **형식** | 구워진 텍스처의 파일 형식입니다.*Substance Painter에서 사용할 수 없습니다.* [베이킹된 맵을 내보내는 방법](../../common-questions/how-export-the-baked-maps/how-to-export-the-baked-maps.md)을 참조하세요. |
 | **앤티 앨리어싱** | 앤티 앨리어싱을 제어하여 구운 텍스처의 품질을 향상시키고 다른 형상이 연결되는 경우 앨리어싱을 줄일 수 있습니다.앨리어싱에 대해 자세히 알아보려면 [UV 이음새에 앨리어싱](../../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md) 및 [위키피디아에 앨리어싱](https://en.wikipedia.org/wiki/Aliasing)을 참조하십시오.사용 가능한 값:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>없음</strong>(기본값)</li><li data-preserve-html="true"><strong>서브샘플링 2x2</strong></li><li data-preserve-html="true"><strong>서브샘플링 4x4</strong></li><li data-preserve-html="true"><strong>서브샘플링 8x8</strong></li></ul>  **참고:** 앤티 앨리어스를 사용하면 텍스처를 더 높은 해상도로 계산한 다음 원래 선택한 크기로 다시 다운스케일링하여 앤티 앨리어스를 적용할 수 있으므로 굽는 시간이 상당히 늘어날 수 있습니다. 즉, 2x2 서브샘플링을 사용하는 2K 텍스처가 실제로 4K 텍스처를 계산합니다.때로는 서브샘플링을 증가시키기보다는 베이커에서 광선의 수를 증가시키는 것이 바람직하다. 너무 오래 기다리지 않고도 더 나은 결과를 얻을 수 있었다. |
 | **UV 설정** | 구운 텍스처를 계산하기 위해 낮은 폴리 메쉬에서 어떤 UV가 사용될지 제어합니다.*Substance Painter에서 사용할 수 없습니다.* |
 |  |  |

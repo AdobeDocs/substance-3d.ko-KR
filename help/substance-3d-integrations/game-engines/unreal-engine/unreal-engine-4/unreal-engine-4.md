@@ -30,7 +30,7 @@ Unreal 플러그인의 Substance은 [Unreal Marketplace](https://www.unrealengin
 * [플러그인 설정 - UE4](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/integrations/plugin-settings-152535699.html) — Unreal에서 Substance 플러그인에 대한 설정을 자세히 설명합니다.
 * [Substance 입력 이미지 - UE4](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/integrations/substance-input-image-152539035.html) - 자재에서 처리할 이미지를 제공할 수 있는 입력으로 Substance을 만들 수 있습니다.
 * [재질 인스턴스 정의 - UE4](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/integrations/material-instance-definition-157352129.html) - Substance과 함께 UE4 재질 인스턴스를 사용할 수 있습니다.
-* [타일링 Substance - UE4](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/integrations/tiling-substance-159451177.html) - Substance 텍스처를 타일링하려면 텍스처 좌표 노드를 추가하고 여기에 스칼라 매개 변수를 곱해야 합니다.
+* [타일링 Substance - UE4](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/integrations/tiling-substance-159451177.html) - Substance 텍스처를 타일링하려면 텍스처 좌표 노드를 추가하고 이를 스칼라 매개 변수에 곱해야 합니다.
 * [범프 오프셋 작업(시차) - UE4](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/integrations/working-with-bump-offset-parallax-159451180.html) - 재질에 범프 오프셋 노드를 활용하는 방법
 * [변위 작업 - UE4](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/integrations/working-with-displacement-159451189.html) - Substance 자료에서 변위를 사용하는 방법
 * [UE4의 소스](../../../game-engines/unreal-engine/unreal-engine-4/source-in-ue4/source-in-ue4.md) - Unreal Engine에서 바로 소스에서 재질을 다운로드할 수 있습니다

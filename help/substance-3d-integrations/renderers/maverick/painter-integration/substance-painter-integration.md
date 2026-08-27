@@ -33,7 +33,7 @@ ht-degree: 0%
 **Substance** **Painter**&#x200B;**:**
 
 1. 메쉬를 내보냅니다.
-1. Maverick 사전 설정(이미지 보기) 중 하나를 사용하여 메시가 있는 동일한 폴더에서 텍스처를 내보냅니다.
+1. Maverick 사전 설정(이미지 보기) 중 하나를 사용하여 메쉬가 있는 동일한 폴더에서 텍스처를 내보냅니다.
 
    ![](../../../assets/maverickrender-exportpresets-substancepainter.jpg)
 

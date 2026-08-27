@@ -32,7 +32,7 @@ Substance Painter 2020.1(6.1.0)은 [**pxrSurface**](https://rmanwiki.pixar.com/d
 
 | Substance Painter 내보내기 | PxrSurface |
 | --- | --- |
-| DiffuseColor | 확산/색상 |
+| DiffuseColor | 확산 / 색상 |
 | 반사 거칠음 | 기본 Specular/거칠음 |
 | SpecularFaceColor | 기본 Specular/얼굴 색상 |
 | 표준 | Globals / Bump / PxrNormalMap → Orientation (Open GL) |
