@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/cinema-4d/using-the-substance-plugin.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d/using-the-substance-plugin.html"
 breadcrumb-title: ''
 description: Cinema 4D에서 Substance 플러그인을 사용하여 재질을 가져오고 Substance 에셋을 관리하는 방법을 알아봅니다.
 helpx_creative_field: ""
@@ -43,4 +43,4 @@ Substance 플러그인은 Cinema 4D 플러그인 메뉴에 있습니다.
 
 >[!NOTE]
 >
-> Cinema 4D의 다른 모든 명령과 마찬가지로 이 두 명령은 레이아웃의 아무 곳에나 통합할 수 있고/있거나 빠른 액세스를 위해 키보드 단축키로 구성할 수 있습니다.
+> Cinema 4D의 다른 모든 명령과 마찬가지로 이 두 명령은 레이아웃의 아무 곳에서나 통합하거나 키보드 단축키로 구성하여 빠르게 액세스할 수 있습니다.

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/features/geometry-cache.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/features/geometry-cache.html"
 breadcrumb-title: ''
 description: 형상 캐싱을 사용하여 미리 처리된 메시 데이터를 보존하고 후속 베이킹 작업의 속도를 크게 높일 수 있습니다.
 helpx_creative_field: ""

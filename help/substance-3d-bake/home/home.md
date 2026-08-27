@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/home.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/home.html"
 breadcrumb-title: ''
 description: Substance Baker를 사용하여 메시 기반 정보를 텍스처 파일로 계산하고 텍스처링 워크플로우를 향상시키는 방법을 알아봅니다.
 helpx_creative_field: ""
@@ -112,7 +112,7 @@ ht-degree: 13%
 * [Assbin 파일이란 무엇입니까?](../common-questions/what-are-assbin-files/what-are-assbin-files.md)
 * [구운 텍스처의 비트 심도는 무엇입니까?](../common-questions/what-the-bit-depth-baked/what-is-the-bit-depth-of-baked-textures.md)
 * [OpenGL과 DirectX 표준 형식의 차이점은 무엇입니까?](../common-questions/what-the-difference-bet/what-is-the-difference-between-the-opengl-and-directx-normal-format.md)
-* [굽거나 내보낸 후 내 텍스처에 이상한 스트레치가 생기는 이유는 무엇입니까?](../common-questions/why-are-there-strange-str/why-are-there-strange-stretches-in-my-textures-after-baking-or-exporting.md)
+* [베이킹 후 텍스처에 이상한 늘리다가 있습니까?](../common-questions/why-are-there-strange-str/why-are-there-strange-stretches-in-my-textures-after-baking-or-exporting.md)
 * [앰비언트 오클루전/Thickness에서 이름별 매칭이 작동하지 않는 이유는 무엇입니까?](../common-questions/why-matching-name-not-wor/why-is-matching-by-name-not-working-with-ambient-occlusion-thickness.md)
 * [굽고 나면 왜 내 메쉬가 완전히 검은색일까요?](../common-questions/why-mesh-fully-black-aft/why-is-my-mesh-fully-black-after-baking.md)
 
@@ -122,11 +122,11 @@ ht-degree: 13%
 ### 일반적인 문제
 
 * [UV 솔기의 앨리어싱](../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md)
-* [베이커 출력이 완전히 검정색이거나 비어 있음](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
+* [베이커 출력이 완전히 검정색이거나 비어 있음](https://helpx.adobe.com/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
 * [메쉬에서 색상 맵으로 인해 베이킹 실패](../common-issues/baking-failed-with-color/baking-failed-with-color-map-from-mesh.md)
 * [메시 표면에 검은색 음영 십자가 표시됨](../common-issues/black-shading-cross-are/black-shading-cross-are-visible-on-the-mesh-surface.md)
 * [메시 부분이 서로 간에 재단 물림](../common-issues/mesh-parts-bleed-between/mesh-parts-bleed-between-each-other.md)
-* [표준 지도에 이상한 다채로운 그레이디언트가 있음](../common-issues/normal-map-has-strange/normal-map-has-strange-colorful-gradients.md)
+* [노멀 맵에 이상한 다채로운 그레이디언트가 있음](../common-issues/normal-map-has-strange/normal-map-has-strange-colorful-gradients.md)
 * [표준 텍스처가 면처리된 것처럼 보임](../common-issues/normal-texture-looks-fac/normal-texture-looks-faceted.md)
 * [일반 텍스처를 굽은 후 솔기가 나타납니다](../common-issues/seams-are-visible-after/seams-are-visible-after-baking-a-normal-texture.md)
 * [모든 면에 보이는 이음매](../common-issues/seam-visible-every-face/seam-visible-on-every-face.md)

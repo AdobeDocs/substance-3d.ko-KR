@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/maverick/substance-painter-integration.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maverick/substance-painter-integration.html"
 breadcrumb-title: ''
 description: Substance Painter을 Maverick 렌더러와 통합하여 매끄러운 재질 워크플로우와 제품 시각화를 수행합니다.
 helpx_creative_field: ""
@@ -30,20 +30,20 @@ ht-degree: 0%
 
 다음 단계에 따라 Substance Painter 프로젝트를 Maverick으로 쉽게 가져올 수 있습니다.
 
-**Substance** **Painter**&#x200B;**:**
+**Substance** **Painter****:**
 
 1. 메쉬를 내보냅니다.
-1. Maverick 사전 설정(이미지 보기) 중 하나를 사용하여 메시가 있는 동일한 폴더에서 텍스처를 내보냅니다.
+1. Maverick 사전 설정(이미지 보기) 중 하나를 사용하여 메쉬가 있는 동일한 폴더에서 텍스처를 내보냅니다.
 
    ![](../../../assets/maverickrender-exportpresets-substancepainter.jpg)
 
-   *일반* *사례*&#x200B;에서 *선택* *&quot;**Maverick**&#x200B;사전 설정**&quot;
+   *일반* *사례*&#x200B;에서 *선택* *&quot;**Maverick**사전 설정**&quot;
 
-   *선택* *&quot;**Maverick* *고급* *사전 설정**&quot; if* *페인트한* *a* *특정&#x200B;**지도**&#x200B;**17&rbrace;* as &#x200B;**&#x200B;비등방성&#x200B;**&#x200B;또는&#x200B;**&#x200B;코팅&#x200B;**.**
+   *선택* *&quot;**Maverick* *고급* *사전 설정**&quot; if* *페인트한* *a* *특정&#x200B;**지도****17}* as **&#x200B;비등방성&#x200B;**&#x200B;또는&#x200B;**&#x200B;코팅**.**
 
-   *귀하의* *모델에 관련* *변위&#x200B;**지도**&#x200B;가 있는 경우*&#x200B;선택&#x200B;**&quot;**&#x200B;Maverick&#x200B;**&#x200B;변위&#x200B;**&#x200B;사전 설정&#x200B;**&quot;.**&#x200B;이* *사전 설정&#x200B;**의지* *모든 높은&#x200B;**&#x200B;품질&#x200B;**모양&#x200B;**&#x200B;세부 정보&#x200B;**를 캡처하기 위해* *Maverick* *에 대해* *Height &#x200B;** 맵**&#x200B;**&#x200B;32비트를 내보냅니다.*
+   *귀하의* *모델에 관련* *변위&#x200B;**지도**가 있는 경우*&#x200B;선택&#x200B;**&quot;**Maverick**&#x200B;변위&#x200B;**사전 설정&#x200B;**&quot;.**이* *사전 설정**의지* *모든 높은&#x200B;**품질**모양&#x200B;**세부 정보**를 캡처하기 위해* *Maverick* *에 대해* *Height **맵****32비트를 내보냅니다.*
 
-   **In** **Maverick**&#x200B;**:**
+   **In** **Maverick****:**
 1. Substance Painter 아이콘을 클릭합니다.
 
    ![](../../../assets/maverickrender-substancepainter-icon.jpg)
@@ -57,7 +57,7 @@ ht-degree: 0%
    ![](../../../assets/maverickrender-substancepainter-import.jpg)
 1. 계속하면 모델을 텍스처 세트 및 재질이 자동으로 생성 및 적용되어 올바르게 구성합니다. 모두 조명 단계를 위해 준비되었습니다.
 
-   **If** **Substance에서 &#x200B;**&#x200B;**내**&#x200B;**내** **텍스처** **Painter**&#x200B;**, 내보내기** **다시&#x200B;**&#x200B;**내보내기**&#x200B;**,** **덮어쓰기** **더** **이전&#x200B;**&#x200B;**원본**&#x200B;**.** **그런 다음**&#x200B;**에서** **Maverick &#x200B;**&#x200B;**업데이트를 사용하세요**&#x200B;**지도**&#x200B;**&#x200B;아이콘**&#x200B;**:**
+   **If** **Substance에서 ****내****내** **텍스처** **Painter****, 내보내기** **다시&#x200B;****내보내기****,** **덮어쓰기** **더** **이전&#x200B;****원본****.** **그런 다음****에서** **Maverick ****업데이트를 사용하세요****지도****&#x200B;아이콘****:**
 
    ![](https://helpx-prod.scene7.com/is/image/HelpxProd/maverickrender-updatemaps-icon?$pjpeg$&jpegSize=200&wid=1065){width="800px"}
 

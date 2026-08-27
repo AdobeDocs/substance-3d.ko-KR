@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-2-3-2.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-2-3-2.html"
 breadcrumb-title: ''
 description: 3ds Max 플러그인 버전 2.3.2의 릴리스 정보를 검토하여 새로운 기능, 개선 사항 및 버그 수정에 대해 알아보십시오.
 helpx_creative_field: ""
@@ -38,6 +38,6 @@ ht-degree: 0%
 
 알려진 문제:
 
-* 3ds Max 2018에서 Substance 재질이 오브젝트에 첨부된 fbx를 내보내면 fbxmax.dlu 플러그인에서 충돌이 발생합니다. 현재 Autodesk와 함께 수행할 수 있는 작업이 있는지 또는 fbx 통합의 이전 릴리스에 대한 제한인지 확인하고 있습니다. 이전 해결 방법이 불안정하여 제거되었습니다. 3ds Max 2019 이상에서는 이 문제가 발생하지 않습니다.
+* 3ds Max 2018에서 Substance 재질이 오브젝트에 첨부된 fbx를 내보내면 fbxmax.dlu 플러그인에 충돌이 적용됩니다. 현재 Autodesk와 함께 수행할 수 있는 작업이 있는지 또는 fbx 통합의 이전 릴리스에 대한 제한인지 확인하고 있습니다. 이전 해결 방법이 불안정하여 제거되었습니다. 3ds Max 2019 이상에서는 이 문제가 발생하지 않습니다.
 
 이 버전은 3ds Max 2018, 2019, 2020 및 2021용으로 출시되었습니다.

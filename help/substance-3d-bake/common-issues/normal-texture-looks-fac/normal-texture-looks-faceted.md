@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/common-issues/normal-texture-looks-faceted.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/normal-texture-looks-faceted.html"
 breadcrumb-title: ''
 description: 메쉬 표준을 매끄럽게 만들고 매끄러움 그룹 설정을 조정하여 표준 텍스처에서 면처리된 모양을 수정합니다.
 helpx_creative_field: ""

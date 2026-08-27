@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/vray/vray-next-substance-in-maya.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/vray/vray-next-substance-in-maya.html"
 breadcrumb-title: ''
 description: 내보낸 맵 또는 렌더링을 위한 Substance 플러그인을 통해 Maya에서 [V-Ray Next]가 있는 Substance 재질을 사용합니다.
 helpx_creative_field: ""

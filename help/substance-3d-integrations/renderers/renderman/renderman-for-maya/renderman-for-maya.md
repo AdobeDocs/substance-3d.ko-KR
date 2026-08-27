@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/renderman/renderman-for-maya.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/renderman/renderman-for-maya.html"
 breadcrumb-title: ''
 description: PBR 렌더링에는 pxrSurface 또는 pxrDisney 재질을 사용하여 Maya에서 Renderman과 함께 Substance 재질을 사용합니다.
 helpx_creative_field: ""

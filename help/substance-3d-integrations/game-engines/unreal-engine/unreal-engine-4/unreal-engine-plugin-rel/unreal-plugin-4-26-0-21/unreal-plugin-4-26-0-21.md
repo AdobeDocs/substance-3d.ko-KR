@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-plugin-release-notes/unreal-plugin-4-26-0-21.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-plugin-release-notes/unreal-plugin-4-26-0-21.html"
 breadcrumb-title: ''
 description: Unreal Engine 4 플러그인 버전 4.26.0.21에 대한 릴리스 정보를 검토하여 새로운 기능, 개선 사항 및 버그 수정에 대해 알아보십시오.
 helpx_creative_field: ""
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 수정:
 
-* 인스턴스에서 만든 텍스처에는 기본 Substance 가져오기 설정이 적용되지 않습니다
-* 기본 재질 삭제 후 메시를 Substance Painter으로 보낼 때 UE4가 충돌함
+* 기본 Substance 가져오기 설정은 인스턴스에서 만든 텍스처에 적용되지 않습니다.
+* 기본 재질 삭제 후 Substance Painter에 메시를 보낼 때 UE4 충돌
 * UE 편집기의 압축 설정에 대한 업데이트가 적용되지 않습니다

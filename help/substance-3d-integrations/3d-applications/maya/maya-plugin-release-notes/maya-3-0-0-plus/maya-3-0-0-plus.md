@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-3-0-0-plus.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-3-0-0-plus.html"
 breadcrumb-title: ''
 description: Maya 플러그인 버전 3.0.0 이상용 릴리스 노트를 검토하여 새로운 기능, 개선 사항, 버그 수정에 대해 알아보십시오.
 helpx_creative_field: ""
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 <b>고정:</b>
 
-* Maya용 Substance 플러그인을 로드/언로드하면 오류 화면이 생성되고 충돌하는 문제가 해결되었습니다.
+* Maya용 Substance 플러그인을 로드/언로드하면 오류 화면과 충돌이 발생하는 문제가 해결되었습니다.
 * 특히 .exr 파일이 올바르게 참조되도록 하고, 큰 장면에서 캐싱 관련 고정을 줄이는 등의 캐싱 문제가 해결되었습니다.
 * SBSAR 파일이 Maya 플러그인에 로드될 때 샘플 창의 재질 미리 보기가 표시되지 않는 문제를 해결했습니다.
 * 하나 이상의 SBSAR가 이미 Hypershade에 있는 경우 커넥터가 SBSAR 파일을 수신하지 못하는 문제를 해결했습니다.

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/blender/shortcuts-and-navigation.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/shortcuts-and-navigation.html"
 breadcrumb-title: ''
 description: 믹서의 Substance 3D 애드온에 대한 키보드 단축키를 학습하고 효율성을 위해 키 바인딩을 사용자 정의합니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/bakers-settings/curvature.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/curvature.html"
 breadcrumb-title: ''
 description: 메쉬에서 곡률 정보를 추출하여 형상의 캐비티와 모서리를 강조하는 텍스처를 생성합니다.
 helpx_creative_field: ""
@@ -20,9 +20,9 @@ ht-degree: 2%
 
 # 곡선
 
-곡률 베이커는 곡률 텍스처를 추출할 수 있습니다. 이 텍스처에는 형상과 관련된 캐비티와 모서리 정보가 포함됩니다.
+곡률 베이커는 곡률 텍스처를 추출할 수 있습니다. 이 텍스처는 형상과 관련된 캐비티 및 모서리 정보를 포함합니다.
 
-텍스처 속성은 다음과 같이 정의됩니다.
+텍스처 등록 정보는 다음과 같이 정의됩니다.
 
 * 검정색 값은 오목 영역을 나타냅니다.
 * 흰색 값은 볼록 영역을 나타냅니다.

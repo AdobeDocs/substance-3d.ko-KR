@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/maxwell/maxwell-substance-in-maya.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maxwell/maxwell-substance-in-maya.html"
 breadcrumb-title: ''
 description: 내보낸 맵 또는 Substance 플러그인을 통해 Maya의 Maxwell 렌더러에서 Substance 재질을 사용합니다.
 helpx_creative_field: ""

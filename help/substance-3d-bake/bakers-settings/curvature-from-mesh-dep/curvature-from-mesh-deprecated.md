@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/bakers-settings/curvature-from-mesh-deprecated.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/curvature-from-mesh-deprecated.html"
 breadcrumb-title: ''
 description: 메시 베이커에서 더 이상 사용되지 않는 곡률에 대한 참조입니다. 대신에 메시 베이커의 업데이트된 곡률을 사용하십시오.
 helpx_creative_field: ""

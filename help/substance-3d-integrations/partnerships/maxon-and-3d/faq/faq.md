@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/partnerships/maxon-and-substance-3d/faq.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/partnerships/maxon-and-substance-3d/faq.html"
 breadcrumb-title: ''
 description: Substance 3D 및 Maxon One 파트너십 및 통합과 관련하여 자주 묻는 질문에 대한 답변을 살펴보십시오.
 helpx_creative_field: ""
@@ -96,7 +96,7 @@ Adobe Substance 3D 컬렉션 쿠폰 코드를 상환하려면:
 +++
 
 +++첫 해 이후 갱신하려면 어떻게 해야 합니까?
-Maxon One 구독은 정상 가격(연간 $1199 USD 또는 지역 상당)으로 1년 더 자동으로 갱신됩니다.
+Maxon One 구독은 정상 가격(연간 $1199 USD 또는 이에 상응하는 지역)으로 다른 1년 동안 자동으로 갱신됩니다.
 
 Adobe Substance 3D Collection은 쿠폰 코드를 상환할 때 유효한 신용 카드를 입력하거나 구독 기간 만료 날짜 전에 account.adobe.com의 계정 관리 페이지에 신용 카드를 추가하는 경우에만 자동으로 갱신됩니다.
 

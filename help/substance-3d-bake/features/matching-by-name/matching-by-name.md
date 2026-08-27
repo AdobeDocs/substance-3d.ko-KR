@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/kr/substance-3d-bake/features/matching-by-name.html'
+helpx_url: 'https://helpx.adobe.com/substance-3d-bake/features/matching-by-name.html'
 breadcrumb-title: ''
 description: 이름별 일치 기능을 사용하여 낮은 폴리 및 높은 폴리 메쉬를 분리하고 베이킹 중에 형상 출혈을 방지합니다.
 helpx_creative_field: ''
@@ -91,7 +91,7 @@ ht-degree: 0%
 기본 접미어는 \_low 및 \_high 이며 다음과 같은 방법으로 변경할 수 있습니다.
 
 * **Substance Painter**: [굽기 창](../../getting-started/software-interface/3d-painter/substance-3d-painter.md)에서 공통 매개 변수 내에 있습니다.
-* **Substance Designer**: [프로젝트 설정](https://experienceleague.adobe.com/ko/docs/substance-3d-designer/using/workspace/preferences/project-settings)의 굽기 설정 아래에 있습니다.
+* **Substance Designer**: [프로젝트 설정](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/preferences/project-settings)의 굽기 설정 아래에 있습니다.
 
 ## zBrush의 높은-폴리 메시
 

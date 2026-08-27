@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/getting-started/tutorials.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/tutorials.html"
 breadcrumb-title: ''
-description: 튜토리얼 및 학습 리소스에 액세스하여 Substance 베이커를 마스터하고 텍스처 베이킹 워크플로를 개선하세요.
+description: 튜토리얼 및 학습 리소스에 액세스하여 Substance Baker를 마스터하고 텍스처 제작 워크플로를 개선합니다.
 helpx_creative_field: ""
 helpx_description: bakers > Getting Started > Tutorials
 helpx_experience_level: ""
@@ -28,7 +28,7 @@ ht-degree: 1%
 
 다음은 공식 튜토리얼의 전체 목록입니다.
 
-* [베이킹 텍스처의 기초](https://academy.allegorithmic.com/courses/66b7d8b1562852dbc722130e8d37bbb9/youtube-ePnLTuzRAbg)
+* [베이킹 텍스처 기본 사항](https://academy.allegorithmic.com/courses/66b7d8b1562852dbc722130e8d37bbb9/youtube-ePnLTuzRAbg)
 * [Substance Painter 베이킹 매개 변수](https://academy.allegorithmic.com/courses/c63a8e55799a30b040e5aaf3f62f2d89)
 * [Substance Painter 시작하기 : 굽기](https://academy.allegorithmic.com/courses/a97b433a5997fd800b5ed300d783cc41/youtube-QJQBaXDKn4w)
 * [Substance Painter - 모델 준비](https://academy.allegorithmic.com/courses/1e3db9e8dbed76d4636f71ddcd9af2c5/youtube-j5isGX8zwSI)

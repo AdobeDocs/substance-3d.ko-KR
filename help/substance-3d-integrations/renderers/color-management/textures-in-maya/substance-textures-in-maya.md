@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/color-management/substance-textures-in-maya.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/color-management/substance-textures-in-maya.html"
 breadcrumb-title: ''
 description: 정확한 색상 관리 및 렌더링을 위해 Maya의 Substance 텍스처에 대한 색상 공간 설정을 구성합니다.
 helpx_creative_field: ""

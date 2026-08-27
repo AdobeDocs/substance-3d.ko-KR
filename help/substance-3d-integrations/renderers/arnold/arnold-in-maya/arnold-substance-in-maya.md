@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/arnold/arnold-substance-in-maya.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/arnold/arnold-substance-in-maya.html"
 breadcrumb-title: ''
 description: Maya에서 Substance 플러그인과 표준 서피스 재질을 사용하여 Arnold 렌더러와 함께 Substance 재질을 사용하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/blender/release-notes/blender-add-on-2-0-0.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/release-notes/blender-add-on-2-0-0.html"
 breadcrumb-title: ''
 description: Blender 추가 기능 버전 2.0.0의 릴리스 노트를 검토하여 새로운 기능, 개선 사항 및 버그 수정에 대해 알아보십시오.
 helpx_creative_field: ""
@@ -31,7 +31,7 @@ Substance 3D Addon 2.0은 Blender 사용자를 위한 혁신적인 업데이트�
 <b>추가/업데이트:</b>
 
 * [SRE] Substance 엔진 선택 지원(기본값은 GPU)
-* [SRE] 텍스처를 내보낼 새로운 이미지 형식
+* [SRE] 텍스처 내보내기를 위한 새로운 이미지 형식
 * [SRE] 각 맵 유형에 대한 비트 심도 선택
 * [BLD] 값 출력 지원
 * [BLD] 문자열 입력 지원
@@ -45,7 +45,7 @@ Substance 3D Addon 2.0은 Blender 사용자를 위한 혁신적인 업데이트�
 * [BLD] Blender를 닫을 때 통합 도구가 종료되지 않음
 * [BLD] 맵의 파일 유형을 변경할 때 재질이 업데이트되지 않음
 * [SRE] 재질의 모든 맵은 항상 내보내집니다
-* [SRE] 통합 도구는 계단식 배열을 사용하여 일반 맵을 내보냅니다.
+* [SRE] 통합 도구 계단식 배열을 사용하여 노멀 맵 내보내기
 * [SRE] Substance 로드가 완료되지 않음
 * [SRE] 물리적 크기 단위가 장면에 조정되지 않음
 * [BLD] Blender에서 생성된 사전 설정이 다른 통합에서 작동하지 않음

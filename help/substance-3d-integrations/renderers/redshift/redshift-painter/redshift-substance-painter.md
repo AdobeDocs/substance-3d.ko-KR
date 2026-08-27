@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/redshift/redshift-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/redshift/redshift-substance-painter.html"
 breadcrumb-title: ''
 description: 출력 템플릿 및 적절한 질감 설정을 사용하여 Redshift 렌더러용 Substance Painter 텍스처를 내보냅니다.
 helpx_creative_field: ""

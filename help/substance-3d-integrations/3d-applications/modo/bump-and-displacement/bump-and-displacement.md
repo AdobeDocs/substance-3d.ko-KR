@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/modo/bump-and-displacement.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/bump-and-displacement.html"
 breadcrumb-title: ''
 description: MODO의 Substance 재질에서 범프 및 변위 맵을 사용하여 모델에 표면 세부 사항과 깊이를 추가합니다.
 helpx_creative_field: ""

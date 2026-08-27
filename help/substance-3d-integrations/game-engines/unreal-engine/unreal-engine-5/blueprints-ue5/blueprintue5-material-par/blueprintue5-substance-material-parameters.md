@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-substance-material-parameters.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/blueprints-ue5/blueprintue5-substance-material-parameters.html"
 breadcrumb-title: ''
 description: Unreal Engine 5에서 런타임에 동적 재료 제어용 Blueprint 노드를 사용하여 Substance 재료 매개변수를 변경합니다.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## float 매개 변수 변경:
 
-[입력 부동 노드 설정](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/integrations/blueprint-node-reference-151584784.html)을 사용하여 float, color(float4) 및 부울 Substance 매개 변수를 변경합니다.
+[입력 부동 노드 설정](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-node-reference-151584784.html)을 사용하여 float, color(float4) 및 부울 Substance 매개 변수를 변경합니다.
 
 1. &quot;Substance 그래프 인스턴스&quot; 유형의 변수를 참조로 만듭니다.\
    \**이렇게 하려면 [내 청사진] 탭에 변수를 추가하고 이름을 지정하십시오. 드롭다운에서 Substance 그래프 인스턴스 > 개체 참조를 검색합니다. 변수를 그래프로 드래그하고 가져오기(변수 이름) 를 선택합니다. 세부 정보 탭의 기본값 섹션에서 Substance 그래프 인스턴스를 설정합니다.*

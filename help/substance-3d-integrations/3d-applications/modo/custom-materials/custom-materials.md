@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/modo/custom-materials.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/custom-materials.html"
 breadcrumb-title: ''
 description: 특수 워크플로우를 위한 Substance 플러그인으로 MODO에서 Unreal, Unity 및 glTF 사용자 정의 재질을 사용합니다.
 helpx_creative_field: ""
@@ -51,9 +51,9 @@ Substance 플러그인은 Unreal, Unity 및 glTF 사용자 정의 재질을 지�
 | 금속재질 | 선형 | 언리얼 메탈릭 |
 | 표준 | 선형 | 비현실 정상 |
 | 높이 | 선형 | 언리얼 범프 |
-| 배출 | sRGB | Image Still **에서 sRGB로 설정된 비실수 발광**\ |
+| 배출 | sRGB | 스틸 이미지 **에서 sRGB로 설정된 비실제 방출**\ |
 | 앰비언트 오클루전 | 선형 | 언리얼 앰비언트 오클루전 |
-| 불투명도 | 선형 | 비실제 불투명도 **\*텍스처 레이어에서 반전된 선택을 취소해야 함** |
+| 불투명도 | 선형 | 비실제 불투명도 **\*텍스처 레이어에서 반전된 선택을 해제해야 함** |
 
 ![](https://helpx-prod.scene7.com/is/image/HelpxProd/unreal?$png$&jpegSize=200&wid=1343){width="600px"}
 
@@ -69,7 +69,7 @@ glTF 재질을 사용하는 경우에는 [재질 레이어] 효과가 자동으�
 | 거칠기 | 선형 | glTF 거칠음 |
 | 금속재질 | 선형 | glTF 금속 |
 | 표준 | 선형 | glTF 표준 |
-| 배출 | sRGB | glTF Emissive **\*이미지 스틸**&#x200B;에서 sRGB로 설정 |
+| 배출 | sRGB | glTF 방출 **\*이미지 스틸**&#x200B;에서 sRGB로 설정 |
 | 앰비언트 오클루전 | 선형 | glTF 앰비언트 오클루전 |
 
 ![](../../../assets/gltf.png){width="600px"}

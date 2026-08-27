@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-2-3-1.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-2-3-1.html"
 breadcrumb-title: ''
 description: 3ds Max 플러그인 버전 2.3.1의 릴리스 정보를 검토하여 새로운 기능, 개선 사항 및 버그 수정에 대해 알아보십시오.
 helpx_creative_field: ""
@@ -35,7 +35,7 @@ ht-degree: 0%
 * 더 작은 python 스크립트는 이제 Python 3과 호환됩니다.
 * Substance Source 에셋을 3ds Max로 보내기 위한 Substance 시작 관리자에 대한 지원이 추가되었습니다. 시작 관리자를 변경해야 하지만 기능이 추가되면서 플러그인 지원이 함께 제공됩니다.
 * 이제 Redshift 렌더러 스크립트에서 Redshift 2.6.24에 설정된 새 노드 이름을 사용합니다.
-* Substance 2 SubstanceFilePath에 빈 경로가 할당되면 Max가 더 이상 충돌하지 않습니다.
+* Substance 2 SubstanceFilePath에 빈 충돌이 할당되면 Max가 더 이상 경로를 지정하지 않습니다.
 * SubstanceOutput 유형의 이름 충돌을 이전 플러그인과 제거합니다.
 * SubstanceOutput 클래스가 Substance2Output으로 이름이 변경되었습니다.
 * Substance 메뉴 관리자 클래스가 Substance2MenuManager로 이름이 변경되었습니다.

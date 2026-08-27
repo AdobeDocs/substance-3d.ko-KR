@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/blender/preferences.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/preferences.html"
 breadcrumb-title: ''
 description: 플러그인 동작 및 설정을 사용자 정의하려면 Blender에서 Substance 3D 추가 기능 환경 설정을 구성합니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/working-with-displacement-ue4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/working-with-displacement-ue4.html"
 breadcrumb-title: ''
 description: 표면 세부 묘사를 위해 Unreal Engine 4의 Substance 재질에서 변위 맵을 사용하고 테셀레이션을 활성화합니다.
 helpx_creative_field: ""
@@ -40,4 +40,4 @@ Height 출력을 사용하려면 Substance 팩토리 인스턴스에서 출력�
 
 >[!NOTE]
 >
-> 다른 텍스처 출력은 그래프를 단순화하기 위해 이 이미지에서 생략했습니다. 여기에서는 명확성을 위해 변위 및 멀티플라이어 노드만 표시됩니다.
+> 다른 텍스처 출력은 그래프를 단순화하기 위해 생략했습니다. 여기에서는 명확성을 위해 변위 및 멀티플라이어 노드만 표시됩니다.

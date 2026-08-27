@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unity/rendering-color-space.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/rendering-color-space.html"
 breadcrumb-title: ''
 description: 실제 기반 셰이더를 사용하여 Substance 재질이 제대로 렌더링되도록 Unity의 색상 공간 설정을 구성합니다.
 helpx_creative_field: ""
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 # 색상 공간 렌더링 중
 
-Substance 텍스처는 물리적 기반 셰이더와 함께 사용되도록 설계되었습니다. 최상의 결과를 얻으려면 Unity Player 설정에서 색상 공간을 Linear로 설정해야 합니다.
+Substance 텍스처는 물리적 기반 셰이더와 함께 사용하도록 설계되었습니다. 최상의 결과를 얻으려면 Unity Player 설정에서 색상 공간을 Linear로 설정해야 합니다.
 
 1. 편집>프로젝트 설정>플레이어로 이동
-1. [렌더링] 섹션에서 색상 공간을 [선형]으로 변경합니다. Unity는 기본적으로 감마 공간을 사용하는데, 감마 공간이 잘못되어 텍스처 색상이 잘못 표시됩니다.
+1. [렌더링] 섹션에서 색상 공간을 [선형]으로 변경합니다. (Unity는 기본적으로 감마 공간을 사용하는데, 감마 공간은 올바르지 않으며 텍스처 색상이 잘못 표시됩니다.)
 
    >[!NOTE]
    >

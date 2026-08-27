@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/3ds-max/batch-import.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/batch-import.html"
 breadcrumb-title: ''
 description: 효율성을 위해 일괄 가져오기 기능을 사용하여 한 번에 여러 Substance SBSAR 파일을 3ds Max로 가져옵니다.
 helpx_creative_field: ""

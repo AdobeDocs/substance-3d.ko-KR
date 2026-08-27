@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-2-3.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-2-3.html"
 breadcrumb-title: ''
 description: Maya 플러그인 버전 2.3의 릴리스 정보를 검토하여 새로운 기능, 개선 사항 및 버그 수정에 대해 알아보십시오.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 변경 목록:
 
-* 물리적 크기 사용 모드를 추가했습니다. 이렇게 하면 3평면 투영 계산이 노드 네트워크에 추가되며 설정/해제할 수 있습니다
+* 물리적 크기 사용 모드를 추가했습니다. 이렇게 하면 3개의 평면 프로젝션 계산이 노드 네트워크에 추가되며 켜고 끌 수 있습니다
 * 새로운 스크립팅 명령, 물리적 크기를 활성화/비활성화하는 substanceUtilityActivatePhysicalSize 및 수정된 경우 투영 값을 재설정하는 substanceUtilityResetPhysicalSize가 추가되었습니다.
 * 그래프의 물리적 크기 값을 얻기 위해 substanceNodeGetPhysicalSize 명령을 추가했습니다.
 * 활성화/비활성화와 재설정을 위한 새 확인란과 버튼이 추가되었습니다. Substance 그래프 물리적 크기의 속성 편집기에 표시를 추가했습니다.

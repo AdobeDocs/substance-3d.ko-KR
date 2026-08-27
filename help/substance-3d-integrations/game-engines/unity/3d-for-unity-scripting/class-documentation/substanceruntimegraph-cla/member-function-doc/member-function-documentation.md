@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntimegraph-class/member-function-documentation.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntimegraph-class/member-function-documentation.html"
 breadcrumb-title: ''
 description: Unity 스크립팅에서 SubstanceRuntimeGraph 클래스의 모든 멤버 함수에 대한 자세한 설명서입니다.
 helpx_creative_field: ""
@@ -61,7 +61,7 @@ Substance 인스턴스에 대한 모든 출력 텍스처가 있는 목록을 반
 
 **반환**
 
-출력 텍스처입니다.
+출력 텍스처.
 
 ### GetInputBool()
 

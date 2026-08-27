@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/blender/workflows.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/workflows.html"
 breadcrumb-title: ''
 description: 다양한 워크플로우에 대해 블렌더의 주기 및 이벤트 렌더러에서 Substance 재질을 사용하는 방법을 알아봅니다.
 helpx_creative_field: ""

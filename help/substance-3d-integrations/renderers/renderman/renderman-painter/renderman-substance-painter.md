@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/renderman/renderman-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/renderman/renderman-substance-painter.html"
 breadcrumb-title: ''
 description: pxrSurface 재질 및 적절한 출력 변환을 사용하여 Renderman에 대한 Substance Painter 텍스처를 내보냅니다.
 helpx_creative_field: ""
@@ -32,7 +32,7 @@ Substance Painter 2020.1(6.1.0)은 [**pxrSurface**](https://rmanwiki.pixar.com/d
 
 | Substance Painter 내보내기 | PxrSurface |
 | --- | --- |
-| DiffuseColor | 확산/색상 |
+| DiffuseColor | 확산 / 색상 |
 | 반사 거칠음 | 기본 Specular/거칠음 |
 | SpecularFaceColor | 기본 Specular/얼굴 색상 |
 | 표준 | Globals / Bump / PxrNormalMap → Orientation (Open GL) |

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/corona/corona-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/corona/corona-substance-painter.html"
 breadcrumb-title: ''
 description: Specular/광택 작업 과정과 적절한 변환을 사용하여 Corona 렌더러에 대한 Substance Painter 텍스처를 내보냅니다.
 helpx_creative_field: ""

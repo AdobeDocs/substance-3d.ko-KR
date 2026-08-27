@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/bakers-settings.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings.html"
 breadcrumb-title: ''
 description: 사용 가능한 모든 베이커 설정을 살펴보고 최적의 텍스처 생성 결과를 얻기 위해 각 베이커 유형을 구성하는 방법에 대해 알아보십시오.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/cinema-4d/substance-asset-manager.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d/substance-asset-manager.html"
 breadcrumb-title: ''
 description: Cinema 4D에서 Substance 에셋 관리자를 사용하여 장면에 Substance 재질을 추가, 제거 및 구성할 수 있습니다.
 helpx_creative_field: ""

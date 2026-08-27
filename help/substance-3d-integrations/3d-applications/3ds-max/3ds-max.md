@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/3ds-max.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max.html"
 breadcrumb-title: ''
 description: 3ds Max용 Substance 플러그인을 설치하고 사용하여 Substance 재질을 가져오고 렌더링 워크플로우를 개선합니다.
 helpx_creative_field: ""

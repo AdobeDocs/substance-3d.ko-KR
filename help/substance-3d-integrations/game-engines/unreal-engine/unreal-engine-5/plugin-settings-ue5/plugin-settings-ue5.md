@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/plugin-settings-ue5.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/plugin-settings-ue5.html"
 breadcrumb-title: ''
 description: Unreal Engine 5에서 프로젝트 설정을 통해 Substance 플러그인 설정을 구성하여 플러그인 동작을 사용자 정의합니다.
 helpx_creative_field: ""

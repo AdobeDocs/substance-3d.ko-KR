@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/3ds-max/substance-source.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/substance-source.html"
 breadcrumb-title: ''
 description: 3ds Max 프로젝트에서 바로 Substance Source 라이브러리의 Substance 자료에 액세스하고 사용할 수 있습니다.
 helpx_creative_field: ""

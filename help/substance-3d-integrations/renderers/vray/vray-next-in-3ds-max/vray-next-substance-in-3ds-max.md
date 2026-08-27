@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/vray/vray-next-substance-in-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/vray/vray-next-substance-in-3ds-max.html"
 breadcrumb-title: ''
 description: 내보낸 맵 또는 렌더링을 위한 Substance 플러그인을 통해 3ds Max의 V-Ray Next에서 Substance 재질을 사용합니다.
 helpx_creative_field: ""

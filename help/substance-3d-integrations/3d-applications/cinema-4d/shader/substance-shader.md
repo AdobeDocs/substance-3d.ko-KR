@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/cinema-4d/substance-shader.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d/substance-shader.html"
 breadcrumb-title: ''
 description: Substance 셰이더가 렌더링 워크플로우를 위해 Substance 에셋을 Cinema 4D 자료에 연결하는 방법을 살펴보세요.
 helpx_creative_field: ""

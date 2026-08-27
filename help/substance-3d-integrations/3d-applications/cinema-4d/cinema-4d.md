@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/cinema-4d.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d.html"
 breadcrumb-title: ''
 description: Cinema 4D용 Substance 플러그인을 설치하고 사용하여 프로젝트의 Substance 재질을 가져오고 작업합니다.
 helpx_creative_field: ""

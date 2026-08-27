@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/blender/substance-in-blender-overview.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/substance-in-blender-overview.html"
 breadcrumb-title: ''
 description: Blender용 Substance 3D 추가 기능과 프로젝트에서 Substance 재질을 가져오고 작업하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## 플러그인 개요
 
-Substance 3D 추가 기능을 통해 Substance 재질을 Blender로 가져올 수 있습니다. Substance 3D 패널을 사용하여 한 곳에서 프로젝트의 Substance 재질을 관리하고 사용자 정의할 수 있습니다. 추가 기능은 .sbsar 파일에서 텍스처 맵을 생성하고 이를 사용하여 블렌더 재질을 만듭니다. 이러한 텍스처는 Substance 매개변수가 조정되면 자동으로 업데이트됩니다.
+Substance 3D 추가 기능을 통해 Substance 재질을 Blender로 가져올 수 있습니다. Substance 3D 패널을 사용하여 한 곳에서 프로젝트의 Substance 재질을 관리하고 사용자 정의할 수 있습니다. 추가 기능은 .sbsar 파일에서 텍스처 맵을 생성하고 이를 사용하여 블렌더 재질을 만듭니다. 이러한 텍스처는 Substance 매개 변수를 조정하면 자동으로 업데이트됩니다.
 
 ## Substance 재료 가져오기
 
@@ -72,7 +72,7 @@ Substance 3D 패널은 프로젝트에서 Substance 재질을 관리하고 개�
 
 ## 더 많은 Substance 재질 찾기
 
-수천 개에 이르는 전문적으로 제작된 자료와 기타 에셋을 [Substance 3D Assets 페이지](https://helpx.adobe.com/kr/substance-3d/unlisted/assets.html)에서 다운로드할 수 있습니다. 커뮤니티에서 무료로 공유한 더 많은 에셋은 [Substance 3D 커뮤니티 에셋 페이지](https://helpx.adobe.com/kr/substance-3d/unlisted/community-assets.html)에서 찾을 수 있습니다.
+수천 개에 이르는 전문적으로 제작된 자료와 기타 에셋을 [Substance 3D Assets 페이지](https://helpx.adobe.com/substance-3d/unlisted/assets.html)에서 다운로드할 수 있습니다. 커뮤니티에서 무료로 공유한 더 많은 에셋은 [Substance 3D 커뮤니티 에셋 페이지](https://helpx.adobe.com/substance-3d/unlisted/community-assets.html)에서 찾을 수 있습니다.
 
 ## 커뮤니티
 

@@ -1,13 +1,13 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/common-issues/normal-map-has-strange-colorful-gradients.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/normal-map-has-strange-colorful-gradients.html"
 breadcrumb-title: ''
-description: 메시 표준, 스무딩 그룹 및 UV 매핑을 확인하여 표준 맵에서 이상한 색상의 그레이디언트를 수정합니다.
+description: 메시 표준, 스무딩 그룹 및 UV 매핑을 확인하여 노멀 맵에서 이상한 색상의 그레이디언트를 수정합니다.
 helpx_creative_field: ""
 helpx_description: bakers > Common Issues > Normal map has strange colorful gradients
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: 표준 지도에 이상한 다채로운 그레이디언트가 있음
+title: 노멀 맵에 이상한 다채로운 그레이디언트가 있음
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# 표준 지도에 이상한 다채로운 그레이디언트가 있음
+# 노멀 맵에 이상한 다채로운 그레이디언트가 있음
 
 빵집의 출력은 매우 강한 다채로운 그레이디언트의 집합입니다.
 
@@ -33,7 +33,7 @@ ht-degree: 0%
 * 하이-폴리는 로우-폴리가 포함하려고 하는 <b>누락된 도형</b>입니다.
 * 하이-폴리 또는 로우-폴리 메시는 반전된 정점 법선을 갖는다.
 
-이 경우 베이킹 프로세스는 존재하지 않는 도형을 일치시켜 빈 모양을 만듭니다. 베이커는 <b>확산</b>을 사용하지 않는 한 이 빈 영역을 텍스처의 인접 픽셀에서 추출한 색상으로 칠해 다채로운 그레이디언트를 만듭니다.
+이 경우 베이킹 프로세스는 존재하지 않는 도형을 일치시켜 빈 모양을 만듭니다. 베이커는 <b>확산</b>을 사용하지 않는 한 색상 그레이디언트를 만드는 텍스처의 인접 픽셀에서 추출한 색상으로 이 빈 영역을 채웁니다.
 
 ## 해결 방법
 

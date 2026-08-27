@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unity/unity-preferences.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-preferences.html"
 breadcrumb-title: ''
 description: Unity에서 Substance 3D 플러그인 환경 설정을 구성하여 플러그인 동작 및 설정을 사용자 정의합니다.
 helpx_creative_field: ""
@@ -30,7 +30,7 @@ Adobe Substance 3D 환경 설정 창에서 플러그인에 대한 사용자 정�
 
 **Substance 3D 에셋** - Substance 3D Assets 페이지에 연결.
 
-**3d 커뮤니티 에셋 Substance** - Substance 3D 커뮤니티 에셋 페이지에 연결
+**3d 커뮤니티 에셋 Substance** - Substance 3D 커뮤니티 에셋 페이지에 연결.
 
 **정보** - 플러그인 버전 정보를 표시합니다.
 

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/arnold/arnold-substance-in-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/arnold/arnold-substance-in-3ds-max.html"
 breadcrumb-title: ''
 description: Substance 플러그인과 표준 서피스 재질을 사용하여 3ds Max의 Arnold 렌더러와 함께 Substance 재질을 사용합니다.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> Arnold와 함께 작업하려면 Substance 텍스처에 대한 레거시 3ds Max 맵 지원을 활성화해야 합니다
+> Arnold와 함께 작업하려면 Substance 텍스처가 레거시 3ds Max Map 지원을 활성화해야 합니다
 
 ## 3ds Max 플러그인의 Substance
 

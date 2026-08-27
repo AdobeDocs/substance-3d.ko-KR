@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/cinema-4d/set-up.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d/set-up.html"
 breadcrumb-title: ''
 description: 시스템 요구 사항을 충족하고 플러그인을 올바르게 설치하여 Cinema 4D에서 Substance 플러그인을 설정합니다.
 helpx_creative_field: ""

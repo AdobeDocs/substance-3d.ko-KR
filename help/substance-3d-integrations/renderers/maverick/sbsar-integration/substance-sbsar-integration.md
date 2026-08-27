@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/maverick/substance-sbsar-integration.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maverick/substance-sbsar-integration.html"
 breadcrumb-title: ''
 description: 실시간 재질 편집 및 매개 변수 제어를 위해 Maverick 렌더러에서 직접 Substance SBSAR 파일을 사용합니다.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Substance SBSAR 통합
 
-**Substance Designer 또는 Substance에서** **쉽게**&#x200B;**이져오기를** **SBSAR 파일** **생성** **&#x200B;**&#x200B;**Alchemist** **대상** **Maverick &#x200B;**&#x200B;**팔로우**&#x200B;**중** **개** **이들** **2** **메서드**&#x200B;**:**
+**Substance Designer 또는 Substance에서** **쉽게****이져오기를** **SBSAR 파일** **생성** **** **Alchemist** **대상** **Maverick ****팔로우****중** **개** **이들** **2** **메서드****:**
 
 **메서드** **1:**
 
@@ -34,7 +34,7 @@ ht-degree: 0%
 
    ![](../../../assets/maverickrender-sbsar-drop.jpg)
 
-   **메서드** **2**&#x200B;**:**
+   **메서드** **2****:**
 1. SBSAR 파일을 Windows 탐색기에서 장면의 임의 개체로 간단히 드롭합니다. [재질] 패널에도 SBSAR 파일을 놓을 수 있습니다.
 1. 가져오기 대화 상자에서 다음과 같은 재질 매개변수를 설정할 수 있습니다.
 

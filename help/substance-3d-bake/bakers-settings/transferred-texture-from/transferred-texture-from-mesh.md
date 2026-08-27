@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/bakers-settings/transferred-texture-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/transferred-texture-from-mesh.html"
 breadcrumb-title: ''
 description: 일반 맵 변환 지원을 포함하여 UV를 기반으로 메시 간에 텍스처를 전송합니다.
 helpx_creative_field: ""
@@ -35,5 +35,5 @@ ht-degree: 3%
 | **UV 설정** | 메시 UV를 사용하여 높은 폴리 메시에서 텍스처를 읽고 낮은 폴리 메시 위에 투영합니다. |
 | **필터링 모드** | 텍스처의 픽셀 보간을 수행하는 방법을 정의합니다.가능한 값:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>가장 가까운</strong>: 보간이 없습니다. 지정된 위치에서 가장 가까운 픽셀을 사용하십시오. 정밀하지만 앨리어싱을 만들 수 있습니다.</li><li data-preserve-html="true"><strong>쌍선형</strong>(기본값): 지정된 위치에 가장 가까운 네 개의 픽셀을 사용합니다. 앨리어싱은 없지만 흐리게 표시될 수 있습니다.</li></ul> |
 | **표준 맵** | 활성화된 경우 전송할 입력 텍스처가 표준 맵임을 제빵사에 나타냅니다. 이는 베이커가 텍스처에 특수 변환을 적용하여 대상 메쉬와 호환되도록 함을 나타냅니다. |
-| **맵 유형** | 입력 텍스처의 표준 맵 유형을 정의합니다.가능한 값:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>월드 스페이스</strong></li><li data-preserve-html="true"><strong>탄젠트 공간</strong>(기본값)</li></ul> |
-| **일반 방향** | **맵 유형**&#x200B;이 **탄젠트 공간**(으)로 설정된 경우 입력 텍스처의 표준 형식을 정의합니다.가능한 값은 다음과 같습니다.<ul data-preserve-html="true"><li data-preserve-html="true"><strong>OpenGL</strong></li><li data-preserve-html="true"><strong>DirectX</strong>(기본값)</li></ul> |
+| **맵 유형** | 입력 텍스처의 표준 맵 유형을 정의합니다.가능한 값:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>월드 스페이스</strong></li><li data-preserve-html="true"><strong>접선 공간</strong>(기본값)</li></ul> |
+| **일반 방향** | **맵 유형**&#x200B;이 **접선 공간**(으)로 설정된 경우 입력 텍스처의 일반 형식을 정의합니다.가능한 값:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>OpenGL</strong></li><li data-preserve-html="true"><strong>DirectX</strong>(기본값)</li></ul> |

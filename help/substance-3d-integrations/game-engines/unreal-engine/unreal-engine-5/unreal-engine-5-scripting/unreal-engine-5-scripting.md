@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5-scripting.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/unreal-engine-5-scripting.html"
 breadcrumb-title: ''
 description: Substance Unreal Engine 5 스크립팅 API 를 사용하여 프로젝트의 Substance 자료를 프로그래밍 방식으로 관리합니다.
 helpx_creative_field: ""

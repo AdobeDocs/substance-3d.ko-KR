@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/color-management/substance-textures-in-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/color-management/substance-textures-in-3ds-max.html"
 breadcrumb-title: ''
 description: 적절한 색상 관리를 위해 Substance 플러그인이 3ds Max의 텍스처에 대한 감마 설정을 처리하는 방법을 이해합니다.
 helpx_creative_field: ""
@@ -22,6 +22,6 @@ ht-degree: 0%
 
 3ds Max 플러그인의 Substance은 출력의 감마 설정을 처리합니다.
 
-텍스처를 가져올 때 금속, 거칠기, 표준, Height 및 변위 같은 색상 외의 데이터를 나타내는 이미지에 대해 [감마]를 [재정의1.0]으로 설정해야 합니다.
+텍스처를 가져올 때 금속, 거칠기, 표준, Height 및 변위와 같은 색상 외의 데이터를 나타내는 이미지에 대해 [감마]를 Override1.0으로 설정해야 합니다.
 
 ![](../../../assets/3ds-override.png)
