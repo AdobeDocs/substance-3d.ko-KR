@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/generated-textures-packing.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unity/generated-textures-packing.html"
 breadcrumb-title: ''
 description: Substance이 Unity에서 텍스처를 생성하는 방법을 이해하고 최적의 셰이더 입력을 위해 텍스처 패킹을 구성합니다.
 helpx_creative_field: ""

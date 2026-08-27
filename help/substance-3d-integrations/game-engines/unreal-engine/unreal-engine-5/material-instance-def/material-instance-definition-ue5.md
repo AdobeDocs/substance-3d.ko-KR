@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-instance-definition-ue5.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-instance-definition-ue5.html"
 breadcrumb-title: ''
 description: Unreal Engine 5에서 Substance 재질을 사용하여 재질 인스턴스 정의를 만들어 GPU 렌더링 성능을 최적화합니다.
 helpx_creative_field: ""
@@ -35,4 +35,4 @@ Substance에 UE5 재질 인스턴스를 사용할 수 있습니다. 이렇게 �
 
    ![](../../../../assets/screen-shot-2022-03-31-at-6-13-18-pm.png)
 
-이제 특정 Substance 텍스처 세트를 사용하는 UE5 재질 인스턴스가 있습니다. 이는 UE5 프로젝트에서 여러 물질을 사용하여 작업하는 보다 최적화된 방법입니다. 청사진을 사용하여 MID를 만드는 방법을 알아보려면 이 페이지를 확인하십시오. [청사진(UE5): 동적 재질 인스턴스](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-dynamic-material-instance-152535142.html)
+이제 특정 Substance 텍스처 세트를 사용하는 UE5 재질 인스턴스가 있습니다. 이는 UE5 프로젝트에서 여러 물질을 사용하여 작업하는 보다 최적화된 방법입니다. 청사진을 사용하여 MID를 만드는 방법을 알아보려면 이 페이지를 확인하십시오. [청사진(UE5): 동적 재질 인스턴스](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/integrations/blueprint-dynamic-material-instance-152535142.html)

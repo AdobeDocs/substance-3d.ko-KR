@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/corona/corona-for-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/corona/corona-for-3ds-max.html"
 breadcrumb-title: ''
 description: 3ds Max에서 Substance 재질을 Corona 렌더러와 함께 Specular/광택도 워크플로우 및 필수 맵을 사용하여 사용하세요.
 helpx_creative_field: ""

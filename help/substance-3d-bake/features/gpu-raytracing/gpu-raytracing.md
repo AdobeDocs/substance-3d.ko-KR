@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/features/gpu-raytracing.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/features/gpu-raytracing.html"
 breadcrumb-title: ''
 description: 하드웨어 가속 GPU 광선 추적을 활성화하여 더 빠른 워크플로우를 위해 베이킹 계산 속도를 25배 이상 높입니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/troubleshooting.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/3ds-max/troubleshooting.html"
 breadcrumb-title: ''
 description: 오류 메시지에 대해 Script Listener를 사용하여 3ds Max에서 Substance 플러그인 문제를 진단하고 해결합니다.
 helpx_creative_field: ""

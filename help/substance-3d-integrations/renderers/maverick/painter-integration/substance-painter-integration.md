@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maverick/substance-painter-integration.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/maverick/substance-painter-integration.html"
 breadcrumb-title: ''
 description: Substance Painter을 Maverick 렌더러와 통합하여 매끄러운 재질 워크플로우와 제품 시각화를 수행합니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/guides/triangulating-before-baking.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/guides/triangulating-before-baking.html"
 breadcrumb-title: ''
 description: 메시 삼각측정이 베이킹 결과에 어떤 영향을 미치는지 이해하고 형상을 준비하기 위한 모범 사례를 알아보십시오.
 helpx_creative_field: ""

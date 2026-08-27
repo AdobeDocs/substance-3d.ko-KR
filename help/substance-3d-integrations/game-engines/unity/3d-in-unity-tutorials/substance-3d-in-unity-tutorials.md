@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/substance-3d-in-unity-tutorials.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unity/substance-3d-in-unity-tutorials.html"
 breadcrumb-title: ''
 description: Unity 프로젝트에서 Substance 3D 재질 을 사용하여 마스터하려면 비디오 튜토리얼과 학습 리소스에 액세스하십시오.
 helpx_creative_field: ""

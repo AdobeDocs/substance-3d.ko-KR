@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-template-usage-ue5/out-of-the-box-material-templates.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/material-template-usage-ue5/out-of-the-box-material-templates.html"
 breadcrumb-title: ''
 description: SBSAR 재질을 Unreal 엔진 5로 가져올 때 사전 설치된 재질 템플릿을 사용하면 빠른 설정 및 워크플로를 수행할 수 있습니다.
 helpx_creative_field: ""

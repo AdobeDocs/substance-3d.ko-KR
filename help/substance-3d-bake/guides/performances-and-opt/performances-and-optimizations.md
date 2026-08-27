@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/guides/performances-and-optimizations.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/guides/performances-and-optimizations.html"
 breadcrumb-title: ''
 description: 하드웨어 설정 및 메시 준비를 최적화하여 더 빠른 베이킹 성능을 얻는 방법에 대해 알아보십시오.
 helpx_creative_field: ""
@@ -66,4 +66,4 @@ Substance 베이커 사용에 대한 최소 요구 사항은 없지만, 다음 �
 * 앰비언트 오클루전 제빵사와 함께 촘촘한 망을 굽는 경우
 * 매우 밀도 높은 폴리 메시(6천만 개 이상의 삼각형)가 있는 DXR 가속 베이커를 사용할 때
 
-TDR에 대한 추가 정보와 관련 설정을 수정하는 방법에 대한 단계별 안내서는 여기에서 확인할 수 있습니다. [TDR(긴 계산) 충돌이 있는 GPU 드라이버 충돌](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/gpu-drivers-crash-with-long-computations-128745489.html)
+TDR에 대한 추가 정보와 관련 설정을 수정하는 방법에 대한 단계별 안내서는 여기에서 확인할 수 있습니다. [TDR(긴 계산) 충돌이 있는 GPU 드라이버 충돌](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/spdoc/gpu-drivers-crash-with-long-computations-128745489.html)

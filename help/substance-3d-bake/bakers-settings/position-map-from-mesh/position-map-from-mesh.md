@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/position-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/bakers-settings/position-map-from-mesh.html"
 breadcrumb-title: ''
 description: 하이 폴리 메쉬에서 정확한 위치 맵을 계산하여 정확한 형상 위치 정보를 캡처합니다.
 helpx_creative_field: ""

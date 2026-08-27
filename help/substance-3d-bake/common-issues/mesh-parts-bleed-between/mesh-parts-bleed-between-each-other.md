@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/mesh-parts-bleed-between-each-other.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/common-issues/mesh-parts-bleed-between-each-other.html"
 breadcrumb-title: ''
 description: 이름별 일치 또는 거리 조정을 사용하여 베이킹 중에 메시 부분이 서로 번지지 않도록 합니다.
 helpx_creative_field: ""
@@ -41,5 +41,5 @@ ht-degree: 0%
 > 이 문제를 방지하기 위해 몇 가지 해결 방법을 사용할 수 있습니다.
 > 
 > * [이름별 일치](../../features/matching-by-name/matching-by-name.md) 기능을 사용하여 메시를 격리합니다
-> * 광선 거리를 제한하려면 [케이지](https://helpx.adobe.com/substance-3d/unlisted/documentation/bake/cage-projection-172822982.html)를 사용하십시오.
+> * 광선 거리를 제한하려면 [케이지](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/bake/cage-projection-172822982.html)를 사용하십시오.
 > * 일반적인 베이커 설정에서 기본 광선 거리를 더 낮은 값으로 변경합니다.

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/settings.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/maya/settings.html"
 breadcrumb-title: ''
 description: 동작을 사용자 정의하려면 [Substance 모음] 또는 메뉴를 통해 Maya에서 Substance 플러그인 설정을 구성합니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/cycles-and-eevee/cycles-and-eevee-substance-3d-for-blender.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/cycles-and-eevee/cycles-and-eevee-substance-3d-for-blender.html"
 breadcrumb-title: ''
 description: Substance 추가 기능 통합을 통해 Blender의 Cycles 및 Evee 렌더러와 Substance 3D 재질을 함께 사용할 수 있습니다.
 helpx_creative_field: ""

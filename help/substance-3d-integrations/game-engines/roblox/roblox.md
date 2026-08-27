@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/roblox.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/roblox.html"
 breadcrumb-title: ''
 description: PBR 금속성 거칠기 워크플로우가 있는 Roblox Studio의 Substance 재질을 사용하여 몰입형 3D 경험을 할 수 있습니다.
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ## Substance 3D Designer 템플릿
 
-Roblox용 텍스처를 만들려면 아래의 Substance 3D 파일을 [Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/home)에서 [Substance 합성 그래프](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/substance-compositing-graphs) 템플릿으로 사용할 수 있습니다.
+Roblox용 텍스처를 만들려면 아래의 Substance 3D 파일을 [Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/home)에서 [Substance 합성 그래프](https://experienceleague.adobe.com/ko/docs/substance-3d-designer/using/substance-graphs/substance-compositing-graphs) 템플릿으로 사용할 수 있습니다.
 
 [roblox 템플릿에 연결된 sbs 파일 형식 아이콘의 ![이미지.](../../assets/sbs.png){width="64px"}](https://helpx.adobe.com/content/dam/roblox.sbs)
 
@@ -78,12 +78,12 @@ Roblox용 텍스처를 만들려면 아래의 Substance 3D 파일을 [Substance 
 그런 다음 Designer에서 템플릿 폴더를 *감시*&#x200B;하여 그래프 템플릿을 찾도록 하세요.
 
 * Designer에서 **편집 > 환경 설정...**(으)로 이동합니다.
-* [환경 설정](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/preferences/preferences-window) 창에서 **프로젝트 > 사용자 프로젝트 > 일반**(으)로 이동
+* [환경 설정](https://experienceleague.adobe.com/ko/docs/substance-3d-designer/using/workspace/preferences/preferences-window) 창에서 **프로젝트 > 사용자 프로젝트 > 일반**(으)로 이동
 * **템플릿 디렉터리** 목록에서 **+** 단추를 클릭합니다.
 * `templates` 디렉터리로 이동하여 **폴더 선택**&#x200B;을 클릭합니다.
 * **확인** 단추를 클릭합니다.
 * **파일 > 새로 만들기 > Substance 그래프...**(으)로 이동
-* [새 Substance 그래프](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html) 창에서 `Roblox` 템플릿이 템플릿 목록의 맨 아래에 나열되어 있는지 확인합니다
+* [새 Substance 그래프](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html) 창에서 `Roblox` 템플릿이 템플릿 목록의 맨 아래에 나열되어 있는지 확인합니다
 
 </td>
 <td style="border: 0;" valign="top">
@@ -102,11 +102,11 @@ Roblox용 텍스처를 만들려면 아래의 Substance 3D 파일을 [Substance 
 
 Roblox 템플릿을 사용하여 그래프를 만들고 재료 작업이 완료되면 그래프에서 비트맵을 내보냅니다.
 
-* [새 Substance 그래프](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html) 창에서 `Roblox` 템플릿을 선택합니다
+* [새 Substance 그래프](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/sddoc/create-a-graph-102400068.html) 창에서 `Roblox` 템플릿을 선택합니다
 * 그래프의 식별자 및 기타 매개 변수를 설정하고 **확인**&#x200B;을 클릭하세요.
-* [그래프 보기](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/workspace/graph-view/the-graph-view)에서 재질 작업 - 작업 과정을 시작하려면 [여기](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/getting-started/workflow-overview)를 참조하세요
+* [그래프 보기](https://experienceleague.adobe.com/ko/docs/substance-3d-designer/using/workspace/graph-view/the-graph-view)에서 재질 작업 - 작업 과정을 시작하려면 [여기](https://experienceleague.adobe.com/ko/docs/substance-3d-designer/using/getting-started/workflow-overview)를 참조하세요
 * 완료되면 그래프 보기 *도구 모음*&#x200B;에서 **도구 > 비트맵 내보내기...**(으)로 이동합니다.
-* [비트맵 내보내기](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/substance-graphs/exporting-bitmaps) 창에서 올바른 **대상** 경로를 설정하고 *모든* 출력이 *체크 표시*&#x200B;되었는지 확인한 다음 **내보내기**&#x200B;를 클릭하세요.
+* [비트맵 내보내기](https://experienceleague.adobe.com/ko/docs/substance-3d-designer/using/substance-graphs/exporting-bitmaps) 창에서 올바른 **대상** 경로를 설정하고 *모든* 출력이 *체크 표시*&#x200B;되었는지 확인한 다음 **내보내기**&#x200B;를 클릭하세요.
 * 텍스처가 **대상** 경로로 올바르게 내보내졌는지 확인하세요.
 
 </td>

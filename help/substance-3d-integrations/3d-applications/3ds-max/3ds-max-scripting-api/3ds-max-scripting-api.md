@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/3ds-max-scripting-api.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/3ds-max/3ds-max-scripting-api.html"
 breadcrumb-title: ''
 description: 재료 작업을 자동화하는 Substance 3ds Max 스크립팅 API에 대한 참조 설명서.
 helpx_creative_field: ""

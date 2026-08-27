@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/opacity-mask-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/bakers-settings/opacity-mask-from-mesh.html"
 breadcrumb-title: ''
 description: 투명도 효과를 위해 놓친 광선을 회색 음영의 이진 이미지로 변환하여 불투명도 마스크를 생성합니다.
 helpx_creative_field: ""

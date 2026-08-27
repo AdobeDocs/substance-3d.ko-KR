@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/scripting-in-unity-deprecated/c-example-script.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unity/scripting-in-unity-deprecated/c-example-script.html"
 breadcrumb-title: ''
 description: 매개 변수 변경에 대해 더 이상 사용되지 않는 Substance Unity API를 사용하는 방법을 보여 주는 예제 C# 스크립트.
 helpx_creative_field: ""

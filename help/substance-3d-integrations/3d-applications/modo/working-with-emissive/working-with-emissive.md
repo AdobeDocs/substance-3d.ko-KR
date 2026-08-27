@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/working-with-emissive.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/modo/working-with-emissive.html"
 breadcrumb-title: ''
 description: MODO의 Substance 재료에 대한 방출 특성을 구성하여 광도 및 색상 설정을 제어합니다.
 helpx_creative_field: ""

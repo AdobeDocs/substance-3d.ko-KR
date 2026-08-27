@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/tiling-substance-ue4.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/tiling-substance-ue4.html"
 breadcrumb-title: ''
 description: 텍스처 좌표 노드 및 스칼라 매개 변수를 재질에 추가하여 Unreal Engine 4에서 타일 Substance 텍스처를 만듭니다.
 helpx_creative_field: ""

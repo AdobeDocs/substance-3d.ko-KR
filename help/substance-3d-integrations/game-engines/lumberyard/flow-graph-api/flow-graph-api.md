@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/lumberyard/flow-graph-api.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/lumberyard/flow-graph-api.html"
 breadcrumb-title: ''
 description: Lumberyard의 흐름 그래프 노드를 사용하여 절차 재질 설정을 프로그래밍 방식으로 구성합니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/software-interface/substance-3d-designer.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/getting-started/software-interface/substance-3d-designer.html"
 breadcrumb-title: ''
 description: Substance 3D Designer에서 베이킹 윈도우에 액세스하여 모델 정보를 텍스처로 베이킹하는 방법을 알아봅니다.
 helpx_creative_field: ""
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 ![](../../../assets/sd-mesh-right-click.png)
 
-[탐색기](https://helpx.adobe.com/substance-3d/unlisted/documentation/sddoc/the-explorer-129368147.html) 창에서 메시 파일을 통해 베이킹 창에 액세스할 수 있습니다. 메쉬 이름을 마우스 오른쪽 단추로 클릭하고 &quot;**모델 정보 구울**&quot;을(를) 선택하여 구울 창을 엽니다.
+[탐색기](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/sddoc/the-explorer-129368147.html) 창에서 메시 파일을 통해 베이킹 창에 액세스할 수 있습니다. 메쉬 이름을 마우스 오른쪽 단추로 클릭하고 &quot;**모델 정보 구울**&quot;을(를) 선택하여 구울 창을 엽니다.
 
 ## 개요
 

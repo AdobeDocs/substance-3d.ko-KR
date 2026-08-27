@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/how-to-export-the-baked-maps.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/common-questions/how-to-export-the-baked-maps.html"
 breadcrumb-title: ''
 description: Substance Designer 및 Painter에서 구운 텍스처를 내보내 다른 애플리케이션에서 사용하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

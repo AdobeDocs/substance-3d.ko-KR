@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/home.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/home.html"
 breadcrumb-title: ''
 description: Substance Baker를 사용하여 메시 기반 정보를 텍스처 파일로 계산하고 텍스처링 워크플로우를 향상시키는 방법을 알아봅니다.
 helpx_creative_field: ""
@@ -122,7 +122,7 @@ ht-degree: 13%
 ### 일반적인 문제
 
 * [UV 솔기의 앨리어싱](../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md)
-* [베이커 출력이 완전히 검정색이거나 비어 있음](https://helpx.adobe.com/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
+* [베이커 출력이 완전히 검정색이거나 비어 있음](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/bake/baker-output-is-fully-black-159451835.html)
 * [메쉬에서 색상 맵으로 인해 베이킹 실패](../common-issues/baking-failed-with-color/baking-failed-with-color-map-from-mesh.md)
 * [메시 표면에 검은색 음영 십자가 표시됨](../common-issues/black-shading-cross-are/black-shading-cross-are-visible-on-the-mesh-surface.md)
 * [메시 부분이 서로 간에 재단 물림](../common-issues/mesh-parts-bleed-between/mesh-parts-bleed-between-each-other.md)

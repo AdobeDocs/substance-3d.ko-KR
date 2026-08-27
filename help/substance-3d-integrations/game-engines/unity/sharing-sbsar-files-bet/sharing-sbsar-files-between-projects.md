@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/sharing-sbsar-files-between-projects.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unity/sharing-sbsar-files-between-projects.html"
 breadcrumb-title: ''
 description: 사전 설정 파일을 사용하여 매개 변수 조정을 유지하면서 Unity 프로젝트 간에 Substance SBSAR 파일을 공유합니다.
 helpx_creative_field: ""
