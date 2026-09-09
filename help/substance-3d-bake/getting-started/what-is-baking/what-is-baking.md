@@ -1,5 +1,5 @@
 ---
-helpx_url: 'https://helpx.adobe.com/substance-3d-bake/getting-started/what-is-baking.html'
+helpx_url: 'https://helpx.adobe.com/kr/substance-3d-bake/getting-started/what-is-baking.html'
 breadcrumb-title: ''
 description: 베이킹이 무엇인지 알아보고 3D 메시 정보를 텍스처 파일에 저장하여 Substance 재질을 향상시키는 방법을 알아보십시오.
 helpx_creative_field: ''
