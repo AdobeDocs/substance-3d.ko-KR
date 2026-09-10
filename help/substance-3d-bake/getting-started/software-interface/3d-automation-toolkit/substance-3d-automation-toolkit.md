@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/software-interface/substance-3d-automation-toolkit.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/getting-started/software-interface/substance-3d-automation-toolkit.html"
 breadcrumb-title: ''
 description: 자동화 툴킷에서 사용할 수 있는 Substance 베이커의 명령줄 버전인 sbsbaker를 사용하는 방법을 알아봅니다.
 helpx_creative_field: ""
@@ -22,4 +22,4 @@ ht-degree: 0%
 
 Substance 3D 자동화 툴킷은 여러 개의 도구를 제공하며 그 중 하나는 Substance 베이커의 명령줄 버전인 **sbsbaker**&#x200B;입니다.
 
-자세한 내용은 [전용 설명서](https://helpx.adobe.com/substance-3d-sat/command-line-tools/sbsbaker.html)를 참조하십시오.
+자세한 내용은 [전용 설명서](https://helpx.adobe.com/kr/substance-3d-sat/command-line-tools/sbsbaker.html)를 참조하십시오.

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/substance-in-modo-overview.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/modo/substance-in-modo-overview.html"
 breadcrumb-title: ''
 description: MODO용 Substance 플러그인과 작업 과정에서 Substance 재질을 가져오고 사용하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

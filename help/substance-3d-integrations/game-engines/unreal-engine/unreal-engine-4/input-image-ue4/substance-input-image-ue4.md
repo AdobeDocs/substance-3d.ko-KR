@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/substance-input-image-ue4.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/substance-input-image-ue4.html"
 breadcrumb-title: ''
 description: Unreal Engine 4에서 이미지 텍스처를 Substance 재질에 대한 입력 매개변수로 사용하여 모듈식 재질을 만듭니다.
 helpx_creative_field: ""

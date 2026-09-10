@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/what-is-the-bit-depth-of-baked-textures.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/common-questions/what-is-the-bit-depth-of-baked-textures.html"
 breadcrumb-title: ''
 description: 구운 텍스처의 비트 심도와 텍스처 품질과 파일 크기에 미치는 영향에 대해 살펴봅니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/lumberyard/parameters-and-outputs.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/lumberyard/parameters-and-outputs.html"
 breadcrumb-title: ''
 description: 프로시저 재질 편집기를 사용하여 Lumberyard에서 Substance 재질 매개변수를 수정하고 출력을 구성합니다.
 helpx_creative_field: ""

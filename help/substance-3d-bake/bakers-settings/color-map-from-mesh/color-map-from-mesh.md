@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/color-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/bakers-settings/color-map-from-mesh.html"
 breadcrumb-title: ''
 description: 하이 폴리 메시에서 색상 속성을 텍스처로 투영하여 선택 마스크에 사용할 폴리 페인트 또는 재질 ID를 굽습니다.
 helpx_creative_field: ""

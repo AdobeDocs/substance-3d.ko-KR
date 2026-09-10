@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/maya.html"
 breadcrumb-title: ''
 description: Maya용 Substance 플러그인을 설치하고 사용하여 Substance 재질을 가져오고 작업 과정에 통합합니다.
 helpx_creative_field: ""
@@ -36,4 +36,4 @@ ht-degree: 3%
 * [아놀드 지원](../../3d-applications/maya/arnold-support/arnold-support.md)
 * [맵에 워크플로우 적용](../../3d-applications/maya/apply-workflow-to-maps/apply-workflow-to-maps.md)
 * [Maya 스크립팅](../../3d-applications/maya/maya-scripting/maya-scripting.md)
-* [마야의 물리적 크기](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/232292481.html)
+* [마야의 물리적 크기](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/integrations/232292481.html)

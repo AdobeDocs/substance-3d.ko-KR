@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/modo.html"
 breadcrumb-title: ''
 description: MODO용 Substance 플러그인을 설치하고 사용하여 3D 프로젝트에서 Substance 재질을 가져오고 작업할 수 있습니다.
 helpx_creative_field: ""

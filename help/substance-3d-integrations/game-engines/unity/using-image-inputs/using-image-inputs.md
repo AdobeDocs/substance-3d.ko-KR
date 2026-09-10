@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/using-image-inputs.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unity/using-image-inputs.html"
 breadcrumb-title: ''
 description: Unity에서 Substance 재질의 입력 매개 변수로 이미지 텍스처를 사용하여 재질의 사용자 지정을 개선합니다.
 helpx_creative_field: ""

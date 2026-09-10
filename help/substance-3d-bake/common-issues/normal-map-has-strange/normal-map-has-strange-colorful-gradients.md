@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/normal-map-has-strange-colorful-gradients.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/common-issues/normal-map-has-strange-colorful-gradients.html"
 breadcrumb-title: ''
 description: 메시 표준, 스무딩 그룹 및 UV 매핑을 확인하여 노멀 맵에서 이상한 색상의 그레이디언트를 수정합니다.
 helpx_creative_field: ""

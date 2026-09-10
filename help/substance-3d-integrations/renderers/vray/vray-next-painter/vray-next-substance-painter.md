@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/vray/vray-next-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/vray/vray-next-substance-painter.html"
 breadcrumb-title: ''
 description: 출력 템플릿 및 적절한 워크플로우 설정을 사용하여 V-Ray 다음 렌더러용 Substance Painter 텍스처를 내보냅니다.
 helpx_creative_field: ""
@@ -28,7 +28,7 @@ Substance Painter 2020.1(6.1.0)은 금속 및 Specular 워크플로우 모두에
 
 >[!NOTE]
 >
-> 프로젝트가 [UV 타일 UDIM 레거시](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/uv-tile-udim-legacy-144310352.html)를 사용하도록 설정된 경우. 다음 UDIM 출력 템플릿 사용.
+> 프로젝트가 [UV 타일 UDIM 레거시](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/spdoc/uv-tile-udim-legacy-144310352.html)를 사용하도록 설정된 경우. 다음 UDIM 출력 템플릿 사용.
 
 ![](../../../assets/vray-mtl-shader.png){width="800px"}
 

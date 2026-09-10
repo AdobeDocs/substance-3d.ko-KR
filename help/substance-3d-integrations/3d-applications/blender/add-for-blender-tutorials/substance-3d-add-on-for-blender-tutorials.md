@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/substance-3d-add-on-for-blender-tutorials.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/blender/substance-3d-add-on-for-blender-tutorials.html"
 breadcrumb-title: ''
 description: Blender에서 Substance 3D 추가 기능을 사용하여 마스터하려면 비디오 튜토리얼과 학습 리소스에 액세스하십시오.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/physical-size-in-maya.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/maya/physical-size-in-maya.html"
 breadcrumb-title: ''
 description: Maya의 물리적 크기 설정을 사용하여 정확한 시각화를 위해 Substance 자료를 실제 크기로 적용할 수 있습니다.
 helpx_creative_field: ""

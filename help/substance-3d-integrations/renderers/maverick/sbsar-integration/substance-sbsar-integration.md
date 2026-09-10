@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maverick/substance-sbsar-integration.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/maverick/substance-sbsar-integration.html"
 breadcrumb-title: ''
 description: 실시간 재질 편집 및 매개 변수 제어를 위해 Maverick 렌더러에서 직접 Substance SBSAR 파일을 사용합니다.
 helpx_creative_field: ""

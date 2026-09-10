@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/working-with-outputs.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/maya/working-with-outputs.html"
 breadcrumb-title: ''
 description: Maya에서 Substance 재질 출력을 활성화 및 비활성화하여 계산 및 사용할 텍스처를 제어합니다.
 helpx_creative_field: ""

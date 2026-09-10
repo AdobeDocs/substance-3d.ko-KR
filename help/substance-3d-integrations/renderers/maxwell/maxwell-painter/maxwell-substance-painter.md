@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maxwell/maxwell-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/maxwell/maxwell-substance-painter.html"
 breadcrumb-title: ''
 description: 적절한 출력 템플릿 및 질감 설정을 사용하여 Maxwell 렌더러용 Substance Painter 텍스처를 내보냅니다.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Maxwell - Substance Painter
 
-Substance Painter 2020.1(6.1.0)은 금속/거칠기 및 Specular/광택도에 대해 Maxwell [출력 템플릿](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/getting-started/export/export)를 지원합니다. Maxwell **를 사용하여 간단하게 내보낼 수 있습니다.\
+Substance Painter 2020.1(6.1.0)은 금속/거칠기 및 Specular/광택도에 대해 Maxwell [출력 템플릿](https://experienceleague.adobe.com/ko/docs/substance-3d-painter/using/getting-started/export/export)를 지원합니다. Maxwell **를 사용하여 간단하게 내보낼 수 있습니다.\
 Maxwell 5.1.0**은 텍스처를 쉽게 가져오고 Maxwell 재질을 자동으로 설정할 수 있도록 Substance Painter과 통합되었습니다.
 
 ## 텍스처 내보내기

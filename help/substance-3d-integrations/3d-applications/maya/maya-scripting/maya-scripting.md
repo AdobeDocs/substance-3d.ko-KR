@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/maya-scripting.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/maya/maya-scripting.html"
 breadcrumb-title: ''
 description: Maya API Substance을 사용하면 Maya 작업 과정에서 Substance 재질 제작 및 관리를 스크립팅할 수 있습니다.
 helpx_creative_field: ""

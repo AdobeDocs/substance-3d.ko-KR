@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/redshift.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/redshift.html"
 breadcrumb-title: ''
 description: Maya 및 3ds Max에서 Redshift 렌더러를 사용하여 Substance 재질(금속 워크플로 지원 포함)을 사용할 수 있습니다.
 helpx_creative_field: ""

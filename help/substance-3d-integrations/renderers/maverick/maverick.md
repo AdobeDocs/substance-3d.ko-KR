@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maverick.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/maverick.html"
 breadcrumb-title: ''
 description: Painter 통합 및 SBSAR 지원을 통해 제품 시각화를 위한 Maverick 렌더러의 Substance 재질을 사용하십시오.
 helpx_creative_field: ""

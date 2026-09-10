@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-general/ecosystem/legacy-versions.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-general/ecosystem/legacy-versions.html"
 breadcrumb-title: ''
 description: 이전 라이선스 키 파일 활성화 시스템을 사용하는 Substance 3D 애플리케이션의 이전 버전에 액세스합니다.
 helpx_creative_field: ""

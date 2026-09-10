@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/lumberyard/importing-a-substance.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/lumberyard/importing-a-substance.html"
 breadcrumb-title: ''
 description: 프로시저 재질 편집기를 사용하여 Substance 재질 파일을 Lumberyard 프로젝트로 가져옵니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/animating-substances.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/modo/animating-substances.html"
 breadcrumb-title: ''
 description: MODO에서 시간이 지남에 따라 Substance 재질 매개 변수에 애니메이션을 적용하여 동적 재질 효과 및 변형을 만듭니다.
 helpx_creative_field: ""

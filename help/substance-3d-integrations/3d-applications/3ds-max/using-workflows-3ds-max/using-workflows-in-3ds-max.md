@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/using-workflows-in-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/3ds-max/using-workflows-in-3ds-max.html"
 breadcrumb-title: ''
 description: 3ds Max의 렌더링 워크플로우를 사용하여 Substance 재질에서 다른 렌더러에 대한 셰이더 네트워크를 자동으로 만들 수 있습니다.
 helpx_creative_field: ""

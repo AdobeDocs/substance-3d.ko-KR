@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/seams-are-visible-after-baking-a-normal-texture.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/common-issues/seams-are-visible-after-baking-a-normal-texture.html"
 breadcrumb-title: ''
 description: 패딩, 앤티 앨리어싱 및 UV 레이아웃을 조정하여 구운 표준 텍스처에서 보이는 이음새를 제거하세요.
 helpx_creative_field: ""
@@ -41,4 +41,4 @@ ht-degree: 0%
 > * 종종 UV가 픽셀에 정렬되지 않아 앨리어싱이 발생하고 솔기가 생성됩니다. 자세한 내용은 [이 페이지](../../common-issues/aliasing-on-uv-seams/aliasing-on-uv-seams.md)를 참조하세요.
 >   * 텍스처 해상도를 높이는 것이 이러한 효과를 줄이는 방법이 될 수 있다.
 >   * 이 효과를 줄이기 위한 또 다른 방법으로 UV 테두리를 픽셀에 정렬할 수 있습니다.
-> * 셰이더 **품질** 설정을 늘립니다. 셰이더 품질은 Specular 반사의 계산 방법에 영향을 줄 수 있습니다. 일부 UV 섬이 회전되고 이 매개 변수가 너무 낮으면 가시적인 이음새가 생길 수 있습니다. 자세한 내용은 [이 페이지](https://helpx.adobe.com/substance-3d/unlisted/documentation/spdoc/pbr-metal-rough-172818827.html)를 참조하세요.
+> * 셰이더 **품질** 설정을 늘립니다. 셰이더 품질은 Specular 반사의 계산 방법에 영향을 줄 수 있습니다. 일부 UV 섬이 회전되고 이 매개 변수가 너무 낮으면 가시적인 이음새가 생길 수 있습니다. 자세한 내용은 [이 페이지](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/spdoc/pbr-metal-rough-172818827.html)를 참조하세요.

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting.html"
 breadcrumb-title: ''
 description: Unity의 Substance 3D API를 사용하여 런타임에 Substance 매개 변수를 업데이트하고 변경하는 스크립트를 작성할 수 있습니다.
 helpx_creative_field: ""

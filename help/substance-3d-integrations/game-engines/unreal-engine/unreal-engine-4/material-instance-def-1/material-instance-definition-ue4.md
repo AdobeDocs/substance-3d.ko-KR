@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/material-instance-definition-ue4.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/material-instance-definition-ue4.html"
 breadcrumb-title: ''
 description: Unreal Engine 4에서 Substance 재질로 재질 인스턴스 정의를 생성하여 GPU 렌더링 성능을 최적화합니다.
 helpx_creative_field: ""
@@ -43,4 +43,4 @@ sbsar 파일을 가져올 때 사용할 템플릿을 선택할 수 있습니다.
 
    ![](https://helpx-prod.scene7.com/is/image/HelpxProd/03-6?$png$&jpegSize=200&wid=1011){width="800px"}
 
-이제 특정 Substance 텍스처 세트를 사용하는 UE4 재질 인스턴스가 있습니다. 이는 UE4 프로젝트에서 여러 물질을 사용하여 작업하는 보다 최적화된 방법입니다. 청사진을 사용하여 MID를 만드는 방법을 알아보려면 이 페이지를 확인하십시오. [청사진(UE4): 동적 재질 인스턴스](https://helpx.adobe.com/substance-3d/unlisted/documentation/integrations/blueprint-dynamic-material-instance-152535142.html)
+이제 특정 Substance 텍스처 세트를 사용하는 UE4 재질 인스턴스가 있습니다. 이는 UE4 프로젝트에서 여러 물질을 사용하여 작업하는 보다 최적화된 방법입니다. 청사진을 사용하여 MID를 만드는 방법을 알아보려면 이 페이지를 확인하십시오. [청사진(UE4): 동적 재질 인스턴스](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/integrations/blueprint-dynamic-material-instance-152535142.html)

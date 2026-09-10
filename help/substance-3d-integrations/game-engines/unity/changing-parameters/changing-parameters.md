@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/changing-parameters.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unity/changing-parameters.html"
 breadcrumb-title: ''
 description: Unity에서 Substance 재질 매개변수를 수정하여 런타임에 재질 모양과 속성을 사용자 정의합니다.
 helpx_creative_field: ""

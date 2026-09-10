@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/houdini.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/houdini.html"
 breadcrumb-title: ''
 description: 프로시저 작업 과정 및 렌더링을 위해 내보낸 텍스처 맵을 통해 Houdini에서 Substance 재질을 사용합니다.
 helpx_creative_field: ""

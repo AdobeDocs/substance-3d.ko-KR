@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/scripting-in-unity-deprecated/scripting-api.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unity/scripting-in-unity-deprecated/scripting-api.html"
 breadcrumb-title: ''
 description: 레거시 프로젝트 지원에 대해 더 이상 사용되지 않는 Substance Unity 스크립팅 API에 대한 참조 설명서.
 helpx_creative_field: ""

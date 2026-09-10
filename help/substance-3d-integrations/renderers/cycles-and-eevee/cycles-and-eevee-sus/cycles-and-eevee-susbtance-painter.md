@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/cycles-and-eevee/cycles-and-eevee-susbtance-painter.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/cycles-and-eevee/cycles-and-eevee-susbtance-painter.html"
 breadcrumb-title: ''
 description: 적절한 출력 설정을 사용하여 블렌더의 주기 및 이벤트 렌더러용으로 Substance Painter 텍스처를 내보냅니다.
 helpx_creative_field: ""

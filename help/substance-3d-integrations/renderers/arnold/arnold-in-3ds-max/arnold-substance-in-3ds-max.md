@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/arnold/arnold-substance-in-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/arnold/arnold-substance-in-3ds-max.html"
 breadcrumb-title: ''
 description: Substance 플러그인과 표준 서피스 재질을 사용하여 3ds Max의 Arnold 렌더러와 함께 Substance 재질을 사용합니다.
 helpx_creative_field: ""

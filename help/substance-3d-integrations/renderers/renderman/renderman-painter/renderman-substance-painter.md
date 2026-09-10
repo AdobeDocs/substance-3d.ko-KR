@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/renderman/renderman-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/renderman/renderman-substance-painter.html"
 breadcrumb-title: ''
 description: pxrSurface 재질 및 적절한 출력 변환을 사용하여 Renderman에 대한 Substance Painter 텍스처를 내보냅니다.
 helpx_creative_field: ""

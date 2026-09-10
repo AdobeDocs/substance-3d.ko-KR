@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/should-i-enable-compute-tangent-space-per-fragment.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/common-questions/should-i-enable-compute-tangent-space-per-fragment.html"
 breadcrumb-title: ''
 description: 조각당 탄젠트 공간 계산 을 활성화하는 경우와 이것이 베이킹 결과에 미치는 영향에 대해 알아봅니다.
 helpx_creative_field: ""

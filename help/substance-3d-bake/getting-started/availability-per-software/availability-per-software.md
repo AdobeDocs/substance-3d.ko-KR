@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/availability-per-software.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/getting-started/availability-per-software.html"
 breadcrumb-title: ''
 description: 각 Substance 3D 애플리케이션에서 사용할 수 있는 베이커를 확인하여 제빵 워크플로우를 계획합니다.
 helpx_creative_field: ""

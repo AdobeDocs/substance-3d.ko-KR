@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/why-is-matching-by-name-not-working-with-ambient-occlusion-thickness.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/common-questions/why-is-matching-by-name-not-working-with-ambient-occlusion-thickness.html"
 breadcrumb-title: ''
 description: 앰비언트 오클루전 및 Thickness 작성기에서 [이름별 일치]가 작동하지 않는 이유를 파악하고 대안을 찾습니다.
 helpx_creative_field: ""

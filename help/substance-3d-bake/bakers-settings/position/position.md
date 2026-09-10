@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/position.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/bakers-settings/position.html"
 breadcrumb-title: ''
 description: 메시 지오메트리 위치를 계산하고 텍스처에 저장하여 볼륨 기반 효과와 그레이디언트 마스크를 생성합니다.
 helpx_creative_field: ""

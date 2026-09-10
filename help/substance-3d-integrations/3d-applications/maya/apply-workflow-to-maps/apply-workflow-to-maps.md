@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/apply-workflow-to-maps.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/maya/apply-workflow-to-maps.html"
 breadcrumb-title: ''
 description: 워크플로우를 사용하여 Substance Painter 또는 다른 애플리케이션에서 내보낸 텍스처를 Maya의 재질에 빠르게 적용할 수 있습니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/keyshot.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/keyshot.html"
 breadcrumb-title: ''
 description: 내보낸 텍스처 맵으로 제품 시각화를 위해 키샷 렌더러의 Substance 자료를 사용합니다.
 helpx_creative_field: ""

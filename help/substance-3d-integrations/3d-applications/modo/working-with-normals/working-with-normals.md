@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/working-with-normals.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/modo/working-with-normals.html"
 breadcrumb-title: ''
 description: MODO에서 노멀 맵 방향 설정을 구성하여 Substance 재질을 사용한 노멀 맵 렌더링이 올바르게 수행되도록 합니다.
 helpx_creative_field: ""

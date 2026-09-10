@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/transferred-texture-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/bakers-settings/transferred-texture-from-mesh.html"
 breadcrumb-title: ''
 description: 노멀 맵 변환 지원을 포함하여 UV를 기반으로 메시 간에 텍스처를 전송합니다.
 helpx_creative_field: ""

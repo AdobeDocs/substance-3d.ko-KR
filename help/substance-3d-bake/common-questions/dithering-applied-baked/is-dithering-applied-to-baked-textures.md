@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/is-dithering-applied-to-baked-textures.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/common-questions/is-dithering-applied-to-baked-textures.html"
 breadcrumb-title: ''
 description: 디더링이 구운 텍스처에 적용되는지 여부와 텍스처 품질에 미치는 영향을 파악합니다.
 helpx_creative_field: ""

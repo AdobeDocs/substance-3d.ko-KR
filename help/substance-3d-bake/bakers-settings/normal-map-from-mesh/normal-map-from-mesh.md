@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/normal-map-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/bakers-settings/normal-map-from-mesh.html"
 breadcrumb-title: ''
 description: 메시의 노멀 맵 베이커를 사용하여 높은 폴리 메쉬에서 접선 공간 또는 월드 공간 표준 맵을 만듭니다.
 helpx_creative_field: ""
@@ -31,4 +31,4 @@ ht-degree: 6%
 | *매개 변수* | *설명* |
 | --- | --- |
 | **맵 유형** | 제빵사가 출력해야 하는 표준 텍스처 유형을 제어합니다.가능한 값:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>월드 스페이스</strong></li><li data-preserve-html="true"><strong>탄젠트 공간</strong>(기본값)</li></ul>*Substance Painter에서 이 매개 변수는 제어할 수 없으며 탄젠트 공간으로 설정됩니다.* |
-| **일반 방향** | **맵 형식** 매개 변수가 접선 공간으로 설정된 경우 일반 텍스처의 형식을 정의합니다.가능한 값:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>OpenGL</strong></li><li data-preserve-html="true"><strong>DirectX</strong>(기본값)</li></ul>*Substance Painter에서 이 매개 변수는 [프로젝트 설정](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/interface/project-configuration).*&#x200B;에서 제어합니다. |
+| **일반 방향** | **맵 형식** 매개 변수가 접선 공간으로 설정된 경우 일반 텍스처의 형식을 정의합니다.가능한 값:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>OpenGL</strong></li><li data-preserve-html="true"><strong>DirectX</strong>(기본값)</li></ul>*Substance Painter에서 이 매개 변수는 [프로젝트 설정](https://experienceleague.adobe.com/ko/docs/substance-3d-painter/using/interface/project-configuration).*&#x200B;에서 제어합니다. |

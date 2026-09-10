@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-questions/what-is-the-difference-between-the-opengl-and-directx-normal-format.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/common-questions/what-is-the-difference-between-the-opengl-and-directx-normal-format.html"
 breadcrumb-title: ''
 description: OpenGL과 DirectX 표준 맵 포맷의 차이점과 각 글꼴을 사용해야 하는 경우를 살펴보세요.
 helpx_creative_field: ""

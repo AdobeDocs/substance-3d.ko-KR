@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/aliasing-on-uv-seams.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/common-issues/aliasing-on-uv-seams.html"
 breadcrumb-title: ''
 description: 앤티 앨리어싱 및 패딩 설정을 조정하여 베이킹 중에 UV 솔기에 나타나는 앨리어싱 아티팩트를 수정합니다.
 helpx_creative_field: ""
