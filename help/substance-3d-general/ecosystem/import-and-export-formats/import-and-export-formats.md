@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-general/ecosystem/import-and-export-formats.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-general/ecosystem/import-and-export-formats.html"
 breadcrumb-title: ''
 description: 프로젝트 및 에셋 가져오기와 내보내기에 대해 각 Substance 3D 애플리케이션에서 지원하는 파일 형식을 살펴보십시오.
 helpx_creative_field: ""

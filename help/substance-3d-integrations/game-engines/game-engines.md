@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines.html"
 breadcrumb-title: ''
 description: Unity, Unreal Engine, Lumberyard 및 기타 게임 엔진에서 Substance 재질을 가져오고 사용하는 방법을 알아봅니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/modo/custom-materials.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/custom-materials.html"
 breadcrumb-title: ''
 description: 특수 워크플로우를 위한 Substance 플러그인으로 MODO에서 Unreal, Unity 및 glTF 사용자 정의 재질을 사용합니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-plugin-release-notes/unreal-plugin-4-25-0-5.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/unreal-engine-4-plugin-release-notes/unreal-plugin-4-25-0-5.html"
 breadcrumb-title: ''
 description: Unreal Engine 4 플러그인 버전 4.25.0.5에 대한 릴리스 정보를 검토하여 새로운 기능, 개선 사항 및 버그 수정에 대해 알아보십시오.
 helpx_creative_field: ""
@@ -28,5 +28,5 @@ ht-degree: 0%
 
 수정:
 
-* UE4 Substance 플러그인이 설치된 상태에서 편집기를 닫을 때 Mac에서 UE4가 충돌함
+* UE4 충돌 플러그인이 설치된 상태에서 편집기를 닫을 때 Mac의 UE4 Substance
 * Substance 그래프 인스턴스에서 텍스트 매개 변수를 변경하면 멈춤 및 최종 충돌이 발생합니다

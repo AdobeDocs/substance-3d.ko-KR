@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/common-issues/baker-output-is-fully-black-or-empty.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/baker-output-is-fully-black-or-empty.html"
 breadcrumb-title: ''
 description: 베이커 출력이 완전히 검정색이거나 비어 있는 이유를 해결하고 메쉬 및 UV 문제를 해결하는 방법을 알아봅니다.
 helpx_creative_field: ""
@@ -24,7 +24,7 @@ ht-degree: 0%
 >
 > **문제**
 > 
-> 베이커의 결과는 검정색이거나 비어 있는 텍스처입니다.
+> 베이커 결과는 검정색이거나 비어 있는 텍스처입니다.
 > 
 > ![](../../assets/black.png)
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 >
 > **설명**
 > 
-> 검정색 텍스처는 제빵사가 결과를 출력하는 데 필요한 정보를 찾을 수 없었음을 의미합니다. 예를 들어, 베이킹 프로세스에서는 낮은 폴리와 일치하는 높은 폴리 메시를 찾지 못하여 비교할 대상이 없습니다.
+> 검정색 텍스처는 제빵사가 결과물을 출력하는 데 필요한 정보를 찾을 수 없었음을 의미한다. 예를 들어, 베이킹 프로세스에서는 낮은 폴리와 일치하는 높은 폴리 메시를 찾지 못하여 비교할 대상이 없습니다.
 
 >[!NOTE]
 >

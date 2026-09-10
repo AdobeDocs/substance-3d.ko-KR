@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/keyshot.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/keyshot.html"
 breadcrumb-title: ''
 description: 내보낸 텍스처 맵으로 제품 시각화를 위해 키샷 렌더러의 Substance 자료를 사용합니다.
 helpx_creative_field: ""
@@ -24,7 +24,7 @@ ht-degree: 8%
 
 ## Substance Painter 내보내기
 
-1. 키샷의 경우 확산, 반사, 금속, 거칠기 및 표준(직접 X)을 사용하여 내보내기 사전 설정을 구성해야 합니다.
+1. Keyshot의 경우 확산, 반사, 금속, 거칠기 및 표준(직접 X)을 사용하여 내보내기 사전 설정을 구성해야 합니다.
 
    ![](https://helpx-prod.scene7.com/is/image/HelpxProd/key-01?$png$&jpegSize=300&wid=1794)
 

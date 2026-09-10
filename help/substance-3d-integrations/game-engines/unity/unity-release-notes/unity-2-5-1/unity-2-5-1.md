@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-5-1.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-5-1.html"
 breadcrumb-title: ''
 description: Unity 플러그인 버전 2.5.1의 릴리스 정보를 검토하여 새로운 기능, 개선 사항 및 버그 수정에 대해 알아보십시오.
 helpx_creative_field: ""
@@ -39,6 +39,6 @@ ht-degree: 0%
 * 패키지를 HDRP 프로젝트로 가져올 때 충돌 발생(간헐적)
 * 슬라이더는 Substance 편집기가 색상(회색 음영)으로 설정된 노출 매개 변수가 있는 편집기 재질에 대해 예상대로 작동합니다
 * 기본 해상도가 없는 Substance 그래프로 [사전 설정을 기본값으로 재설정]을 클릭하면 충돌이 발생함
-* 출력 크기 매개 변수가 노출되지 않은 경우 Substance 재질의 출력 크기를 변경할 때 충돌이 발생합니다
+* 출력 크기 매개 변수가 노출되지 않은 경우 Substance 재질의 출력 크기를 변경할 때 충돌
 * iOS 구축에 실패하지 않음
 * Substance 재질을 사용하는 스크립트는 Windows 독립 실행형용으로 빌드할 때 실행됩니다

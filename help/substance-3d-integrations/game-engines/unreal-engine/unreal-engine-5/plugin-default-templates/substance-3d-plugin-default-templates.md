@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/substance-3d-plugin-default-templates.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/substance-3d-plugin-default-templates.html"
 breadcrumb-title: ''
 description: Unreal Engine 5 워크플로용 Substance 3D 플러그인에서 제공하는 기본 재질 템플릿에 대해 알아봅니다.
 helpx_creative_field: ""

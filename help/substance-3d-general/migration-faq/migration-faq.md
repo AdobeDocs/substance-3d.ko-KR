@@ -18,24 +18,24 @@ ht-degree: 0%
 
 다음 제품 및 항목에 대한 설명서가 이제 Experience League에서 제공됩니다.
 
-[Substance 3D Painter](https://experienceleague.adobe.com/ko/docs/substance-3d-painter/using/home)
-[Substance 3D Designer](https://experienceleague.adobe.com/ko/docs/substance-3d-designer/using/home)
-[Substance 3D Sampler](https://experienceleague.adobe.com/ko/docs/substance-3d-sampler/using/home)
-[Substance 3D으로 굽기](https://experienceleague.adobe.com/ko/docs/substance-3d/bakers/home)
-[Substance 3D 일반 정보](https://experienceleague.adobe.com/ko/docs/substance-3d/general-knowledge/home)
-[에코시스템 및 통합](https://experienceleague.adobe.com/ko/docs/substance-3d/ecosystem/home)
+[Substance 3D Painter](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/home)
+[Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/home)
+[Substance 3D Sampler](https://experienceleague.adobe.com/en/docs/substance-3d-sampler/using/home)
+[Substance 3D으로 굽기](https://experienceleague.adobe.com/en/docs/substance-3d/bakers/home)
+[Substance 3D 일반 정보](https://experienceleague.adobe.com/en/docs/substance-3d/general-knowledge/home)
+[에코시스템 및 통합](https://experienceleague.adobe.com/en/docs/substance-3d/ecosystem/home)
 
 +++
 
 +++ 새 설명서는 어디에서 찾을 수 있습니까?
 
 콘텐츠가 HelpX에서 Experience League으로 이동하고 있습니다. 다음 제품에 대한 설명서 및 Experience League 관련 항목은 아래 링크에서 찾을 수 있습니다.
-[Substance 3D Painter](https://experienceleague.adobe.com/ko/docs/substance-3d-painter/using/home)
-[Substance 3D Designer](https://experienceleague.adobe.com/ko/docs/substance-3d-designer/using/home)
-[Substance 3D Sampler](https://experienceleague.adobe.com/ko/docs/substance-3d-sampler/using/home)
-[Substance 3D으로 굽기](https://experienceleague.adobe.com/ko/docs/substance-3d/bakers/home)
-[Substance 3D 일반 정보](https://experienceleague.adobe.com/ko/docs/substance-3d/general-knowledge/home)
-[에코시스템 및 통합](https://experienceleague.adobe.com/ko/docs/substance-3d/ecosystem/home)
+[Substance 3D Painter](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/home)
+[Substance 3D Designer](https://experienceleague.adobe.com/en/docs/substance-3d-designer/using/home)
+[Substance 3D Sampler](https://experienceleague.adobe.com/en/docs/substance-3d-sampler/using/home)
+[Substance 3D으로 굽기](https://experienceleague.adobe.com/en/docs/substance-3d/bakers/home)
+[Substance 3D 일반 정보](https://experienceleague.adobe.com/en/docs/substance-3d/general-knowledge/home)
+[에코시스템 및 통합](https://experienceleague.adobe.com/en/docs/substance-3d/ecosystem/home)
 
 +++
 

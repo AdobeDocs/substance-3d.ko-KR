@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/working-with-displacement-ue4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/working-with-displacement-ue4.html"
 breadcrumb-title: ''
 description: 표면 세부 묘사를 위해 Unreal Engine 4의 Substance 재질에서 변위 맵을 사용하고 테셀레이션을 활성화합니다.
 helpx_creative_field: ""

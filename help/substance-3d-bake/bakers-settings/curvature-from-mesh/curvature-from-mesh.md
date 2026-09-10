@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/bakers-settings/curvature-from-mesh.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/curvature-from-mesh.html"
 breadcrumb-title: ''
 description: 정확한 가장자리 감지를 위해 광선 추적을 사용하여 높은 폴리 메쉬에서 정확한 곡률 텍스처를 생성합니다.
 helpx_creative_field: ""

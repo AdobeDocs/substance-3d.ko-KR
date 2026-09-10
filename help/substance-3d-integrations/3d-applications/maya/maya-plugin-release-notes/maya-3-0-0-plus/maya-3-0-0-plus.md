@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-3-0-0-plus.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/maya-plugin-release-notes/maya-3-0-0-plus.html"
 breadcrumb-title: ''
 description: Maya 플러그인 버전 3.0.0 이상용 릴리스 노트를 검토하여 새로운 기능, 개선 사항, 버그 수정에 대해 알아보십시오.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-3-4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-3-4.html"
 breadcrumb-title: ''
 description: Unity 플러그인 버전 2.3.4의 릴리스 정보를 검토하여 새로운 기능, 개선 사항 및 버그 수정에 대해 알아보십시오.
 helpx_creative_field: ""
@@ -46,7 +46,7 @@ ht-degree: 0%
 * 텍스처 맵 없이 Substance 가져오기와 관련된 문제 수정
 * Unity 2019.x에서 반사 프로세스가 올바르게 작동하지 않는 문제를 해결했습니다.
 * Substance 재질이 있는 프리팹을 포함하는 패키지를 가져올 때 발생하는 프리팹 처리 문제를 수정했음
-* 반사 프로세스 후 재료/텍스처 할당이 전달되지 않는 고정
+* 반영 프로세스 후 고정 재료/텍스처 할당이 이월되지 않음
 * 반사판의 변경으로 인해 재질이 손상되는 문제를 해결했습니다.
 * 금속 알파 채널에 거칠기가 채워지지 않는 문제를 해결했습니다.
 * Substance 플러그인을 설치할 때 비 Substance 텍스처에 대한 가져오기 설정을 변경하면 특정 옵션이 되돌리는 문제를 수정했습니다.

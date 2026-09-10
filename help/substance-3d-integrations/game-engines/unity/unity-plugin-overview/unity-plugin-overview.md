@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unity/unity-plugin-overview.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-plugin-overview.html"
 breadcrumb-title: ''
 description: 버전 지원, 기능 및 통합 기능을 포함하여 Unity용 Substance 3D 플러그인에 대해 알아봅니다.
 helpx_creative_field: ""

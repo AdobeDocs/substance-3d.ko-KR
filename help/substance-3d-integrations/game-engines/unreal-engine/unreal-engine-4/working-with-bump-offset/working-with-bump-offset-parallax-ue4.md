@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/working-with-bump-offset-parallax-ue4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/working-with-bump-offset-parallax-ue4.html"
 breadcrumb-title: ''
 description: Unreal Engine 4에서 Substance 재료로 범프 오프셋 매핑(Bump Offset mapping)을 사용하여 깊이 착시 및 표면 세부 정보를 생성합니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/octane/octane-for-3ds-max.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/octane/octane-for-3ds-max.html"
 breadcrumb-title: ''
 description: 라이브 DB 재질과 적절한 출력 설정을 통해 3ds Max에서 Octane 렌더러로 Substance 재질을 사용하세요.
 helpx_creative_field: ""

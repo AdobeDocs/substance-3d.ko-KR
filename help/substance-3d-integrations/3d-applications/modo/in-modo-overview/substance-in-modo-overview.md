@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/modo/substance-in-modo-overview.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/substance-in-modo-overview.html"
 breadcrumb-title: ''
 description: MODO용 Substance 플러그인과 작업 과정에서 Substance 재질을 가져오고 사용하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""
@@ -25,7 +25,7 @@ ht-degree: 5%
 ## Substance 열기
 
 1. 재질을 생성하거나 재질 그룹을 선택합니다.
-1. [텍스처] > [Substance]에서 [Substance 만들기]를 선택하거나 [Substance 키트] 옵션 아래의 [만들기] 단추를 사용합니다. 이렇게 하면 셰이더 트리에 Substance 재질이 만들어집니다.
+1. 텍스처 > Substance에서 Substance 만들기 를 선택하거나 Substance 키트 옵션 아래의 만들기 버튼을 사용합니다. 이렇게 하면 셰이더 트리에 Substance 재질이 만들어집니다.
 1. [sbsar 불러오기]를 클릭하여 sbsar 파일을 불러옵니다.
 
    ![](../../../assets/load-1.png)
@@ -34,7 +34,7 @@ ht-degree: 5%
 
 **기본 - 원점 음영 모드**&#x200B;를 사용하면 금속성/거칠기 워크플로우를 사용하여 출력을 만들 수 있습니다.
 
-1. [Substance 속성]의 [출력] 섹션에서 음영에 필요한 출력을 클릭합니다. Substance 텍스처가 생성되고 올바른 재질 레이어 효과를 사용하여 셰이더 트리에 추가됩니다. Principled 음영 모드의 경우 다음이 필요합니다.
+1. [Substance 속성]의 [출력] 섹션에서 음영에 필요한 출력을 클릭합니다. Substance 텍스처가 생성되어 올바른 재질 레이어 효과를 사용하여 셰이더 트리에 추가됩니다. Principled 음영 모드의 경우 다음이 필요합니다.
 
    | Substance 출력 | 색상 공간 | 재질 레이어 효과(원점 음영 모드) |
    | --- | --- | --- |
@@ -47,7 +47,7 @@ ht-degree: 5%
 
 ## 해상도/매개변수 변경
 
-Substance 매개변수를 변경하여 생성된 텍스처를 업데이트하거나 변경할 수 있습니다. 매개 변수를 변경하면 Substance 엔진이 MODO 재질에 전달된 텍스처를 다시 계산합니다.
+Substance 매개 변수를 변경하여 생성된 텍스처를 업데이트하거나 변경할 수 있습니다. 매개 변수를 변경하면 Substance 엔진이 MODO 재질에 공급된 텍스처를 다시 계산합니다.
 
 1. Substance 재질에 대한 Substance 속성으로 이동하고 비틀기 섹션에서 매개 변수를 변경합니다.
 

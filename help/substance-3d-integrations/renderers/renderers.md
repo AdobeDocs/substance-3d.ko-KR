@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers.html"
 breadcrumb-title: ''
 description: Arnold, V-Ray, Redshift 등의 주요 렌더러를 사용하여 3D 워크플로우에서 Substance 재질을 사용합니다.
 helpx_creative_field: ""
@@ -26,7 +26,7 @@ ht-degree: 1%
 
 예를 들어 [Arnold] 또는 [Vray Next]에서는 금속/거칠기 출력을 직접 사용할 수 있습니다. 그러나 Renderman의 pxrSurface를 사용하면 기본 색상/금속성 출력을 확산 및 Specular 면 색상으로 변환해야 합니다. 렌더러가 지원되는 경우 Substance 통합 플러그인은 이러한 변환을 자동으로 처리합니다.
 
-Substance Painter을 사용하면 지정된 렌더러에 필요한 적절한 맵 형식을 만드는 [출력 템플릿](https://experienceleague.adobe.com/ko/docs/substance-3d-painter/using/getting-started/export/export-window/export-window)을(를) 선택할 수 있습니다. 기본적으로 렌더러가 지원되지 않는 경우에는 사용자 정의 출력 템플릿을 만들 수도 있습니다.
+Substance Painter을 사용하면 지정된 렌더러에 필요한 적절한 맵 형식을 만드는 [출력 템플릿](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/getting-started/export/export-window/export-window)을(를) 선택할 수 있습니다. 기본적으로 렌더러가 지원되지 않는 경우에는 사용자 정의 출력 템플릿을 만들 수도 있습니다.
 
 **Substance Painter 출력 템플릿**
 

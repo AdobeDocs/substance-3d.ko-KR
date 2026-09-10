@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/3ds-max/using-presets.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/using-presets.html"
 breadcrumb-title: ''
 description: Substance 파일의 포함된 사전 설정을 사용하거나 사용자 정의 사전 설정을 만들어 매개 변수 구성을 3ds Max로 저장하십시오.
 helpx_creative_field: ""

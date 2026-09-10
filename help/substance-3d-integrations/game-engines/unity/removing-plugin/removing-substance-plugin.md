@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unity/removing-substance-plugin.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/removing-substance-plugin.html"
 breadcrumb-title: ''
 description: Unity 프로젝트에서 Substance 3D 플러그인을 제대로 제거하고 관련 파일을 정리하는 방법을 알아봅니다.
 helpx_creative_field: ""

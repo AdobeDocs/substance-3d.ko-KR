@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntimegraph-class.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntimegraph-class.html"
 breadcrumb-title: ''
 description: Unity의 런타임 그래프 작업에 사용되는 SubstanceRuntimeGraph 클래스에 대한 참조 문서입니다.
 helpx_creative_field: ""
@@ -203,7 +203,7 @@ Substance 문자열 입력을 가져옵니다.
 ```
 
 
-Substance Texture2D 입력을 업데이트합니다.
+Substance 텍스처 2D 입력을 업데이트합니다.
 
 ```
 • Vector2Int GetTexturesResolution ()

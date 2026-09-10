@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-2-0.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-2-0.html"
 breadcrumb-title: ''
 description: Unity 플러그인 버전 2.2.0의 릴리스 정보를 검토하여 새로운 기능, 개선 사항 및 버그 수정에 대해 알아보십시오.
 helpx_creative_field: ""
@@ -42,7 +42,7 @@ ht-degree: 0%
 * Substance 메뉴에 Substance 플러그인 관련 빌드 정보를 표시하는 &#39;정보&#39; 단추를 추가했습니다.
 * Substance GUI에 마우스 오버 도구 설명을 추가하여 노출된 Substance 매개 변수 이름 표시
 * Substance GUI에 탐색 버튼을 추가하여 Substance 그래프 및 자료에 연결
-* [내용 브라우저]에 Substance 그래프/질감/텍스처에 대한 새 아이콘이 추가되었습니다.
+* [내용 브라우저]에 Substance 그래프/재질/텍스처에 대한 새 아이콘이 추가되었습니다.
 * 콘텐츠 브라우저에서 Substance 축소판을 업데이트했습니다.
 * Substance 재질 이름 앞면에서 .mat를 제거했습니다.
 * Substance 그래프 및 재질의 이름을 변경하는 기능 추가
@@ -55,7 +55,7 @@ ht-degree: 0%
 
 * 스크립트 지원을 위한 것이 아닌 일부 함수를 숨겼습니다.
 * 스크립트를 통해 Substance 그래프 인스턴스를 복제하는 함수를 추가했습니다. Duplicate()
-* C#을 통해 프로시저 입력 정보를 쿼리하는 함수를 추가하고 &#39;InputProperties&#39; 요소의 배열을 반환합니다. GetInputProperties()
+* C#을 통해 프로시저 입력 정보를 쿼리하기 위해 함수를 추가하고 &#39;InputProperties&#39; 요소의 배열을 반환합니다. GetInputProperties()
 * 그래프에 입력이 있는지 확인하는 함수를 추가했지만 true/false를 반환합니다. HasInput(string inputName)
 * visibleif 입력이 표시되는지 확인하는 함수를 추가함 true/false: IsInputVisible(string inputName)
 * 렌더링 구성표가 다시 디자인되었습니다. 따라서 RenderSubstancesAsync()는 사용되지 않으며 graphName.RenderAsync()로 변경되었습니다
@@ -66,7 +66,7 @@ ht-degree: 0%
 
 * iOS용으로 빌드하려면 사용자가 Xcode의 빌드 설정 메뉴에서 &#39;Bitcode 사용&#39;을 비활성화해야 합니다.
 * 빌드 대상이 Android/iOS으로 설정된 경우 콘텐츠 브라우저에서 Substance 개체 미리 보기가 검정으로 표시됩니다.
-* Alpha 플러그인을 가져온 후 Substance이 아닌 텍스처 GUI에서 Substance 단추 및 Mip 맵 미리 보기 슬라이더가 누락되었습니다
+* Substance 플러그인을 가져온 후 Alpha 버튼이 아닌 텍스처 GUI에서 Substance 버튼과 Mip 맵 미리보기 슬라이더가 누락됩니다
 * 사용자는 스크립트를 통해 Substance 그래프 해상도를 정의하기 위해 2의 제곱을 사용해야 합니다
 * Unity 패키지를 사용하여 내보내기/가져올 때 Substance 재질이 지속되지 않음
 * Substance은 에셋 번들에서 작동하지 않습니다.

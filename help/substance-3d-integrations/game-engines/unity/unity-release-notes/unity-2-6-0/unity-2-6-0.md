@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-6-0.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/unity-release-notes/unity-2-6-0.html"
 breadcrumb-title: ''
 description: Unity 플러그인 버전 2.6.0의 릴리스 정보를 검토하여 새로운 기능, 개선 사항 및 버그 수정에 대해 알아보십시오.
 helpx_creative_field: ""
@@ -38,5 +38,5 @@ ht-degree: 0%
 
 * 이전 버전 2.5.4 이하에서 플러그인을 업데이트할 때 액세스 거부 오류 및/또는 충돌이 발생합니다
   * 해결 방법: 플러그인 버전 2.6.0을 설치하기 전에 Unity 프로젝트 버전 2020.2 이상에서 이전 플러그인 버전 2.5.4 이하를 제거해야 합니다
-* Substance 플러그인이 설치되면 이미지 파일의 텍스처 미리 보기가 검사기에 표시되지 않습니다
+* Substance 플러그인을 설치하면 이미지 파일의 텍스처 미리 보기가 검사기에 표시되지 않습니다
   * 이 문제의 출처는 Unity에 있으며 2021.2 버전(현재 Beta 버전) 내에서 Unity에 의해 수정될 예정입니다

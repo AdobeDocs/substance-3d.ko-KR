@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/blender/uninstalling-the-add-on.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/uninstalling-the-add-on.html"
 breadcrumb-title: ''
 description: 환경 설정 메뉴를 통해 Blender에서 Substance 3D 추가 기능을 올바르게 제거하는 방법을 알아봅니다.
 helpx_creative_field: ""

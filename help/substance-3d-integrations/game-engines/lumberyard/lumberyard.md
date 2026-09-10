@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/lumberyard.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/lumberyard.html"
 breadcrumb-title: ''
 description: 재질 워크플로우에 대한 기본 Substance 지원을 통해 Amazon Lumberyard 게임 엔진에서 플러그인 재질을 사용합니다.
 helpx_creative_field: ""

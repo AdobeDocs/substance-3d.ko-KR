@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceeditortools-256212996.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceeditortools-256212996.html"
 breadcrumb-title: ''
 description: Unity에서 Substance 재질 관리에 사용되는 SubstanceEditorTools 클래스의 참조 문서입니다.
 helpx_creative_field: ""

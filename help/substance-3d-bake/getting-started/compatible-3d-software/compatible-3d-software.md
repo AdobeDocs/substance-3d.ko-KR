@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/getting-started/compatible-3d-software.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/getting-started/compatible-3d-software.html"
 breadcrumb-title: ''
 description: Substance Baker와 호환되는 3D 소프트웨어를 알아보고 최적의 베이킹 결과를 위해 메시를 준비하는 방법을 알아봅니다.
 helpx_creative_field: ""
@@ -31,7 +31,7 @@ ht-degree: 2%
 | *이름* | *상태* |
 | --- | --- |
 | **블렌더** | 호환 가능: 내보내기 전에 수정자를 병합해야 합니다. |
-| **마야** | 호환 가능: 내보내기 전에 변형 및 삭제 내역을 고정해야 합니다. |
+| **마야** | 호환 가능: 내보내기 전에 변환 고정 및 삭제 기록이 필요합니다. |
 | **3DS 최대** | 호환 가능: 내보내기 전에 xForm 재설정이 필요합니다. |
 | **MODO** | 호환 가능: &quot;Unreal Static Mesh&quot;로 설정된 게임 탭 내보내기 도구를 사용하는 것이 좋습니다. |
 | **Cinema 4D** | 호환 가능: 내보내기 전에 수정자를 병합해야 합니다. |
@@ -47,5 +47,5 @@ Bellow는 베이커가 지원하는 가장 일반적인 두 가지 파일 형식
 
 | 파일 포맷 | 정보 |
 | --- | --- |
-| **FBX** | Autodesk FBX (Filmbox)는 Autodesk Software에서 사용하는 기본 파일 형식이며 텍스트 또는 바이너리로 작성할 수 있습니다.  다음을 지원합니다.<ul data-preserve-html="true"><li data-preserve-html="true">UV(복수 세트)</li><li data-preserve-html="true">꼭지점, 탄젠트 및 이항</li><li data-preserve-html="true">꼭지점 색상</li><li data-preserve-html="true">삼각형 얼굴, 사각형 얼굴 및 N-Gon 얼굴</li><li data-preserve-html="true">카메라</li><li data-preserve-html="true">조명</li><li data-preserve-html="true">메쉬 세분</li><li data-preserve-html="true">그룹 다듬기</li><li data-preserve-html="true">재질 정보(예: 색상)</li><li data-preserve-html="true">비트맵</li></ul> |
-| **OBJ** | Wavefront OBJ는 를 지원하는 매우 간단한 텍스트 기반 파일 형식입니다.<ul data-preserve-html="true"><li data-preserve-html="true">UV(한 세트만)</li><li data-preserve-html="true">꼭지점 수직</li><li data-preserve-html="true">꼭지점 색상(Pixologic zBrush에서 내보낸 경우에만)</li><li data-preserve-html="true">삼각형 얼굴, 사각형 얼굴 및 N-Gon 얼굴</li><li data-preserve-html="true">재질 색상(<strong>mtl</strong> 파일이 있는 경우)</li></ul> |
+| **FBX** | Autodesk FBX (Filmbox)는 Autodesk Software에서 사용하는 기본 파일 형식이며 텍스트 또는 바이너리로 쓸 수 있습니다.  다음을 지원합니다.<ul data-preserve-html="true"><li data-preserve-html="true">UV(복수 세트)</li><li data-preserve-html="true">꼭지점, 탄젠트 및 이항</li><li data-preserve-html="true">꼭지점 색상</li><li data-preserve-html="true">삼각형 얼굴, 사각형 얼굴 및 N-Gon 얼굴</li><li data-preserve-html="true">카메라</li><li data-preserve-html="true">조명</li><li data-preserve-html="true">메쉬 세분</li><li data-preserve-html="true">그룹 다듬기</li><li data-preserve-html="true">재질 정보(예: 색상)</li><li data-preserve-html="true">비트맵</li></ul> |
+| **OBJ** | Wavefront OBJ은 를 지원하는 매우 간단한 텍스트 기반 파일 형식입니다.<ul data-preserve-html="true"><li data-preserve-html="true">UV(한 세트만)</li><li data-preserve-html="true">꼭지점 수직</li><li data-preserve-html="true">꼭지점 색상(Pixologic zBrush에서 내보낸 경우에만)</li><li data-preserve-html="true">삼각형 얼굴, 사각형 얼굴 및 N-Gon 얼굴</li><li data-preserve-html="true">재질 색상(<strong>mtl</strong> 파일이 있는 경우)</li></ul> |

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/octane/octane-for-modo.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/octane/octane-for-modo.html"
 breadcrumb-title: ''
 description: 라이브 DB 재질 및 적절한 출력 구성을 통해 MODO에서 Octane 렌더러와 함께 Substance 재질을 사용합니다.
 helpx_creative_field: ""

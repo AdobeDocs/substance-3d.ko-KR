@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/blender/shortcuts-and-navigation.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender/shortcuts-and-navigation.html"
 breadcrumb-title: ''
 description: 믹서의 Substance 3D 애드온에 대한 키보드 단축키를 학습하고 효율성을 위해 키 바인딩을 사용자 정의합니다.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 바로 가기 및 탐색
 
-단축키 목록은 추가 환경 설정 하단에서 찾을 수 있습니다. 각 단축키에 대한 키 바인딩은 키 필드에 원하는 키를 입력하여 사용자 정의할 수 있습니다. Ctrl, Shift 및 Alt를 각 단축키에 대해 활성화할 수도 있습니다.
+단축키 목록은 추가 환경 설정 하단에서 찾을 수 있습니다. 각 단축키에 대한 키 바인딩은 키 필드에 원하는 키를 입력하여 사용자 정의할 수 있습니다. Ctrl, Shift 및 Alt는 각 단축키에 대해서도 활성화할 수 있습니다.
 
 기본 키 바인딩은 다음과 같습니다.
 

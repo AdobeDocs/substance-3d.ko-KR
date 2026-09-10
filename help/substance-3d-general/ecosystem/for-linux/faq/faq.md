@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-general/ecosystem/substance-for-linux/faq.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-general/ecosystem/substance-for-linux/faq.html"
 breadcrumb-title: ''
 description: Adobe 다운로드 액세스 포털을 통해 Substance 3D 라이선스 관리 및 소프트웨어 액세스와 관련된 일반적인 질문에 대한 답변을 살펴보십시오.
 helpx_creative_field: ""
@@ -97,7 +97,7 @@ ADA 포털을 통해 중앙 위치에서 라이선스 및 인증을 관리할 �
 
 
 
-다른 유형의 오류가 발생한 경우 [당사의 기업 지원 팀에 문의](https://helpx.adobe.com/kr/enterprise/using/support-for-enterprise.html)하십시오.
+다른 유형의 오류가 발생한 경우 [당사의 기업 지원 팀에 문의](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html)하십시오.
 
 
 
@@ -118,20 +118,20 @@ ADA 포털을 통해 중앙 위치에서 라이선스 및 인증을 관리할 �
 
 * [검색]을 클릭합니다.
 
-[LWS에 대한 자세한 내용은 여기에서 확인할 수 있습니다](https://helpx.adobe.com/kr/x-productkb/policy-pricing/volume-licensing-site.html).
+[LWS에 대한 자세한 내용은 여기에서 확인할 수 있습니다](https://helpx.adobe.com/x-productkb/policy-pricing/volume-licensing-site.html).
 
 
 
 +++
 
 +++도움이 더 필요한 경우 누구에게 문의할 수 있습니까?
-추가 지원이 필요한 경우 당사의 기업 지원 팀에 문의할 수 있습니다. 관리자가 [Adobe Admin Console에 로그인하고 지원 사례를 열어야 합니다](https://helpx.adobe.com/kr/enterprise/using/support-for-enterprise.html).
+추가 지원이 필요한 경우 당사의 기업 지원 팀에 문의할 수 있습니다. 관리자가 [Adobe Admin Console에 로그인하고 지원 사례를 열어야 합니다](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html).
 
 추가 지원이 필요한 경우 Adobe CSM에 문의할 수 있습니다.
 
 +++
 
 +++ADA의 라이선스 키 파일로 소프트웨어를 활성화할 수 없습니다.
-[자세한 활성화 지침은 여기에서 확인할 수 있습니다](../../../ecosystem/for-linux/substance-for-linux.md). 그래도 문제가 해결되지 않으면 [기업 지원 팀에 문의](https://helpx.adobe.com/kr/enterprise/using/support-for-enterprise.html)하세요.
+[자세한 활성화 지침은 여기에서 확인할 수 있습니다](../../../ecosystem/for-linux/substance-for-linux.md). 그래도 문제가 해결되지 않으면 [기업 지원 팀에 문의](https://helpx.adobe.com/enterprise/using/support-for-enterprise.html)하세요.
 
 +++

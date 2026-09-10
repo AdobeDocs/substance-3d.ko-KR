@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/modo/working-with-references.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/working-with-references.html"
 breadcrumb-title: ''
 description: MODO에서 Substance 재질 참조를 관리하여 여러 개체 및 장면에서 재질을 공유합니다.
 helpx_creative_field: ""

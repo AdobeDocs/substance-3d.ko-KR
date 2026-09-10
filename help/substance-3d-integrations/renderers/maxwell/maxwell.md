@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/maxwell.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/maxwell.html"
 breadcrumb-title: ''
 description: Maya와 Painter의 Maxwell 렌더러에서 Substance 재질을 사용하여 물리적으로 기반의 렌더링 워크플로우를 만들 수 있습니다.
 helpx_creative_field: ""

@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-general/adobe-standard-material/asm-technical-documentation.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-general/adobe-standard-material/asm-technical-documentation.html"
 breadcrumb-title: ''
-description: Adobe Standard Material 모델에서 사용하는 수식 및 수학을 포함하여 자세한 기술 문서에 액세스하십시오.
+description: Adobe Standard Material 모델에서 사용하는 수식 및 수학 등의 자세한 기술 문서에 액세스합니다.
 helpx_creative_field: ""
 helpx_description: General Knowledge > Adobe Standard Material > ASM technical documentation
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # ASM 기술 문서
 
-이 페이지에서는 Adobe 표준 재질에 대한 기술 정보를 재그룹화합니다.
+이 페이지에서는 Adobe Standard Material에 대한 기술 정보를 다시 그룹화합니다.
 
 ASM에서 사용하는 자세한 공식 및 수학 등의 기술 문서는 PDF 문서로 제공됩니다.
 

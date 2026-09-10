@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/maya/presets.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/presets.html"
 breadcrumb-title: ''
 description: Substance 파일에 포함된 사전 설정을 관리하거나 Maya에 새 사전 설정을 만들어 매개 변수 구성을 저장하십시오.
 helpx_creative_field: ""

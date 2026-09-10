@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/3ds-max/substance-in-3ds-max-overview.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/substance-in-3ds-max-overview.html"
 breadcrumb-title: ''
 description: 3ds Max용 Substance 플러그인과 프로젝트에서 Substance 재질을 가져오고 사용하는 방법에 대해 알아봅니다.
 helpx_creative_field: ""

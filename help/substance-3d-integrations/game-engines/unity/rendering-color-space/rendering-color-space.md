@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unity/rendering-color-space.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/rendering-color-space.html"
 breadcrumb-title: ''
 description: 실제 기반 셰이더를 사용하여 Substance 재질이 제대로 렌더링되도록 Unity의 색상 공간 설정을 구성합니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntimegraph-class/member-function-documentation.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntimegraph-class/member-function-documentation.html"
 breadcrumb-title: ''
 description: Unity 스크립팅에서 SubstanceRuntimeGraph 클래스의 모든 멤버 함수에 대한 자세한 설명서입니다.
 helpx_creative_field: ""
@@ -321,7 +321,7 @@ Texture2D Adobe.Substance.Runtime.SubstanceRuntimeGraph.GetOutputTexture ( strin
 
 **반환**
 
-출력 텍스처입니다.
+출력 텍스처.
 
 ### GetTexturesResolution()
 
@@ -483,7 +483,7 @@ Texture2D value ) [inline]
 ```
 
 
-Substance Texture2D 입력을 업데이트합니다.
+Substance 텍스처 2D 입력을 업데이트합니다.
 
 **매개 변수**
 

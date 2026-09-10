@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/cinema-4d/attribute-manager.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/cinema-4d/attribute-manager.html"
 breadcrumb-title: ''
 description: Cinema 4D의 특성 관리자를 사용하여 Substance 에셋 속성과 재질 설정을 구성합니다.
 helpx_creative_field: ""

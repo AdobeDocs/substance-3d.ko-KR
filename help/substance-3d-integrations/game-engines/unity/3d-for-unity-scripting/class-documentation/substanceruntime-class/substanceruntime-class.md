@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntime-class.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/substance-3d-for-unity-scripting/class-documentation/substanceruntime-class.html"
 breadcrumb-title: ''
 description: Unity에서 런타임 Substance 재료 작업에 사용되는 SubstanceRuntime 클래스에 대한 참조 문서입니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unity/downloading-substance-3d-plugin-in-unity.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unity/downloading-substance-3d-plugin-in-unity.html"
 breadcrumb-title: ''
 description: Unity Asset Store 또는 패키지 관리자에서 Unity용 Substance 3D 플러그인을 다운로드하고 설치합니다.
 helpx_creative_field: ""

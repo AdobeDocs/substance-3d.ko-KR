@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/lumberyard/assigning-a-substance.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/lumberyard/assigning-a-substance.html"
 breadcrumb-title: ''
 description: 다른 재질과 마찬가지로 재질 편집기를 사용하여 Lumberyard의 개체에 Substance 재질을 할당합니다.
 helpx_creative_field: ""

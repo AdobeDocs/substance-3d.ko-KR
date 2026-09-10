@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/modo/modo-installation.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/modo-installation.html"
 breadcrumb-title: ''
 description: LPK 파일을 MODO로 드래그하여 Substance 기능을 추가하여 MODO용 Substance 플러그인을 설치합니다.
 helpx_creative_field: ""

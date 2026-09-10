@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/source-in-ue4.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-4/source-in-ue4.html"
 breadcrumb-title: ''
 description: Substance 구독을 위한 Unreal Engine 4에서 직접 Substance Source 자료에 액세스하고 다운로드하십시오.
 helpx_creative_field: ""
@@ -38,4 +38,4 @@ Substance Source은 Substance 구독 멤버에게 제공되는 방대한 PBR 라
 1. UI 상단의 소스 버튼을 클릭하여 소스 창을 실행합니다.
 1. 내 계정에 로그인
 1. 재질을 찾아보고 다운로드 버튼을 클릭하여 [콘텐츠 브라우저]에 재질을 추가합니다
-1. 재질은 Substance 텍스처 입력으로 생성되고 메시에 적용할 준비가 됩니다
+1. 재질은 Substance 텍스처 입력으로 생성되고 메시에 적용될 준비가 됩니다

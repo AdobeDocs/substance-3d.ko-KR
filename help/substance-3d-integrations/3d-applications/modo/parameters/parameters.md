@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/modo/parameters.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/parameters.html"
 breadcrumb-title: ''
 description: MODO에서 Substance 속성 패널을 통해 Substance 재질 매개변수를 수정하여 재질을 사용자 정의합니다.
 helpx_creative_field: ""
@@ -38,7 +38,7 @@ Substance에 기본 매개 변수 집합이 있으며, [Substance 속성] 패널
 * **사전 설정 선택:** Substance 파일에 포함된 사전 설정을 선택하거나 MODO 내에 저장된 사전 설정에서 선택할 수 있습니다.
 * **디스크로 굽기:** 이 매개 변수는 Substance에서 생성된 텍스처를 비트맵 파일로 굽습니다.
 * **출력 크기:** 이 매개 변수는 텍스처의 크기를 설정된 크기로 동적으로 조정합니다. Substance 엔진이 텍스처를 원하는 크기로 재생성합니다.
-* **임의 시드:** 이 매개 변수는 Substance의 절차 생성을 변경합니다. 이 매개 변수는 동일한 Substance의 임의 버전을 만드는 데 유용합니다. 이를 통해 Substance 매개 변수를 빠르게 변경하여 새로운 버전의 텍스처를 생성할 수 있습니다
+* **임의 시드:** 이 매개 변수는 Substance의 프로시저 생성을 변경합니다. 이 매개 변수는 동일한 Substance의 임의 버전을 만드는 데 유용합니다. 이를 통해 Substance 매개 변수를 빠르게 변경하여 새로운 버전의 텍스처를 생성할 수 있습니다
 
 ## 출력
 

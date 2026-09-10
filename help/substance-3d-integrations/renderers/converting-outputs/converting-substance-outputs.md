@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/converting-substance-outputs.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/converting-substance-outputs.html"
 breadcrumb-title: ''
 description: 다양한 렌더러 요구 사항 및 워크플로우에 맞게 Substance 재질 출력을 변환하는 방법을 알아봅니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-3-0-0-plus.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/3ds-max-plugin-release-notes/3ds-max-3-0-0-plus.html"
 breadcrumb-title: ''
 description: 3ds Max 플러그인 버전 3.0.0 이상의 릴리스 정보를 검토하여 새로운 기능, 개선 사항 및 버그 수정에 대해 알아보십시오.
 helpx_creative_field: ""
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 * 슬레이트 재질 편집기가 열려 있고 Substance2 텍스처 맵이 선택되어 있을 때 Substance 2 재질이 Corona를 사용하여 IR/프로덕션에서 렌더링되지 않을 수 있는 문제를 해결했습니다.
 * Sampler Connector 업데이트에서 기존 노드를 업데이트하지 않고 새 Substance 2 노드를 만드는 문제를 해결했습니다.
-* Substance2 노드를 추가할 때 3ds Max 플러그인에서 충돌 문제가 해결되었으며 일괄 가져오기를 사용하여 .sbsar 파일을 로드하면 더 이상 스크립트 편집기가 열리지 않습니다.
+* Substance2 노드를 추가할 때 3ds Max 플러그인에서 충돌 문제가 해결되었으며 일괄 가져오기를 사용하여 .sbsar 파일을 로드할 때 더 이상 스크립트 편집기가 열리지 않았습니다.
 * .msi 설치 관리자를 사용할 때 호환되지 않는 .dll 파일로 인해 3DSMax 2025 플러그인을 로드하지 못했던 문제를 해결했습니다.
 
 ## 3ds Max 3.0.2

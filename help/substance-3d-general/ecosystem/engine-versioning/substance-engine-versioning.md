@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-general/ecosystem/substance-engine-versioning.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-general/ecosystem/substance-engine-versioning.html"
 breadcrumb-title: ''
 description: 이 참조를 사용하여 소프트웨어와 호환되는 Substance 엔진 버전을 확인하고 실질적인 호환성을 확인하십시오.
 helpx_creative_field: ""
@@ -24,7 +24,7 @@ ht-degree: 19%
 
 Substance 소프트웨어에서 생성된 Substance 재료 및 모델은 substance engine의 동일한 버전 또는 최신 버전을 지원하는 애플리케이션에서만 사용할 수 있으며, 그렇지 않으면 새로운 기능이 호환되지 않습니다.
 
-이 페이지의 표를 사용하여 Substance 자료나 Substance 절차 모델을 소프트웨어의 현재 버전에서 사용할 수 있는지 확인할 수 있습니다. 일부 릴리스 버전은 언급되지 않을 수 있으며 업데이트가 이루어진 버전만 언급될 수 있습니다. 따라서 버전을 언급하지 않으면 이전 버전이 적용된다는 것을 의미합니다.
+이 페이지의 표를 사용하여 Substance 자료나 Substance 프로시저 모델을 소프트웨어의 현재 버전에서 사용할 수 있는지 확인할 수 있습니다. 일부 릴리스 버전은 언급되지 않을 수 있으며 업데이트가 이루어진 버전만 언급될 수 있습니다. 따라서 버전을 언급하지 않으면 이전 버전이 적용된다는 것을 의미합니다.
 
 <table>
 <tr style="border: 0;">

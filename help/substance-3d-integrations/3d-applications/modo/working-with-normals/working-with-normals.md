@@ -1,7 +1,7 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/modo/working-with-normals.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/working-with-normals.html"
 breadcrumb-title: ''
-description: Substance 재질을 사용한 올바른 표준 맵 렌더링을 보장하기 위해 MODO에서 표준 맵 방향 설정을 구성합니다.
+description: MODO에서 노멀 맵 방향 설정을 구성하여 Substance 재질을 사용한 노멀 맵 렌더링이 올바르게 수행되도록 합니다.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > MODO > Working with Normals
 helpx_experience_level: ""
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 일반 데이터를 사용한 작업 - 올바른 방향 설정
 
-스톡 Substance은 DX 일반 방향을 사용하도록 제작되었습니다. 그러나 MODO는 OGL을 사용합니다. 표준 형식(Normal Format) 매개변수를 1.0으로 설정하여 표준을 뒤집을 수 있습니다. Substance 플러그인은 Substance에 설정된 매개 변수만 해석합니다. &quot;normal\_format&quot; 매개 변수가 없는 Substance은 Substance 작성자가 이 컨트롤을 사용자 지정 Substance에 추가하는 데 달려 있습니다. 이 매개 변수가 없는 Substance이 발생한 경우 표준 맵의 [텍스처 레이어]에서 녹색 채널을 뒤집어 방향을 수정할 수 있습니다.
+스톡 Substance은 DX 일반 방향을 사용하도록 제작되었습니다. 그러나 MODO는 OGL을 사용합니다. 표준 형식(Normal Format) 매개변수를 1.0으로 설정하여 표준을 뒤집을 수 있습니다. Substance 플러그인은 Substance에 설정된 매개 변수만 해석합니다. &quot;normal\_format&quot; 매개 변수가 없는 Substance은 Substance 작성자가 이 컨트롤을 사용자 지정 Substance에 추가하는 데 달려 있습니다. 이 매개 변수가 없는 Substance이 발생한 경우 노멀 맵의 텍스처 레이어에서 녹색 채널을 뒤집어 방향을 수정할 수 있습니다.
 
 >[!NOTE]
 >

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications.html"
 breadcrumb-title: ''
 description: Maya, 3ds Max, Blender 등과 같은 주요 DCC 응용 프로그램에서 Substance 파일을 가져오고 사용하는 방법을 알아봅니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/modo/copy-duplicate-substance.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/copy-duplicate-substance.html"
 breadcrumb-title: ''
 description: MODO에서 Substance 재질을 복사, 인스턴스 또는 복제하여 여러 개체에서 재질을 효율적으로 사용할 수 있습니다.
 helpx_creative_field: ""

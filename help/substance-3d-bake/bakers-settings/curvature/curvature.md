@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/bakers-settings/curvature.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/bakers-settings/curvature.html"
 breadcrumb-title: ''
 description: 메쉬에서 곡률 정보를 추출하여 형상의 캐비티와 모서리를 강조하는 텍스처를 생성합니다.
 helpx_creative_field: ""

@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/common-issues/aliasing-on-uv-seams.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-bake/common-issues/aliasing-on-uv-seams.html"
 breadcrumb-title: ''
 description: 앤티 앨리어싱 및 패딩 설정을 조정하여 베이킹 중에 UV 솔기에 나타나는 앨리어싱 아티팩트를 수정합니다.
 helpx_creative_field: ""
@@ -32,7 +32,7 @@ ht-degree: 0%
 >
 > **설명**
 > 
-> 베이커는 텍스처에 정보를 기록할 때 기하학에서 픽셀로 변환해야 합니다. 이 정보를 처리하면 [앨리어싱](https://en.wikipedia.org/wiki/Aliasing)이 발생할 수 있습니다. 앨리어싱은 UV의 형상이 픽셀 격자와 정렬되지 않거나 UV가 충분한 해상도를 제공할 수 있을 만큼 충분한 픽셀을 덮지 않기 때문에 자주 발생합니다.
+> 베이커는 텍스처에 정보를 기록할 때 기하학에서 픽셀로 변환되어야 한다. 이 정보를 처리하면 [앨리어싱](https://en.wikipedia.org/wiki/Aliasing)이 발생할 수 있습니다. 앨리어싱은 UV의 형상이 픽셀 격자와 정렬되지 않거나 UV가 충분한 해상도를 제공할 수 있을 만큼 충분한 픽셀을 덮지 않기 때문에 자주 발생합니다.
 > 
 > 다음 이미지에서 형상은 빨간색 오버레이입니다. 베이커는 표면의 절반 이상이 기하학으로 덮인 경우 픽셀을 가득 찬 것으로 표시합니다(흰색 사각형은 전체 픽셀이고 검은색 사각형은 빈 픽셀임). 오른쪽 이미지에서는 픽셀 격자가 해상도의 두 배이므로 형상을 보다 정확하게 표현할 수 있습니다.
 > 

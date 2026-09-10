@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/maya/using-workflows.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/using-workflows.html"
 breadcrumb-title: ''
 description: Maya에서 Substance 출력에 대한 렌더링 사전 설정을 만들고 사용하여 다양한 렌더러에 대한 셰이더 네트워크를 자동으로 생성합니다.
 helpx_creative_field: ""

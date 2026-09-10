@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/modo/environment-and-rendering-setup.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/modo/environment-and-rendering-setup.html"
 breadcrumb-title: ''
 description: MODO에서 환경 및 렌더링 설정을 구성하여 Substance 재질의 모양과 품질을 최적화합니다.
 helpx_creative_field: ""

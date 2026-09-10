@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/3ds-max/substance-settings.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/3ds-max/substance-settings.html"
 breadcrumb-title: ''
 description: 엔진 모드 및 기본 해상도 옵션을 포함하여 3ds Max에서 Substance 플러그인 설정을 구성합니다.
 helpx_creative_field: ""

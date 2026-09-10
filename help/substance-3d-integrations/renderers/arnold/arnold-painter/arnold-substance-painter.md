@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/arnold/arnold-substance-painter.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/renderers/arnold/arnold-substance-painter.html"
 breadcrumb-title: ''
 description: 물리적 기반 렌더링을 위해 aiStandard 재질과 함께 Arnold 렌더러용 Substance Painter 출력 템플릿을 사용합니다.
 helpx_creative_field: ""
@@ -20,7 +20,7 @@ ht-degree: 3%
 
 # 아놀드 - Substance Painter
 
-Substance Painter 2020.1(6.1.0)은 [aiStandard 재질](https://docs.arnoldrenderer.com/display/A5AFMUG/Standard+Surface)을 사용하여 아놀드용 [출력 템플릿](https://experienceleague.adobe.com/ko/docs/substance-3d-painter/using/getting-started/export/output-templates/export-presets)와 함께 제공됩니다.
+Substance Painter 2020.1(6.1.0)은 [aiStandard 재질](https://docs.arnoldrenderer.com/display/A5AFMUG/Standard+Surface)을 사용하여 아놀드용 [출력 템플릿](https://experienceleague.adobe.com/en/docs/substance-3d-painter/using/getting-started/export/output-templates/export-presets)와 함께 제공됩니다.
 
 ![](../../../assets/arnold-export.png){width="800px"}
 
