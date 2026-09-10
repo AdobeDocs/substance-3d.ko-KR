@@ -24,7 +24,7 @@ ht-degree: 0%
 
 추가됨:
 
-* 렌더러가 사용 중인지 [유휴 상태](사용 중이 아님)를 나타내는 &quot;IsProcessing()&quot; 함수
+* 렌더러가 사용 중인지 [유휴 상태] (사용 중이 아님)를 나타내는 &quot;IsProcessing()&quot; 함수
 
 수정:
 

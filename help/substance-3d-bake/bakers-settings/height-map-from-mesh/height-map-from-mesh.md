@@ -30,5 +30,5 @@ ht-degree: 8%
 
 | *매개 변수* | *설명* |
 | --- | --- |
-| ****정규화**** | 값의 Height 범위를 텍스처에 저장하는 방법을 정의합니다.가능한 값:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>광선 거리에 대한 상대</strong>:</li><li data-preserve-html="true"><strong>낮은 폴리 메시 기준(UV 타일 당)</strong>(기본값)</li><li data-preserve-html="true"><strong>최소/최대 기준(UV 타일 당)</strong></li><li data-preserve-html="true"><strong>수동</strong></li></ul> |
+| **&#x200B;**&#x200B;정규화&#x200B;**&#x200B;** | 값의 Height 범위를 텍스처에 저장하는 방법을 정의합니다.가능한 값:<ul data-preserve-html="true"><li data-preserve-html="true"><strong>광선 거리에 대한 상대</strong>:</li><li data-preserve-html="true"><strong>낮은 폴리 메시 기준(UV 타일 당)</strong>(기본값)</li><li data-preserve-html="true"><strong>최소/최대 기준(UV 타일 당)</strong></li><li data-preserve-html="true"><strong>수동</strong></li></ul> |
 | **크기 조절 제수** | Height 값을 곱하거나 나눌 정도를 정의합니다.**정규화**&#x200B;가 **수동**(으)로 설정된 경우에만 사용할 수 있습니다. |

@@ -56,7 +56,7 @@ ht-degree: 0%
 * [Substance 플러그인 제거](../../game-engines/unity/removing-plugin/removing-substance-plugin.md)
 * [Substance 3D in Unity Tutorials](../../game-engines/unity/3d-in-unity-tutorials/substance-3d-in-unity-tutorials.md)
 * [유니티의 물리적 크기](../../game-engines/unity/physical-size-in-unity/physical-size-in-unity.md)
-* [프로젝트 간 sbsar 파일 공유](https://helpx.adobe.com/sharing-sbsar-files-between-projects.html)[](../../game-engines/unity/sharing-sbsar-files-bet/sharing-sbsar-files-between-projects.md)
+* [프로젝트 간 sbsar 파일 공유](https://helpx.adobe.com/sharing-sbsar-files-between-projects.html) [&#128279;](../../game-engines/unity/sharing-sbsar-files-bet/sharing-sbsar-files-between-projects.md)
 
 **[양식 찾음 - 필요한 규칙]**
 

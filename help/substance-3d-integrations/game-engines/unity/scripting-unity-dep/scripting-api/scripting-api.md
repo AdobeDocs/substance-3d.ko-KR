@@ -51,12 +51,12 @@ ht-degree: 1%
 | **void Substance.Game.SubstanceGraph**.*SetInputTexture*( 문자열 inputName, 텍스처 2D 값) | Substance 텍스처 2D 입력 업데이트 | **문자열** *입력 이름* 매개 변수를 업데이트하는 데 사용되는 SBSAR **텍스처2D** *값*&#x200B;의 입력 이름 |
 | **텍스처 2D Substance.Game.SubstanceGraph**.*GetInputTexture*( 문자열 inputName) | Substance 텍스처 2D 입력 받기 | SBSAR의 **문자열** *입력 이름* 입력 이름 |
 | **VectorInt Substance.Game.SubstanceGraph**.*GetTexturesResolution*() | 그래프의 대상 설정 텍스처 해상도 가져오기(Vector4Int의 x = 너비, y = Height, 값은 32, 64, 128, 256, 512, 1024, 2048 및 4096일 수 있음) | 없음 |
-| **int Substance.Game.SubstanceGraph**.*SetTexturesResolution*( Vector2Int 크기) | Set the graph&#39;s Target Settings 텍스처 resolution (Vector2Int&#39;s x = width, y = Height, values can be 32, 64, 128, 256, 512, 1024, 2048 &amp; 4096) 성공할 경우 0을 반환하고, 그렇지 않으면 -1을 반환합니다. | 매개 변수를 업데이트하는 데 사용되는 **Vector2Int** *크기{3**.*** |
+| **int Substance.Game.SubstanceGraph**.*SetTexturesResolution*( Vector2Int 크기) | Set the graph&#39;s Target Settings 텍스처 resolution (Vector2Int&#39;s x = width, y = Height, values can be 32, 64, 128, 256, 512, 1024, 2048 &amp; 4096) 성공할 경우 0을 반환하고, 그렇지 않으면 -1을 반환합니다. | 매개 변수를 업데이트하는 데 사용되는 **Vector2Int** *크기&lbrace;3&#x200B;**.*** |
 | **List Substance.Game.SubstanceGraph**.*GetGeneratedTextures*() | 그래프의 질감 셰이더에 사용되는 모든 Substance 텍스처 2D 개체를 반환합니다. | 없음 |
 | **int Substance.Game.SubstanceGraph**.*굽기*( 텍스처 2D 텍스처, 문자열 absolutePath) | 그래프의 질감 셰이더에 사용되는 모든 Substance 텍스처 2D 오브젝트에 대한 .png 파일을 생성합니다. | 없음 |
-| **** Substance.게임.** SubstanceGraph**.*복제*() | Substance 그래프 복제 | 없음 |
+| **&#x200B;**&#x200B;Substance.게임.**&#x200B; SubstanceGraph**.*복제*() | Substance 그래프 복제 | 없음 |
 | **Substance.Game.SubstanceGraph**.*복제*(문자열 newGraphName) | Substance 그래프를 복제하고 이름을 지정합니다(해당 자료도 이름이 동일함) | **문자열 newGraphName** |
-| **** Substance.게임.** SubstanceGraph**.*GetInputProperties*() | 프로시저 입력 정보를 쿼리하고 :public 구조체 InputProperties { public string name; // inputName public string label; // GUIpublic string의 위젯 레이블; // GUIpublic string[] componentLabels의 위젯 그룹; // 슬라이더(최대 4개 레이블)의 경우 public string[] enumOptions; // optionMenupublic InputPropertiesType의 경우 public Vector4 maximum; // 슬라이더 퍼블릭 Vector4 minimum; // 슬라이더 퍼블릭 부동 단계의 경우 // 슬라이더 }public enum InputPropertiesType { Boolean = 0,/ 0 부동, // 1 Vector2, // 2 Vector3, // 3 Vector4, // 4 color/ 의 배열을 반환합니다. 5 열거형, // 6 텍스처, // 7 문자열, // 8 유효하지 않음 = -1// -1 }; | 없음 |
+| **&#x200B;**&#x200B;Substance.게임.**&#x200B; SubstanceGraph**.*GetInputProperties*() | 프로시저 입력 정보를 쿼리하고 :public 구조체 InputProperties { public string name; // inputName public string label; // GUIpublic string의 위젯 레이블; // GUIpublic string[] componentLabels의 위젯 그룹; // 슬라이더(최대 4개 레이블)의 경우 public string[] enumOptions; // optionMenupublic InputPropertiesType의 경우 public Vector4 maximum; // 슬라이더 퍼블릭 Vector4 minimum; // 슬라이더 퍼블릭 부동 단계의 경우 // 슬라이더 }public enum InputPropertiesType { Boolean = 0,/ 0 부동, // 1 Vector2, // 2 Vector3, // 3 Vector4, // 4 color/ 의 배열을 반환합니다. 5 열거형, // 6 텍스처, // 7 문자열, // 8 유효하지 않음 = -1// -1 }; | 없음 |
 | **bool** **Substance.Game.SubstanceGraph**.*HasInput*(**문자열** inputName) | 그래프에 입력이 있는지 확인하고 true/false를 반환합니다. | SBSAR의 **문자열** *입력 이름* 입력 이름 |
 | **bool** **Substance.Game.SubstanceGraph**.*IsInputVisible*(**문자열** inputName) | visibleif 입력이 표시되는지 확인합니다. true/false를 반환합니다. | SBSAR의 **문자열** *입력 이름* 입력 이름 |
 
@@ -65,8 +65,8 @@ ht-degree: 1%
 | Public 메서드 | 설명 | 매개변수 |
 | --- | --- | --- |
 | 공개 **void** *QueueForRender*() | 대기열에 Substance 그래프 추가 | 없음 |
-| ***mySubstance.**RenderAsync()* | 대기 중인 모든 Substance 그래프를 비동기적으로 렌더링 | 없음 |
-| ***mySubstance.**RenderSync()* | 대기 중인 모든 Substance 그래프를 동기적으로 렌더링 | 없음 |
+| ***mySubstance.**&#x200B;RenderAsync()* | 대기 중인 모든 Substance 그래프를 비동기적으로 렌더링 | 없음 |
+| ***mySubstance.**&#x200B;RenderSync()* | 대기 중인 모든 Substance 그래프를 동기적으로 렌더링 | 없음 |
 
 ## 편집기 모드에서 스크립팅:
 
