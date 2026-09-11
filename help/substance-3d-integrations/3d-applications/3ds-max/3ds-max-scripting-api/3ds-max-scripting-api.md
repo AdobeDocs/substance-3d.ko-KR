@@ -43,7 +43,7 @@ ht-degree: 2%
 | setInputBool | 새 값을 사용하여 부울 입력 설정 |  |  | ***부울 매개 변수:* 값&#x200B;**&#x200B;입력을&#x200B;***문자열 매개 변수로 설정하는 부울 값&#x200B;***: **inputIdentifier** 입력의 고유 문자열 식별자 |
 | setInputVec2 | 두 개의 요소로 벡터 입력 설정 |  |  | ***Point2 매개 변수:**&#x200B;***value** 입력을 ***String 매개 변수로 설정할 최대 point2 값&#x200B;***: **inputIdentifier** 입력의 고유 문자열 식별자 |
 | setInputVec3 | 세 가지 요소로 벡터 입력 설정 |  |  | ***Point3 매개 변수:* 값&#x200B;**&#x200B;입력을&#x200B;***String 매개 변수로 설정할 최대 point3 값&#x200B;***: **inputIdentifier** 입력의 고유 문자열 식별자 |
-| setInputVec4 | 4개 요소로 벡터 입력 설정 |  |  | ***Point4 매개 변수***: **값** 입력을 ***문자열 매개 변수:* inputIdentifier &#x200B;** 입력의 고유 문자열 식별자로 설정하는 최대 point4 값 |
+| setInputVec4 | 4개 요소로 벡터 입력 설정 |  |  | ***Point4 매개 변수***: **값** 입력을 ***문자열 매개 변수:* inputIdentifier &#x200B;** 입력의 고유 문자열 식별자로 설정할 최대 point4 값 |
 | setInputColor | 새 값으로 색상 입력 설정 |  |  | ***색상 매개 변수***: **값** 입력을 ***문자열 매개 변수:* inputIdentifier &#x200B;** 입력의 고유 문자열 식별자로 설정할 최대 색상 값 |
 | setInputComboSelection | 콤보 상자 입력에서 현재 선택한 값 설정 |  |  | ***정수 매개 변수***: 콤보 상자 위젯의 **값** 인덱스&#x200B;***문자열 매개 변수***: **inputIdentifier** 입력의 고유 문자열 식별자 |
 | getInputInt | 정수 입력 유형에 대한 입력 값 가져오기 | 입력의 현재 정수 값 | 정수 | ***문자열 매개 변수:* inputIdentifier &#x200B;** 입력의 고유 문자열 식별자입니다. |

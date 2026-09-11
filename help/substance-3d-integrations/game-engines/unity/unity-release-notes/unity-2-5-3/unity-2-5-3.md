@@ -24,9 +24,9 @@ ht-degree: 0%
 
 수정:
 
-* Specular 맵에 대한 패킹 변경 시 충돌 발생
-* 표준 3d 프로젝트의 Alpha 채널에서 Specular 맵이 패킹 Smoothness이 아닙니다.
-* 라이브러리 폴더를 삭제한 후 HDRP/HRP 프로젝트를 다시 시작할 때 충돌이 발생합니다
+* Specular 맵의 패킹 변경 시 충돌
+* 표준 3d 프로젝트의 알파 Smoothness에서 Specular 맵이 패킹 채널이 아닙니다.
+* Library 폴더를 삭제한 후 HDRP/HRP 프로젝트를 다시 시작할 때 충돌
 * 할당된 셰이더 및 질감 속성이 없는 중복된 질감
 * 장면 및 프리팹 파일에서 줄 끝 문자 변경 사항
 

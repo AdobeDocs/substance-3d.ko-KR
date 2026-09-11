@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/roblox.html"
 breadcrumb-title: ''
-description: PBR 금속성 거칠기 워크플로우가 있는 Roblox Studio의 Substance 재질을 사용하여 몰입형 3D 경험을 할 수 있습니다.
+description: PBR 금속 거칠기 워크플로가 있는 Roblox Studio의 Substance 재질을 사용하여 몰입형 3D 경험을 제작할 수 있습니다.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Roblox
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Roblox
 
-[Roblox](https://www.roblox.com/)은 몰입형 3D 멀티플레이어 경험을 위한 플랫폼입니다. Roblox Studio는 Roblox 디자인 도구로 PBR 금속 거칠기 워크플로우를 지원합니다.
+[Roblox](https://www.roblox.com/)은 몰입형 3D 멀티플레이어 경험을 위한 플랫폼입니다. Roblox 디자인 도구인 Roblox Studio는 PBR 금속 거칠기 워크플로우를 지원합니다.
 
 <table>
 <tr style="border: 0;">

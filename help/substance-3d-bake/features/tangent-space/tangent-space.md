@@ -20,9 +20,9 @@ ht-degree: 1%
 
 # 접선 공간
 
-Substance Bakers는 저폴리 메시에 있는 접선 및 이항식을 로드하거나 이를 다시 계산할 수 있습니다. 이 값을 다시 계산할 때 사용자 정의 탄젠트 공간 알고리즘을 정의할 수 있습니다(기본적으로 MikkTSpace임).
+Substance Bakers는 저폴리 메시에 있는 접선 및 이항식을 로드하거나 이를 다시 계산할 수 있습니다. 이를 다시 계산할 때 사용자 정의 접선 공간 알고리즘을 정의할 수 있습니다(기본적으로 MikkTSpace임).
 
-## 탄젠트 공간 플러그인 목록
+## 접선 공간 플러그인 목록
 
 ## Substance Painter
 
@@ -39,9 +39,9 @@ Substance Designer은 다음 알고리즘을 지원합니다.
 
 | *파일 이름* | *설명* |
 | --- | --- |
-| **mikktspace.dll** | MikkTSpace, Tangent Space 알고리즘 Morten S. Mikkelsen에 기초합니다.xNormal, Unity 5.3 이상과 호환. |
-| **mikkunrealtspace.dll** | MikkTSpace, Tangent Space 알고리즘 Morten S. Mikkelsen에 기초합니다.Unreal Engine 4, Blender 및 Unity HDRP 워크플로우와 호환됩니다. |
-| **unityspace.dll** | 유니티 4에 기반한 탄젠트 공간 알고리즘. |
+| **mikktspace.dll** | MikkTSpace, Morten S. Mikkelsen 작업에 기반한 접선 공간 알고리즘.xNormal, Unity 5.3 이상과 호환. |
+| **mikkunrealtspace.dll** | MikkTSpace, Morten S. Mikkelsen 작업에 기반한 접선 공간 알고리즘.Unreal Engine 4, Blender 및 Unity HDRP 워크플로우와 호환됩니다. |
+| **unityspace.dll** | Unity 4 기반 접선 공간 알고리즘 |
 
 >[!NOTE]
 >

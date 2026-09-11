@@ -7,7 +7,7 @@ helpx_description: Ecosystems and Plugins > 3D Applications > MODO > Working wit
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: Emissive를 사용한 작업
+title: 방출 작업
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# Emissive를 사용한 작업
+# 방출 작업
 
 ## 방출(광도 및 색상) 사용
 

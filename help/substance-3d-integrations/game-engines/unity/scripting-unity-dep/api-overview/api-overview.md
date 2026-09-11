@@ -60,9 +60,9 @@ mySubstance.SetInputFloat("wear_level", wearLevel);
 ```
 
 
-따옴표 안의 값은 Substance Designer으로 설정된 매개 변수 식별자입니다.
+따옴표 안의 값은 Substance Designer으로 설정된 매개 변수 식별자 값입니다.
 
-[유니티 관리자]에서 매개 변수 위에 마우스를 놓으면 Substance Designer에 설정된 식별자의 이름을 표시하는 도구 설명이 표시됩니다.
+[유니티 관리자]에서 매개 변수 위에 마우스를 놓으면 Substance Designer에 설정된 식별자 이름을 표시하는 도구 설명이 표시됩니다.
 
 ![](../../../../assets/tooltip-6.png)
 

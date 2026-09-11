@@ -22,6 +22,6 @@ ht-degree: 0%
 
 ## Maya 플러그인의 Substance
 
-Maxwell을 사용하여 렌더링하려면 Substance 노드에서 Maxwell 렌더링 작업 과정을 선택할 수 있습니다. 이렇게 하면 모든 텍스처가 생성되고 Maxwell 재질에 연결됩니다.
+Maxwell을 사용하여 렌더링하려면 Substance 노드에서 Maxwell 렌더링 작업 과정을 선택할 수 있습니다. 이렇게 하면 모든 텍스처가 생성되고 Maxwell 자료에 연결됩니다.
 
 ![](../../../assets/maxwell-maya.png)

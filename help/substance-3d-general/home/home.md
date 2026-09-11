@@ -33,6 +33,6 @@ ht-degree: 1%
 
 ### Adobe 표준 재질
 
-* [ASM 사양](../adobe-standard-material/asm-specifications/asm-specifications.md) - 이 페이지에서는 Adobe ASM(Standard Material) 모델의 사양을 다시 그룹화합니다.
+* [ASM 사양](../adobe-standard-material/asm-specifications/asm-specifications.md) - 이 페이지에서는 ASM(Adobe Standard Material) 모델의 사양을 다시 그룹화합니다.
 * [ASM 기술 문서](../adobe-standard-material/asm-technical-doc/asm-technical-documentation.md) - 이 페이지에서는 Adobe Standard Material에 대한 기술 정보를 다시 그룹화합니다.
 

@@ -28,7 +28,7 @@ ht-degree: 4%
   + [OpenPBR](/help/substance-3d-general/openpbr/openpbr-overview.md)
   + [자주 묻는 질문](/help/substance-3d-general/openpbr/openpbr-faq.md)
 + ASM{#asm}
-  + [Adobe Standard 재질 개요](/help/substance-3d-general/adobe-standard-material/adobe-standard-material.md)
+  + [Adobe Standard Material 개요](/help/substance-3d-general/adobe-standard-material/adobe-standard-material.md)
   + [ASM 사양](/help/substance-3d-general/adobe-standard-material/asm-specifications/asm-specifications.md)
   + [ASM 기술 문서](/help/substance-3d-general/adobe-standard-material/asm-technical-doc/asm-technical-documentation.md)
   + [금속 재료 참조](/help/substance-3d-general/adobe-standard-material/metal-material-references/metal-material-references.md)

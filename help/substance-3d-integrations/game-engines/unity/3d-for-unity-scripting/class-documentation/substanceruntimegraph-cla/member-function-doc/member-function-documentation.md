@@ -321,7 +321,7 @@ Texture2D Adobe.Substance.Runtime.SubstanceRuntimeGraph.GetOutputTexture ( strin
 
 **반환**
 
-출력 텍스처입니다.
+출력 텍스처.
 
 ### GetTexturesResolution()
 
@@ -483,7 +483,7 @@ Texture2D value ) [inline]
 ```
 
 
-Substance Texture2D 입력을 업데이트합니다.
+Substance 텍스처 2D 입력을 업데이트합니다.
 
 **매개 변수**
 

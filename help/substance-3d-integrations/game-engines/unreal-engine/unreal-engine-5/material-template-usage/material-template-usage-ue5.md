@@ -21,10 +21,10 @@ ht-degree: 0%
 # 재료 템플릿 사용 - UE5
 
 재료 템플릿을 사용하면 출력 노드를 재료의 입력에 연결하기 위한 템플릿으로 사용할 재료 기본 재질을 만들 수 있습니다.\
-재료 입력과 동일한 이름 및 유형을 공유하는 출력이 자동으로 사용됩니다. 이 상위 재질 예에는 &quot;baseColor&quot;라는 텍스처 출력이 있는 Substance의 경우 채워질 &quot;baseColor&quot; 텍스처 샘플 노드가 있습니다.\
+재료 입력과 동일한 이름 및 유형을 공유하는 출력이 자동으로 사용됩니다. 이 Parent Material 예제는 Substance에 &quot;baseColor&quot;라는 이름의 텍스처 출력이 있는 경우 채워지는 &quot;baseColor&quot; 텍스처 샘플 노드를 포함합니다.\
 ![](../../../../assets/parent-material-sample.png)
 
-Substance 출력은 텍스처, 단일 부동 소수점 또는 int 스칼라 값, 벡터(2~4) 값 업데이트를 지원합니다. 런타임에 float 또는 int 출력을 사용하려면 그래프에서 dynamicMaterialInstance를 constantMaterialInstances(편집기에서 생성된 모든 재질)로 가져와야 런타임에 스칼라 값을 변경할 수 없습니다.
+Substance 출력은 텍스처 업데이트, 단일 부동 또는 int 스칼라 값 및 벡터(2~4) 값을 지원합니다. 런타임에 float 또는 int 출력을 사용하려면 그래프에서 dynamicMaterialInstance를 constantMaterialInstances(편집기에서 생성된 모든 재질)로 가져와야 런타임에 스칼라 값을 변경할 수 없습니다.
 
 ![](https://helpx-prod.scene7.com/is/image/HelpxProd/scalar-value?$png$&jpegSize=100&wid=245)
 

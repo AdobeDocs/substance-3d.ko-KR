@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/common-questions/why-is-matching-by-name-not-working-with-ambient-occlusion-thickness.html"
 breadcrumb-title: ''
-description: 앰비언트 오클루전 및 Thickness 작성기에서 [이름별 일치]가 작동하지 않는 이유를 알아보고 대안을 찾아보십시오.
+description: 앰비언트 오클루전 및 Thickness 작성기에서 [이름별 일치]가 작동하지 않는 이유를 파악하고 대안을 찾습니다.
 helpx_creative_field: ""
 helpx_description: "bakers > Common Questions > Why is Matching by Name not working with Ambient OcclusionThickness "
 helpx_experience_level: ""
@@ -24,13 +24,13 @@ ht-degree: 0%
 >
 > **질문**
 > 
-> [공통 매개 변수](../../bakers-settings/common-parameters/common-parameters.md)에서 [이름별 일치](../../features/matching-by-name/matching-by-name.md)를 활성화하여 낮음 및 높음 폴리 메시를 필터링하고 정렬했습니다. 주변 오클루전 제빵사가 이를 무시하는 이유는 무엇입니까?
+> [공통 매개 변수](../../bakers-settings/common-parameters/common-parameters.md)에서 [이름별 일치](../../features/matching-by-name/matching-by-name.md)를 활성화하여 낮음 및 높음 폴리 메시를 필터링하고 정렬했습니다. 앰비언트 오클루전 제빵사가 이를 무시하는 이유는 무엇입니까?
 
 >[!NOTE]
 >
 > **설명**
 > 
-> 앰비언트 오클루전, Thickness 및 벤드 노멀스 베이커는 텍스처를 계산할 때 보조 광선을 실행합니다. 이러한 광선에는 고유한 [이름별 일치] 설정이 있습니다.
+> 앰비언트 오클루전, Thickness, 표준 구부리기 제빵사는 보조 광선을 계산할 때 텍스처를 시작합니다. 이러한 광선에는 고유한 [이름별 일치] 설정이 있습니다.
 
 >[!NOTE]
 >

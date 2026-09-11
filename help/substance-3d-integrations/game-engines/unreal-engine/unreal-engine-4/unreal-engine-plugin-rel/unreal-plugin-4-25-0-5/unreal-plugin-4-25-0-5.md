@@ -28,5 +28,5 @@ ht-degree: 0%
 
 수정:
 
-* UE4 Substance 플러그인이 설치된 상태에서 편집기를 닫을 때 Mac에서 UE4가 충돌함
+* UE4 충돌 플러그인이 설치된 상태에서 편집기를 닫을 때 Mac의 UE4 Substance
 * Substance 그래프 인스턴스에서 텍스트 매개 변수를 변경하면 멈춤 및 최종 충돌이 발생합니다

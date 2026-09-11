@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/maxwell/maxwell-substance-painter.html"
 breadcrumb-title: ''
-description: 적절한 Substance Painter 및 질감 설정을 사용하여 Maxwell 렌더러용 출력 템플릿 질감을 내보냅니다.
+description: 적절한 출력 템플릿 및 질감 설정을 사용하여 Maxwell 렌더러용 Substance Painter 텍스처를 내보냅니다.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Maxwell > Maxwell - Substance Painter
 helpx_experience_level: ""
@@ -20,12 +20,12 @@ ht-degree: 0%
 
 # Maxwell - Substance Painter
 
-Substance Painter 2020.1(6.1.0)은 금속/거칠기 및 Specular/광택을 위해 Maxwell [출력 템플릿](https://experienceleague.adobe.com/ko/docs/substance-3d-painter/using/getting-started/export/export)을 지원합니다. Maxwell **를 사용하여 간단하게 내보낼 수 있습니다.\
-Maxwell 5.1.0**은 Substance Painter과 통합되어 텍스처를 쉽게 가져오고 Maxwell 재질을 자동으로 설정할 수 있습니다.
+Substance Painter 2020.1(6.1.0)은 금속/거칠기 및 Specular/광택도에 대해 Maxwell [출력 템플릿](https://experienceleague.adobe.com/ko/docs/substance-3d-painter/using/getting-started/export/export)를 지원합니다. Maxwell **를 사용하여 간단하게 내보낼 수 있습니다.\
+Maxwell 5.1.0**은 텍스처를 쉽게 가져오고 Maxwell 재질을 자동으로 설정할 수 있도록 Substance Painter과 통합되었습니다.
 
 ## 텍스처 내보내기
 
-[Maxwell] (금속 거칠음) 또는 [Maxwell] (Specular 광택) 출력 템플릿을 선택하여 Maxwell에서 렌더링할 텍스처를 내보낼 수 있습니다.
+Maxwell(금속 거칠기) 또는 Maxwell(Specular 광택도) 출력 템플릿을 선택하여 Maxwell에서 렌더링할 텍스처를 내보낼 수 있습니다.
 
 ![](../../../assets/maxwell-output.png){width="500px"}
 
@@ -36,8 +36,8 @@ Maxwell의 Substance Painter 통합을 사용하여 Substance Painter에서 내�
 
 ![](https://helpx-prod.scene7.com/is/image/HelpxProd/maxwell-painter?$png$&jpegSize=100&wid=413)
 
-Substance Painter 텍스처를 내보낸 위치를 찾아 기본 색상과 같은 맵 중 하나를 선택합니다. [열기]를 클릭하면 통합은 맵이 할당된 새 Maxwell 재질을 만듭니다.\
-Substance Painter에서 내보낸 텍스처 세트가 여러 개 있는 경우 통합에서는 텍스처에 대한 이름 지정 규칙을 사용하여 일치하는 텍스처 맵을 할당합니다.
+Substance Painter 텍스처를 내보낸 위치를 찾은 다음 기본 색상과 같은 맵 중 하나를 선택합니다. [열기]를 클릭하면 통합은 맵이 할당된 새 Maxwell 재질을 만듭니다.\
+Substance Painter에서 내보낸 텍스처 세트가 여러 개 있는 경우 통합에서는 텍스처에 대한 명명 규칙을 사용하여 일치하는 텍스처 맵을 할당합니다.
 
 ![](https://helpx-prod.scene7.com/is/image/HelpxProd/image-material?$png$&jpegSize=100&wid=620){width="600px"}
 

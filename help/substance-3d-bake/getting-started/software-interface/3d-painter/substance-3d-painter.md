@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/getting-started/software-interface/substance-3d-painter.html"
 breadcrumb-title: ''
-description: Substance 3D Painter에서 베이킹 윈도우에 액세스하여 텍스처에 대한 메시 맵을 생성하는 방법을 알아봅니다.
+description: Substance 3D Painter에서 베이킹 윈도우에 액세스하여 텍스처의 메시 맵을 생성하는 방법을 알아봅니다.
 helpx_creative_field: ""
 helpx_description: bakers > Getting Started > Software Interface > Substance 3D Painter
 helpx_experience_level: ""
@@ -44,12 +44,12 @@ ht-degree: 2%
 | **표준** | 매개 변수 보기를 [일반 매개 변수](../../../bakers-settings/normal-map-from-mesh/normal-map-from-mesh.md)(으)로 변경합니다. |
 | **월드 스페이스 표준** | 매개 변수 보기를 [World Space Normal 매개 변수](../../../bakers-settings/world-space-normals/world-space-normals.md)(으)로 변경합니다. |
 | **ID** | 매개 변수 보기를 [색상 매개 변수](../../../bakers-settings/color-map-from-mesh/color-map-from-mesh.md)(으)로 변경합니다. |
-| **주변 오클루전** | 매개 변수 보기를 [주변 오클루전 매개 변수](../../../bakers-settings/ambient-occlusion-from/ambient-occlusion-from-mesh.md)(으)로 변경합니다. |
+| **앰비언트 오클루전** | 매개 변수 보기를 [앰비언트 오클루전 매개 변수](../../../bakers-settings/ambient-occlusion-from/ambient-occlusion-from-mesh.md)(으)로 변경합니다. |
 | **곡률** | 매개 변수 보기를 [곡률 매개 변수](../../../bakers-settings/curvature/curvature.md)(으)로 변경합니다. |
 | **위치** | 매개 변수 보기를 [위치 매개 변수](../../../bakers-settings/position/position.md)(으)로 변경합니다. |
 | **Thickness** | 매개 변수 보기를 [Thickness 매개 변수](../../../bakers-settings/thickness-map-from-mesh/thickness-map-from-mesh.md)(으)로 변경합니다. |
 | **Height** | 매개 변수 보기를 [Height 매개 변수](../../../bakers-settings/height-map-from-mesh/height-map-from-mesh.md)(으)로 변경합니다. |
-| **구부러진 표준** | 매개 변수 보기를 [굽은 표준 매개 변수](../../../bakers-settings/bent-normals-from-mesh/bent-normals-from-mesh.md)(으)로 변경합니다. |
+| **표준 구부리기** | 매개 변수 보기를 [표준 구부리기 매개 변수](../../../bakers-settings/bent-normals-from-mesh/bent-normals-from-mesh.md)(으)로 변경합니다. |
 | **불투명도** | 매개 변수 보기를 [불투명도 매개 변수](../../../bakers-settings/opacity-mask-from-mesh/opacity-mask-from-mesh.md)(으)로 변경합니다. |
 
 ### 매개변수

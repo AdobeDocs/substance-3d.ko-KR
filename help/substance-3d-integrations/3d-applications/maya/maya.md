@@ -30,7 +30,7 @@ ht-degree: 3%
 * [Substance 출력 노드](../../3d-applications/maya/output-node/substance-output-node.md)
 * [워크플로우 사용](../../3d-applications/maya/using-workflows/using-workflows.md)
 * [출력 작업](../../3d-applications/maya/working-with-outputs/working-with-outputs.md)
-* [시술 샘플링](../../3d-applications/maya/procedural-sampling/procedural-sampling.md)
+* [프로시저 샘플링](../../3d-applications/maya/procedural-sampling/procedural-sampling.md)
 * [사전 설정](../../3d-applications/maya/presets/presets.md)
 * [설정](../../3d-applications/maya/settings/settings.md)
 * [아놀드 지원](../../3d-applications/maya/arnold-support/arnold-support.md)

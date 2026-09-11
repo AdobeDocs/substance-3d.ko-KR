@@ -7,7 +7,7 @@ helpx_description: bakers > Common Questions > Texture baked outside of Substanc
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: Substance 소프트웨어의 외부에서 만들어진 텍스처가 잘못 보임
+title: Substance 소프트웨어의 외부에서 만들어진 텍스처가 올바르지 않음
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 4a060ee1aaa1731c04e70d5512e3271cd63d0381
@@ -18,13 +18,13 @@ ht-degree: 0%
 ---
 
 
-# Substance 소프트웨어의 외부에서 만들어진 텍스처가 잘못 보임
+# Substance 소프트웨어의 외부에서 만들어진 텍스처가 올바르지 않음
 
 >[!WARNING]
 >
 > **질문**
 > 
-> Substance Painter에서 Substance Baker가 아닌 외부 애플리케이션으로 구운 텍스처가 잘못 보이는 이유는 무엇입니까?
+> Substance Painter에서 Substance Baker가 아닌 외부 애플리케이션으로 구운 텍스처가 잘못 표시되는 이유는 무엇입니까?
 
 >[!NOTE]
 >

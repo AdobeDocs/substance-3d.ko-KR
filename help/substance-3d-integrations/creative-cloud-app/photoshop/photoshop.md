@@ -22,6 +22,6 @@ ht-degree: 0%
 
 ![](../../assets/pswhatsnewmaterialgraphic-03.jpg)
 
-Photoshop용 Substance 3D 재질 플러그인은 .sbsar 파일을 가져와 프로젝트에서 패라메트릭 재질로 사용할 수 있는 강력한 도구입니다. Substance 재질은 Photoshop의 기본 패턴에 비해 보다 고급 사용자 정의 옵션을 제공하므로 한 번의 클릭으로 사실적인 3D 텍스처를 적용하고 패턴, 색상 및 심지어 조명과 같은 설정을 미세 조정할 수 있습니다.
+Photoshop용 Substance 3D 재질 플러그인은 .sbsar 파일을 가져와 프로젝트에서 패라메트릭 재질로 사용할 수 있는 강력한 도구입니다. Substance 재질은 Photoshop의 기본 패턴에 비해 보다 진보된 맞춤화 옵션을 제공하므로 한 번의 클릭으로 사실적인 3D 텍스처를 적용하고 패턴, 색상 및 심지어 조명과 같은 설정을 세부적으로 조정할 수 있습니다.
 
 자세한 내용은 [Photoshop HelpX용 Substance 3D 자료 Adobe](https://helpx.adobe.com/photoshop/using/substance-3d-materials-for-photoshop.html)을 참조하세요.

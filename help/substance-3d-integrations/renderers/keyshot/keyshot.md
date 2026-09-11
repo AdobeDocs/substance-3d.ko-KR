@@ -24,7 +24,7 @@ ht-degree: 8%
 
 ## Substance Painter 내보내기
 
-1. 키샷의 경우 확산, 반사, 금속, 거칠기 및 표준(직접 X)을 사용하여 내보내기 사전 설정을 구성해야 합니다.
+1. Keyshot의 경우 확산, 반사, 금속, 거칠기 및 표준(직접 X)을 사용하여 내보내기 사전 설정을 구성해야 합니다.
 
    ![](https://helpx-prod.scene7.com/is/image/HelpxProd/key-01?$png$&jpegSize=300&wid=1794)
 

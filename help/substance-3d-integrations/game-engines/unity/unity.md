@@ -46,7 +46,7 @@ ht-degree: 0%
 * [프로젝트 업그레이드/알려진 문제](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/integrations/upgrading-projects-182256244.html) - Unity 플러그인의 Substance에 대해 알려진 문제
 * [Substance 그래프 관리](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/integrations/managing-and-navigating-substance-graphs-170459636.html) - SGM(Substance 그래프 관리자)을 사용하여 Substance 자료를 기반으로 새 자료를 만들 수 있습니다
 * [매개 변수 변경](../../game-engines/unity/changing-parameters/changing-parameters.md) - SGO(Substance 그래프 개체)에서 Substance 자료에 대한 매개 변수에 액세스할 수 있습니다.
-* [생성된 텍스처(패킹)](../../game-engines/unity/generated-textures-pac/generated-textures-packing.md) - 생성된 텍스처는 텍스처를 만들기 위해 Substance 엔진에서 계산한 Substance의 출력을 표시합니다
+* [생성된 텍스처(패킹)](../../game-engines/unity/generated-textures-pac/generated-textures-packing.md) - 생성된 텍스처는 Substance을 만들기 위해 Substance 엔진이 계산한 텍스처의 출력을 표시합니다
 * [색상 공간 렌더링](../../game-engines/unity/rendering-color-space/rendering-color-space.md) — 최상의 결과를 얻으려면 Unity Player 설정에서 색상 공간을 선형으로 설정해야 합니다.
 * [이미지 입력 사용](../../game-engines/unity/using-image-inputs/using-image-inputs.md)
 * [모바일용 게시](../../game-engines/unity/publishing-for-mobile/publishing-for-mobile.md) - 모바일 플랫폼용 게시 지침
@@ -78,7 +78,7 @@ ht-degree: 0%
 * [프로젝트 업그레이드/알려진 문제](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/integrations/upgrading-projects-182256244.html) - Unity 플러그인의 Substance에 대해 알려진 문제
 * [Substance 그래프 관리](https://helpx.adobe.com/kr/substance-3d/unlisted/documentation/integrations/managing-and-navigating-substance-graphs-170459636.html) - SGM(Substance 그래프 관리자)을 사용하여 Substance 자료를 기반으로 새 자료를 만들 수 있습니다
 * [매개 변수 변경](../../game-engines/unity/changing-parameters/changing-parameters.md) - SGO(Substance 그래프 개체)에서 Substance 자료에 대한 매개 변수에 액세스할 수 있습니다.
-* [생성된 텍스처(패킹)](../../game-engines/unity/generated-textures-pac/generated-textures-packing.md) - 생성된 텍스처는 텍스처를 만들기 위해 Substance 엔진에서 계산한 Substance의 출력을 표시합니다
+* [생성된 텍스처(패킹)](../../game-engines/unity/generated-textures-pac/generated-textures-packing.md) - 생성된 텍스처는 Substance을 만들기 위해 Substance 엔진이 계산한 텍스처의 출력을 표시합니다
 * [색상 공간 렌더링](../../game-engines/unity/rendering-color-space/rendering-color-space.md) — 최상의 결과를 얻으려면 Unity Player 설정에서 색상 공간을 선형으로 설정해야 합니다.
 * [이미지 입력 사용](../../game-engines/unity/using-image-inputs/using-image-inputs.md)
 * [모바일용 게시](../../game-engines/unity/publishing-for-mobile/publishing-for-mobile.md) - 모바일 플랫폼용 게시 지침

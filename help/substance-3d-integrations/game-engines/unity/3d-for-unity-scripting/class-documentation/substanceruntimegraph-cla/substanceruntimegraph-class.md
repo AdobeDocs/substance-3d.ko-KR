@@ -203,7 +203,7 @@ Substance 문자열 입력을 가져옵니다.
 ```
 
 
-Substance Texture2D 입력을 업데이트합니다.
+Substance 텍스처 2D 입력을 업데이트합니다.
 
 ```
 • Vector2Int GetTexturesResolution ()

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 # Maya 2.1.1
 
-수정: 언로드 시 subchancelink 플러그인이 더 이상 충돌하지 않음
+수정: 언로드했을 때 subchancelink 플러그인이 더 이상 충돌 상태가 아님

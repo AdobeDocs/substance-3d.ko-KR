@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/renderers/corona/corona-substance-painter.html"
 breadcrumb-title: ''
-description: Specular/광택 작업 과정과 적절한 변환을 사용하여 Corona 렌더러에 대한 Substance Painter 텍스처를 내보냅니다.
+description: Specular/광택도 워크플로와 적절한 변환을 사용하여 코로나 렌더러에 대한 Substance Painter 텍스처를 내보냅니다.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Renderers > Corona > Corona - Substance Painter
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 2%
 
 # 코로나 - Substance Painter
 
-Corona로 렌더링하는 경우에는 Substance Painter 또는 Substance 플러그인에서 내보낸 맵을 사용할 수 있습니다. Corona는 1/IOR 맵과 함께 Specular/광택 작업 과정을 사용하고 있습니다. 다음 지도가 필요합니다.
+Corona로 렌더링하는 경우에는 Substance Painter 또는 Substance 플러그인에서 내보낸 맵을 사용할 수 있습니다. Corona는 1/IOR 맵과 함께 Specular/광택도 워크플로우를 사용하고 있습니다. 다음 지도가 필요합니다.
 
 * 확산
 * 반사(Specular)

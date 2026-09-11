@@ -7,7 +7,7 @@ helpx_description: bakers > Bakers Settings > Position map from Mesh
 helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
-title: 메시에서 위치 맵
+title: 메시의 위치 맵
 user-guide-description: ''
 user-guide-title: ''
 source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
@@ -18,7 +18,7 @@ ht-degree: 0%
 ---
 
 
-# 메시에서 위치 맵
+# 메시의 위치 맵
 
 메시 베이커의 위치 맵은 높은 폴리 메시 형상의 위치를 계산하고 텍스처에 저장합니다. 베이스 포지션 베이커와 비슷하지만 보다 정확한 결과를 낼 수 있다.
 

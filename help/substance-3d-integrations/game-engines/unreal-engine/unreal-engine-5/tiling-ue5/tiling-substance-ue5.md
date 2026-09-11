@@ -1,7 +1,7 @@
 ---
 helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/game-engines/unreal-engine/unreal-engine-5/tiling-substance-ue5.html"
 breadcrumb-title: ''
-description: 텍스처 좌표 노드 및 스칼라 매개 변수를 재질에 추가하여 Unreal Engine 5에서 타일 Substance 텍스처를 만듭니다.
+description: Unreal Engine 5에서 텍스처 좌표 텍스처 및 스칼라 매개 변수를 재질에 추가하여 타일 Substance 노드를 만듭니다.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > Game Engines > Unreal Engine > Unreal Engine 5 > Tiling Substance - UE5
 helpx_experience_level: ""
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 타일링 Substance - UE5
 
-Substance 텍스처를 바둑판식으로 배열하려면 [텍스처 좌표] 노드를 추가하고 여기에 스칼라 매개 변수를 곱해야 합니다.
+Substance 텍스처를 바둑판식으로 배열하려면 텍스처 좌표 노드를 추가하고 여기에 스칼라 매개 변수를 곱해야 합니다.
 
 <https://docs.unrealengine.com/latest/INT/Engine/Rendering/Materials/ExpressionReference/Coordinates/#texturecoordinate>
 
