@@ -1,6 +1,6 @@
 ---
 helpx_url: "https://helpx.adobe.com/kr/substance-3d-bake/bakers-settings/ambient-occlusion-from-mesh.html"
-breadcrumb-title: ''
+breadcrumb-title: ""
 description: 사실감을 높이기 위해 광선 추적 기술을 사용하여 하이 폴리 메쉬에서 정확한 앰비언트 오클루전 텍스처를 굽습니다.
 helpx_creative_field: ""
 helpx_description: bakers > Bakers Settings > Ambient Occlusion from Mesh
@@ -8,15 +8,13 @@ helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
 title: 메시에서 주변 오클루전
-user-guide-description: ''
-user-guide-title: ''
+user-guide-description: ""
+user-guide-title: ""
 source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
 workflow-type: tm+mt
 source-wordcount: '531'
 ht-degree: 2%
-
 ---
-
 
 # 메시에서 주변 오클루전
 
