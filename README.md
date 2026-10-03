@@ -29,7 +29,7 @@ ht-degree: 0%
 1. &quot;이 콘텐츠가 도움이 되었습니까?&quot;에서 브라우저 창 아래쪽에 나타나는 배너는 **자세한 피드백 옵션**&#x200B;을 클릭합니다.
 1. **편집 제안**&#x200B;을 클릭하고 GitHub UI에서 변경 사항이 포함된 가져오기 요청(PR)을 제출합니다.
 
-   자세한 내용은 일반 [Adobe 문서 콘텐츠 작가 안내서](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)를 참조하세요.
+   자세한 내용은 일반 [Adobe 문서 콘텐츠 작가 안내서](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ko)를 참조하세요.
 
 이 보고서의 문서 및 코드 예제를 위해 제출하는 사소한 수정 또는 설명은 Adobe 사용 약관의 적용을 받습니다.
 
@@ -43,7 +43,7 @@ Adobe 커뮤니티의 일원이며 새 주제를 만들거나 주요 변경 사�
 
 커뮤니티 참여자는 기본 편집에 GitHub UI를 사용하거나 리포지토리를 포크하여 주요 기여를 할 수 있습니다.
 
-자세한 내용은 [Adobe 문서 콘텐츠 작가 안내서](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html)를 참조하세요.
+자세한 내용은 [Adobe 문서 콘텐츠 작가 안내서](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=ko)를 참조하세요.
 
 ## 내부 콘텐츠 작가
 
