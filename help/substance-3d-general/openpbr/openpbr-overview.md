@@ -911,7 +911,7 @@ PBR의 핵심은 빛과 표면에 대한 몇 가지 근본적인 물리적 아�
 
 실제로 PBR은 아티스트의 역할을 조명 또는 렌더러 기발함을 보상하는 것에서 벗어나 실제 특성 측면에서 재질을 설명하는 쪽으로 이동합니다. 그 결과, 수작업으로 조명 트릭을 만드는 것이 아니라 윤곽이 분명한 재질 입력에서 자연스럽게 나타나는 리얼리즘을 바탕으로 장면별 조정보다 일관성을 유지하는 워크플로우가 만들어집니다.
 
-PBR의 기술적 특성에 대한 자세한 내용은 [Wes McDermott의 PBR 가이드](https://www.adobe.com/learn/substance-3d-designer/web/the-pbr-guide-part-1)를 참조하십시오.
+PBR의 기술적 특성에 대한 자세한 내용은 [Wes McDermott의 PBR 가이드](https://www.adobe.com/kr/learn/substance-3d-designer/web/the-pbr-guide-part-1)를 참조하십시오.
 
 ## 부록 ii: OpenPBR
 

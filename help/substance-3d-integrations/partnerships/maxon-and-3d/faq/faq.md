@@ -100,7 +100,7 @@ Maxon One 구독은 정상 가격(연간 $1199 USD 또는 이에 상응하는 �
 
 Adobe Substance 3D Collection은 쿠폰 코드를 상환할 때 유효한 신용 카드를 입력하거나 구독 기간 만료 날짜 전에 account.adobe.com의 계정 관리 페이지에 신용 카드를 추가하는 경우에만 자동으로 갱신됩니다.
 
-[Adobe 구독 플랜 비교](https://www.adobe.com/creativecloud/plans.html)를 통해 Adobe Substance 3D Collection 개인 사용자 플랜의 정가를 확인합니다. 연간 구독은 선불로 결제됩니다.
+[Adobe 구독 플랜 비교](https://www.adobe.com/kr/creativecloud/plans.html)를 통해 Adobe Substance 3D Collection 개인 사용자 플랜의 정가를 확인합니다. 연간 구독은 선불로 결제됩니다.
 
 +++
 
