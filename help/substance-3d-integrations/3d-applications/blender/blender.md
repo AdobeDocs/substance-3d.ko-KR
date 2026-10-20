@@ -1,6 +1,6 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/blender.html"
-breadcrumb-title: ''
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/blender.html"
+breadcrumb-title: ""
 description: Blender용 Substance 3D 추가 기능을 설치하고 사용하여 3D 프로젝트에서 Substance 재질을 가져오고 작업할 수 있습니다.
 helpx_creative_field: ""
 helpx_description: Ecosystems and Plugins > 3D Applications > Blender
@@ -8,15 +8,13 @@ helpx_experience_level: ""
 helpx_learn_topic: ""
 helpx_tags: ""
 title: 블렌더
-user-guide-description: ''
-user-guide-title: ''
-source-git-commit: 0197b6f5f4e3ed1f2bc0e5576bd5818d04485ed5
+user-guide-description: ""
+user-guide-title: ""
+source-git-commit: aa5acd016cd1a55ab230d36352c4d3aa5514012a
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 4%
-
+source-wordcount: '66'
+ht-degree: 7%
 ---
-
 
 # 블렌더
 
@@ -35,3 +33,4 @@ ht-degree: 4%
 * [문제 해결](../../3d-applications/blender/troubleshooting/troubleshooting.md)
 * [추가 기능 제거](../../3d-applications/blender/uninstalling-the-add-on/uninstalling-the-add-on.md)
 * [블렌더 Tutorials을 위한 Substance 3D 추가 기능](../../3d-applications/blender/add-for-blender-tutorials/substance-3d-add-on-for-blender-tutorials.md)
+* [릴리스 정보](release-notes/release-notes.md)
