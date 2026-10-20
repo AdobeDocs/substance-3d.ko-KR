@@ -2,13 +2,11 @@
 user-guide-description: Substance 3D 에코시스템
 user-guide-title: Substance 3D 에코시스템
 breadcrumb-title: Substance 3D 에코시스템 사용 안내서
-source-git-commit: 64bf951de3bf8ba9ce4c74240c48bb826ce337c5
+source-git-commit: 443fe2ec6a3769c9308038fe541176ed84330500
 workflow-type: tm+mt
-source-wordcount: '813'
+source-wordcount: '818'
 ht-degree: 2%
-
 ---
-
 
 # Substance 3D 에코시스템 {#ecosystem}
 
@@ -218,6 +216,8 @@ ht-degree: 2%
   + 블렌더{#blender}
     + [블렌더 개요](/help/substance-3d-integrations/3d-applications/blender/blender.md)
     + 릴리스 정보{#release-notes}
+      + [릴리스 정보](/help/substance-3d-integrations/3d-applications/blender/release-notes/release-notes.md)
+      + [추가 기능 3.0.0+](/help/substance-3d-integrations/3d-applications/blender/release-notes/add-on-3-0-0.md)
       + [추가 기능 2.0.0+](/help/substance-3d-integrations/3d-applications/blender/release-notes/add-on-0-9-3/add-on-2-0-0-plus/add-on-2-0-0-plus.md)
       + [추가 기능 2.0.0](/help/substance-3d-integrations/3d-applications/blender/release-notes/blender-add-on-2-0-0/blender-add-on-2-0-0.md)
       + [추가 기능 1.0.2](/help/substance-3d-integrations/3d-applications/blender/release-notes/add-on-1-0-2/add-on-1-0-2.md)
@@ -245,7 +245,7 @@ ht-degree: 2%
   + [Substance 출력 변환](/help/substance-3d-integrations/renderers/converting-outputs/converting-substance-outputs.md)
   + 색상 관리{#color-management}
     + [색상 관리 개요](/help/substance-3d-integrations/renderers/color-management/color-management.md)
-    + [Maya의 텍스처 Substance](/help/substance-3d-integrations/renderers/color-management/textures-in-maya/substance-textures-in-maya.md)
+    + [Maya의 Substance 텍스처](/help/substance-3d-integrations/renderers/color-management/textures-in-maya/substance-textures-in-maya.md)
     + [최대 3ds의 텍스처 Substance](/help/substance-3d-integrations/renderers/color-management/textures-in-3ds-max/substance-textures-in-3ds-max.md)
   + 아놀드{#arnold}
     + [아놀드 개요](/help/substance-3d-integrations/renderers/arnold/arnold.md)
