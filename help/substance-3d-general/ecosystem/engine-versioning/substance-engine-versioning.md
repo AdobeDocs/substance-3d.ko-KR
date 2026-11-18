@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-general/ecosystem/substance-engine-versioning.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-general/ecosystem/substance-engine-versioning.html"
 breadcrumb-title: ""
 description: 이 참조를 사용하여 소프트웨어와 호환되는 Substance 엔진 버전을 확인하고 실질적인 호환성을 확인하십시오.
 helpx_creative_field: ""
@@ -10,9 +10,9 @@ helpx_tags: ""
 title: Substance 엔진 버전 관리
 user-guide-description: ""
 user-guide-title: ""
-source-git-commit: 4aabc9cc3e18e14f4d381cd98e2f320f07149298
+source-git-commit: 50cadc1d3d23c51ef24ab742a4eb85503db9b856
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '630'
 ht-degree: 25%
 ---
 
@@ -150,10 +150,10 @@ Substance 자료나 Substance 프로시저 모델을 소프트웨어의 현재 �
 
 ## Substance 플러그인
 
-| 플러그인 | Substance 엔진 버전 | 구조 버전 |
-| --- | --- | --- |
-| **Maya** 2.2.2 | 8.4.2 | 해당 사항 없음. |
-| **3ds 최대** 2.4.6 | 8.0.3 | 해당 사항 없음. |
-| **블렌더** | 8.4.2 | 해당 사항 없음. |
-| **통합** | 8.2.0 | 해당 사항 없음. |
-| **Unreal** | 8.0.8 | 해당 사항 없음. |
+| 플러그인 | Substance 엔진 버전 |
+| --- | --- |
+| **마야** 3.1.1 | 9.6.1 |
+| **3ds 최대** 3.1.1 | 9.6.1 |
+| **블렌더** 3.1.0 | 9.6.1 |
+| **유니티** 3.8.0 ~ 3.12.0 | 9.0.0 |
+| **언리얼** 5.8.2 | 9.5.1 |
