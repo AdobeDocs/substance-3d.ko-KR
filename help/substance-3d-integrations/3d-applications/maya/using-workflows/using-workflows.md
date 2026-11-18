@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/using-workflows.html"
+helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/maya/using-workflows.html"
 breadcrumb-title: ""
 description: Maya에서 Substance 출력에 대한 렌더링 사전 설정을 만들고 사용하여 다양한 렌더러에 대한 셰이더 네트워크를 자동으로 생성합니다.
 helpx_creative_field: ""
@@ -69,7 +69,7 @@ ht-degree: 0%
 
 ### OpenPBR 소개
 
-OpenPBR은 Adobe과 오토데스크가 개발하고 ASWF(Academy Software Foundation)에 기여한 개방형 물리적 소재 음영 모델입니다. 렌더러 간에 호환되는 통합된 재질 정의를 제공합니다. 자세한 내용은 [OpenPBR 설명서](https://experienceleague.adobe.com/en/docs/substance-3d/general-knowledge/openpbr/openpbr-overview)를 참조하십시오.
+OpenPBR은 Adobe과 오토데스크가 개발하고 ASWF(Academy Software Foundation)에 기여한 개방형 물리적 소재 음영 모델입니다. 렌더러 간에 호환되는 통합된 재질 정의를 제공합니다. 자세한 내용은 [OpenPBR 설명서](https://experienceleague.adobe.com/ko/docs/substance-3d/general-knowledge/openpbr/openpbr-overview)를 참조하십시오.
 
 ### OpenPBR 워크플로우를 사용하는 경우
 
