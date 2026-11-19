@@ -1,5 +1,5 @@
 ---
-helpx_url: "https://helpx.adobe.com/kr/substance-3d-integrations/3d-applications/maya/installation.html"
+helpx_url: "https://helpx.adobe.com/substance-3d-integrations/3d-applications/maya/installation.html"
 breadcrumb-title: ""
 description: 공식 설치 관리자를 사용하거나 Maya의 Substance 관리자를 통해 Maya용 플러그인 을 설치합니다.
 helpx_creative_field: ""
@@ -10,19 +10,13 @@ helpx_tags: ""
 title: 다운로드 및 설치
 user-guide-description: ""
 user-guide-title: ""
-source-git-commit: 28a9d8cf7a4eed4163f99e8158c9cb8f9da88302
+source-git-commit: 0b6fbb25891bf442fc52b52089422ab0f762c1ae
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '91'
 ht-degree: 0%
 ---
 
 # 다운로드 및 설치
-
-Maya 플러그인의 Substance은 Maya 설치 관리자에 기본적으로 포함됩니다.
-
-[Maya용 Substance 3D Adobe](https://substance3d.adobe.com/plugins/substance-in-maya/)에서 최신 버전의 설치 관리자를 다운로드할 수 있습니다.
-
-## 이전 플러그인 버전
 
 최신 버전의 플러그인은 Autodesk가 기본적으로 최신 호환 버전의 Maya와 배포합니다. 이전 버전에 대해 특정 빌드가 필요한 경우 아래에서 다운로드 링크를 사용할 수 있습니다
 
